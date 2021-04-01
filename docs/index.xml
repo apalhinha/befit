@@ -1,26 +1,826 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Be-Fit site comming soon</title>
+    <title>Be Fit, Move, Exercise, Workout</title>
     <link>/</link>
-    <description>Recent content on New Be-Fit site comming soon</description>
+    <description>Recent content on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 10:09:45 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 18:49:40 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>/blog/hello/</link>
-      <pubDate>Wed, 31 Mar 2021 10:09:45 +0100</pubDate>
+      <title>Wide Grip Push-up</title>
+      <link>/exercises/wide-grip-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
       
-      <guid>/blog/hello/</guid>
-      <description>Hello World. This page is online.
-Again.
-Now online 3.
-Now online 4.</description>
+      <guid>/exercises/wide-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall/floor L-Sit Position</title>
+      <link>/exercises/wall-floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Up and Down Plank</title>
+      <link>/exercises/up-and-down-plank-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/up-and-down-plank-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricep Wall Push-up</title>
+      <link>/exercises/tricep-wall-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/tricep-wall-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricep Push-up</title>
+      <link>/exercises/tricep-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/tricep-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricep Knees Push-up</title>
+      <link>/exercises/tricep-knees-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/tricep-knees-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sumo Squat</title>
+      <link>/exercises/sumo-squat-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/sumo-squat-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stair Climbing</title>
+      <link>/exercises/stair-climbing-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/stair-climbing-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat hold</title>
+      <link>/exercises/squat-hold-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/squat-hold-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat</title>
+      <link>/exercises/squat-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/squat-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sit-up</title>
+      <link>/exercises/sit-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/sit-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side Leg Raise</title>
+      <link>/exercises/side-leg-raise-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/side-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seated L-Sit Raise Legs</title>
+      <link>/exercises/seated-l-sit-raise-legs-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/seated-l-sit-raise-legs-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raised Leg Push-up</title>
+      <link>/exercises/raised-leg-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/raised-leg-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raised Leg Crunch</title>
+      <link>/exercises/raised-leg-crunch-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/raised-leg-crunch-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Push-up</title>
+      <link>/exercises/push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull-up</title>
+      <link>/exercises/pull-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pike Push-up</title>
+      <link>/exercises/pike-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/pike-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallettes L-Sit Tuck</title>
+      <link>/exercises/parallettes-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/parallettes-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Leg L-Sit</title>
+      <link>/exercises/one-leg-l-sit-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/one-leg-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative Pull-up</title>
+      <link>/exercises/negative-pull-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/negative-pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mountain Climber</title>
+      <link>/exercises/mountain-climber-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/mountain-climber-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jump Squat</title>
+      <link>/exercises/jump-squat-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/jump-squat-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heel taps</title>
+      <link>/exercises/heel-taps-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/heel-taps-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front Leg Raise</title>
+      <link>/exercises/front-leg-raise-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/front-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter Kicks</title>
+      <link>/exercises/flutter-kicks-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/flutter-kicks-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit tuck to one leg</title>
+      <link>/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Tuck</title>
+      <link>/exercises/floor-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Position</title>
+      <link>/exercises/floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Heels Support</title>
+      <link>/exercises/floor-l-sit-heels-support-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-heels-support-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Back and Forth</title>
+      <link>/exercises/floor-l-sit-back-and-forth-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-back-and-forth-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit</title>
+      <link>/exercises/floor-l-sit-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flex Hang</title>
+      <link>/exercises/flex-hang-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/flex-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finger Wall Push-up</title>
+      <link>/exercises/finger-wall-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/finger-wall-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elbow plank</title>
+      <link>/exercises/elbow-plank-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/elbow-plank-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dead Hang</title>
+      <link>/exercises/dead-hang-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/dead-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crunch</title>
+      <link>/exercises/crunch-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/crunch-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Close Grip Push-up</title>
+      <link>/exercises/close-grip-push-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/close-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chin-up</title>
+      <link>/exercises/chin-up-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/chin-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chair Tucked L-Sit</title>
+      <link>/exercises/chair-tucked-l-sit-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/chair-tucked-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calf Raise Hold</title>
+      <link>/exercises/calf-raise-hold-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/calf-raise-hold-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calf Raise</title>
+      <link>/exercises/calf-raise-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/exercises/calf-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butterfly sit-ups</title>
+      <link>/exercises/butterfly-sit-ups-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/butterfly-sit-ups-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boat Pose</title>
+      <link>/exercises/boat-pose-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/boat-pose-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bird Dog</title>
+      <link>/exercises/bird-dog-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/bird-dog-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bench single leg raise</title>
+      <link>/exercises/bench-single-leg-raise-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/bench-single-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Bike Crunch</title>
+      <link>/exercises/air-bike-crunch-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/air-bike-crunch-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Air Bike</title>
+      <link>/exercises/air-bike-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/air-bike-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Last updates</title>
+      <link>/blog/last-updates/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
+      
+      <guid>/blog/last-updates/</guid>
+      <description>&lt;p&gt;This catalog was las updated on April 01, 2021
+. Last additions are:
+
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/floor-l-sit-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/f/f-lsit_hu8347fd333860c1270d57691e6ec25cd0_71325_150x0_resize_box_2.png&#34; alt=&#34;Floor L-Sit icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/floor-l-sit-workout-exercise/&#34;&gt;Floor L-Sit&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/boat-pose-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/b/boat-pose_hubf46b5a522d9e7429fc540820d89378f_81913_150x0_resize_box_2.png&#34; alt=&#34;Boat Pose icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/boat-pose-workout-exercise/&#34;&gt;Boat Pose&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/bench-single-leg-raise-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/b/bench-leg-raise_hu68e9bf8d0adf02fc2db817aa2360fcc7_102287_150x0_resize_box_2.png&#34; alt=&#34;Bench single leg raise icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/bench-single-leg-raise-workout-exercise/&#34;&gt;Bench single leg raise&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/elbow-plank-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/e/elbow-plk_huf2c7ffeab67dd4b255d44238627c0f0f_61003_150x0_resize_box_2.png&#34; alt=&#34;Elbow plank icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/elbow-plank-workout-exercise/&#34;&gt;Elbow plank&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/parallettes-l-sit-tuck-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/l/lsit-tuck-pllt_hua1735aea1497bb9330f7c1c88f5d0a04_103292_150x0_resize_box_2.png&#34; alt=&#34;Parallettes L-Sit Tuck icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/parallettes-l-sit-tuck-workout-exercise/&#34;&gt;Parallettes L-Sit Tuck&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/floor-l-sit-back-and-forth-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/f/f-lsit-bf_huaa6f06272bfc03e70b171fbdf0bc16da_77669_150x0_resize_box_2.png&#34; alt=&#34;Floor L-Sit Back and Forth icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/floor-l-sit-back-and-forth-workout-exercise/&#34;&gt;Floor L-Sit Back and Forth&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/floor-l-sit-position-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/l/lsit-pos_hu293dafa39e8e62b853413b9faee3a9bc_69652_150x0_resize_box_2.png&#34; alt=&#34;Floor L-Sit Position icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/floor-l-sit-position-workout-exercise/&#34;&gt;Floor L-Sit Position&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/chair-tucked-l-sit-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/l/lsit-tuck-chair_hu201432c89206c9838d9cf3de526e1a62_93452_150x0_resize_box_2.png&#34; alt=&#34;Chair Tucked L-Sit icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/chair-tucked-l-sit-workout-exercise/&#34;&gt;Chair Tucked L-Sit&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>All thumbnails</title>
+      <link>/fakestatic/allimages/</link>
+      <pubDate>Sun, 19 Jul 2020 23:05:44 +0100</pubDate>
+      
+      <guid>/fakestatic/allimages/</guid>
+      <description>Hi. This is &amp;lsquo;All Thumbnails&amp;rsquo; page</description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>/blog/goals/</link>
+      <pubDate>Wed, 17 Jun 2020 10:24:50 +0100</pubDate>
+      
+      <guid>/blog/goals/</guid>
+      <description>&lt;p&gt;This site was created willing to share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An extensive collection of workout exercises that show how to make them in proper form&lt;/li&gt;
+&lt;li&gt;Related exercises and progressions, alternatives and similar ones for a given goal&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/blog/contact/</link>
+      <pubDate>Tue, 16 Jun 2020 10:14:21 +0100</pubDate>
+      
+      <guid>/blog/contact/</guid>
+      <description>&lt;p&gt;Have something to say?
+Get in touch&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/blog/about/</link>
+      <pubDate>Sun, 14 Jun 2020 19:25:36 +0100</pubDate>
+      
+      <guid>/blog/about/</guid>
+      <description>Hi.
+I spend 30+ years without any exercise. Still young, I setup my own business. From there all priorities became mixed up: Countless hours on a desk or phone, fast food, working weekends, caffeine and cigarettes along the night. My own company&amp;rsquo;s growth kept me moving.
+One day I had to run for a bus.
+Fancy shoes, nicer trousers, laptop on my back. 40 meters later my lungs were about to explode.</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>/blog/credits/</link>
+      <pubDate>Sat, 13 Jun 2020 19:29:10 +0100</pubDate>
+      
+      <guid>/blog/credits/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m standing in the shoulder of giants, as said Mr Isaac Newton, back in 1675.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

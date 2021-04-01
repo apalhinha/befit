@@ -1,26 +1,385 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on New Be-Fit site comming soon</title>
+    <title>Blogs on Be Fit, Move, Exercise, Workout</title>
     <link>/blog/</link>
-    <description>Recent content in Blogs on New Be-Fit site comming soon</description>
+    <description>Recent content in Blogs on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Mar 2021 10:09:45 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello</title>
-      <link>/blog/hello/</link>
-      <pubDate>Wed, 31 Mar 2021 10:09:45 +0100</pubDate>
+      <title>Last updates</title>
+      <link>/blog/last-updates/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       
-      <guid>/blog/hello/</guid>
-      <description>Hello World. This page is online.
-Again.
-Now online 3.
-Now online 4.</description>
+      <guid>/blog/last-updates/</guid>
+      <description>&lt;p&gt;This catalog was las updated on April 01, 2021
+. Last additions are:
+
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/floor-l-sit-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/f/f-lsit_hu8347fd333860c1270d57691e6ec25cd0_71325_150x0_resize_box_2.png&#34; alt=&#34;Floor L-Sit icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/floor-l-sit-workout-exercise/&#34;&gt;Floor L-Sit&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/boat-pose-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/b/boat-pose_hubf46b5a522d9e7429fc540820d89378f_81913_150x0_resize_box_2.png&#34; alt=&#34;Boat Pose icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/boat-pose-workout-exercise/&#34;&gt;Boat Pose&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/bench-single-leg-raise-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/b/bench-leg-raise_hu68e9bf8d0adf02fc2db817aa2360fcc7_102287_150x0_resize_box_2.png&#34; alt=&#34;Bench single leg raise icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/bench-single-leg-raise-workout-exercise/&#34;&gt;Bench single leg raise&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/elbow-plank-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/e/elbow-plk_huf2c7ffeab67dd4b255d44238627c0f0f_61003_150x0_resize_box_2.png&#34; alt=&#34;Elbow plank icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/elbow-plank-workout-exercise/&#34;&gt;Elbow plank&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/parallettes-l-sit-tuck-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/l/lsit-tuck-pllt_hua1735aea1497bb9330f7c1c88f5d0a04_103292_150x0_resize_box_2.png&#34; alt=&#34;Parallettes L-Sit Tuck icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/parallettes-l-sit-tuck-workout-exercise/&#34;&gt;Parallettes L-Sit Tuck&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/floor-l-sit-back-and-forth-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/f/f-lsit-bf_huaa6f06272bfc03e70b171fbdf0bc16da_77669_150x0_resize_box_2.png&#34; alt=&#34;Floor L-Sit Back and Forth icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/floor-l-sit-back-and-forth-workout-exercise/&#34;&gt;Floor L-Sit Back and Forth&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/floor-l-sit-position-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/l/lsit-pos_hu293dafa39e8e62b853413b9faee3a9bc_69652_150x0_resize_box_2.png&#34; alt=&#34;Floor L-Sit Position icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/floor-l-sit-position-workout-exercise/&#34;&gt;Floor L-Sit Position&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+    
+    
+&lt;div style=&#34;display: inline-block; text-align: center; width: 150px;&#34; &gt;
+
+  &lt;div style=&#34;text-align: center;&#34;&gt;
+
+    &lt;a href=&#34;/exercises/chair-tucked-l-sit-workout-exercise/&#34;&gt;
+      
+      
+      
+      
+      
+
+        
+        &lt;img src=&#34;/fakestatic/allimages/l/lsit-tuck-chair_hu201432c89206c9838d9cf3de526e1a62_93452_150x0_resize_box_2.png&#34; alt=&#34;Chair Tucked L-Sit icon&#34; width=&#34;150&#34; height=&#34;150&#34; style=&#34;&#34;&gt;
+      
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;display: inline-block; vertical-align: top; text-align: center;&#34;&gt;
+      &lt;a href=&#34;/exercises/chair-tucked-l-sit-workout-exercise/&#34;&gt;Chair Tucked L-Sit&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;br&gt;&lt;br&gt;
+
+&lt;/div&gt;
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Goals</title>
+      <link>/blog/goals/</link>
+      <pubDate>Wed, 17 Jun 2020 10:24:50 +0100</pubDate>
+      
+      <guid>/blog/goals/</guid>
+      <description>&lt;p&gt;This site was created willing to share:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An extensive collection of workout exercises that show how to make them in proper form&lt;/li&gt;
+&lt;li&gt;Related exercises and progressions, alternatives and similar ones for a given goal&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/blog/contact/</link>
+      <pubDate>Tue, 16 Jun 2020 10:14:21 +0100</pubDate>
+      
+      <guid>/blog/contact/</guid>
+      <description>&lt;p&gt;Have something to say?
+Get in touch&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/blog/about/</link>
+      <pubDate>Sun, 14 Jun 2020 19:25:36 +0100</pubDate>
+      
+      <guid>/blog/about/</guid>
+      <description>Hi.
+I spend 30+ years without any exercise. Still young, I setup my own business. From there all priorities became mixed up: Countless hours on a desk or phone, fast food, working weekends, caffeine and cigarettes along the night. My own company&amp;rsquo;s growth kept me moving.
+One day I had to run for a bus.
+Fancy shoes, nicer trousers, laptop on my back. 40 meters later my lungs were about to explode.</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>/blog/credits/</link>
+      <pubDate>Sat, 13 Jun 2020 19:29:10 +0100</pubDate>
+      
+      <guid>/blog/credits/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I&amp;rsquo;m standing in the shoulder of giants, as said Mr Isaac Newton, back in 1675.&lt;/p&gt;
+&lt;/blockquote&gt;</description>
     </item>
     
   </channel>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Back on Be Fit, Move, Exercise, Workout</title>
+    <link>/flexibilities/back/</link>
+    <description>Recent content in Back on Be Fit, Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 18:49:40 +0100</lastBuildDate>
+    
+	<atom:link href="/flexibilities/back/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wall/floor L-Sit Position</title>
+      <link>/exercises/wall-floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Position</title>
+      <link>/exercises/floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L-Sit Back and Forth</title>
+      <link>/exercises/floor-l-sit-back-and-forth-workout-exercise/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/exercises/floor-l-sit-back-and-forth-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Progressions on Be Fit, Move, Exercise, Workout</title>
+    <link>/progressions/</link>
+    <description>Recent content in Progressions on Be Fit, Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 18:49:40 +0100</lastBuildDate>
+    
+	<atom:link href="/progressions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Floor L-Sit Progression</title>
+      <link>/progressions/floor-l-sit-progression/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/progressions/floor-l-sit-progression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull-up progression</title>
+      <link>/progressions/pull-up-progression/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/progressions/pull-up-progression/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flexibilities on Be Fit, Move, Exercise, Workout</title>
+    <link>/flexibilities/</link>
+    <description>Recent content in Flexibilities on Be Fit, Move, Exercise, Workout</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 18:49:40 +0100</lastBuildDate>
+    
+	<atom:link href="/flexibilities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Back</title>
+      <link>/flexibilities/back/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/flexibilities/back/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmstring</title>
+      <link>/flexibilities/harmstring/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/flexibilities/harmstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hips</title>
+      <link>/flexibilities/hips/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/flexibilities/hips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoulder</title>
+      <link>/flexibilities/shoulder/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:40 +0100</pubDate>
+      
+      <guid>/flexibilities/shoulder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calves</title>
+      <link>/flexibilities/calves/</link>
+      <pubDate>Thu, 01 Apr 2021 18:49:39 +0100</pubDate>
+      
+      <guid>/flexibilities/calves/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,22 +3,542 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/blog/</loc>
-    <lastmod>2021-03-31T10:09:45+01:00</lastmod>
+    <loc>/exercises/wide-grip-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/hello/</loc>
-    <lastmod>2021-03-31T10:09:45+01:00</lastmod>
+    <loc>/exercises/wall-floor-l-sit-position-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/up-and-down-plank-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/tricep-wall-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/tricep-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/tricep-knees-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/sumo-squat-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/stair-climbing-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/squat-hold-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/squat-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/sit-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/side-leg-raise-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/seated-l-sit-raise-legs-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/raised-leg-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/raised-leg-crunch-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/pull-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/pike-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/parallettes-l-sit-tuck-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/one-leg-l-sit-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/negative-pull-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/mountain-climber-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/jump-squat-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/heel-taps-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/front-leg-raise-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/flutter-kicks-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/floor-l-sit-tuck-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/floor-l-sit-position-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/floor-l-sit-heels-support-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/floor-l-sit-back-and-forth-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/floor-l-sit-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/flex-hang-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/finger-wall-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/elbow-plank-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/dead-hang-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/crunch-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/close-grip-push-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/chin-up-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/chair-tucked-l-sit-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/calf-raise-hold-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/calf-raise-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/butterfly-sit-ups-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/boat-pose-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/bird-dog-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/bench-single-leg-raise-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/air-bike-crunch-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/air-bike-workout-exercise/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/abductor/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/abs/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/adductor/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/flexibilities/back/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/balance/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-03-31T10:09:45+01:00</lastmod>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/biceps/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/calves/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/cardio/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/chest/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/crunch-variations/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/equipment/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/flexibilities/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/progressions/floor-l-sit-progression/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/forearms/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/glutes/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/hamstring/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/hand/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/hanging/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/flexibilities/harmstring/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/hip-flexor/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/flexibilities/hips/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/kick-friendly/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/l-sit-friendly/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/lats/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/low-cardio/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/lowerback/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/neck/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/obliques/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/equipment/parallettes/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/plyometrics/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/progressions/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/equipment/pull-up-bar/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/pull-up-friendly/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/progressions/pull-up-progression/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/push-up-variations/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/quads/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/raising-legs/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/shoulder/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/flexibilities/shoulder/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/collections/squat-variations/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/triceps/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/muscles/upper-back/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/equipment/wall/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/yoga/</loc>
+    <lastmod>2021-04-01T18:49:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/flexibilities/calves/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/isometric/</loc>
+    <lastmod>2021-04-01T18:49:39+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/last-updates/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fakestatic/allimages/</loc>
+    <lastmod>2020-07-19T23:05:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/fakestatic/</loc>
+    <lastmod>2020-07-19T23:05:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/goals/</loc>
+    <lastmod>2020-06-17T10:24:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/contact/</loc>
+    <lastmod>2020-06-16T10:14:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/about/</loc>
+    <lastmod>2020-06-14T19:25:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/credits/</loc>
+    <lastmod>2020-06-13T19:29:10+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/exercises/</loc>
+    <lastmod>2020-03-31T17:42:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mobilities/</loc>
   </url>
   
   <url>
