@@ -1,0 +1,6 @@
+Sitemap: http://befit.space/sitemap.xml
+
+User-agent: *
+Disallow: /fakestatic/allimages/
+Disallow: /fakestatic/
+
