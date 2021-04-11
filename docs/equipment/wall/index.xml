@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wall on Be Fit, Move, Exercise, Workout</title>
-    <link>/equipment/wall/</link>
+    <link>https://befit.space/equipment/wall/</link>
     <description>Recent content in Wall on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Apr 2021 15:40:18 +0100</lastBuildDate>
     
-	<atom:link href="/equipment/wall/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://befit.space/equipment/wall/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tricep Wall Push-up</title>
-      <link>/exercises/tricep-wall-push-up-workout-exercise/</link>
+      <link>https://befit.space/exercises/tricep-wall-push-up-workout-exercise/</link>
       <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
       
-      <guid>/exercises/tricep-wall-push-up-workout-exercise/</guid>
+      <guid>https://befit.space/exercises/tricep-wall-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     

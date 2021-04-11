@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flexibilities on Be Fit, Move, Exercise, Workout</title>
-    <link>/flexibilities/</link>
+    <link>https://befit.space/flexibilities/</link>
     <description>Recent content in Flexibilities on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Apr 2021 12:02:25 +0100</lastBuildDate>
     
-	<atom:link href="/flexibilities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://befit.space/flexibilities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Back</title>
-      <link>/flexibilities/back/</link>
+      <link>https://befit.space/flexibilities/back/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/flexibilities/back/</guid>
+      <guid>https://befit.space/flexibilities/back/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calves</title>
-      <link>/flexibilities/calves/</link>
+      <link>https://befit.space/flexibilities/calves/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/flexibilities/calves/</guid>
+      <guid>https://befit.space/flexibilities/calves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Harmstring</title>
-      <link>/flexibilities/harmstring/</link>
+      <link>https://befit.space/flexibilities/harmstring/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/flexibilities/harmstring/</guid>
+      <guid>https://befit.space/flexibilities/harmstring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hips</title>
-      <link>/flexibilities/hips/</link>
+      <link>https://befit.space/flexibilities/hips/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/flexibilities/hips/</guid>
+      <guid>https://befit.space/flexibilities/hips/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shoulder</title>
-      <link>/flexibilities/shoulder/</link>
+      <link>https://befit.space/flexibilities/shoulder/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/flexibilities/shoulder/</guid>
+      <guid>https://befit.space/flexibilities/shoulder/</guid>
       <description></description>
     </item>
     

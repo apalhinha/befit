@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balance on Be Fit, Move, Exercise, Workout</title>
-    <link>/categories/balance/</link>
+    <link>https://befit.space/categories/balance/</link>
     <description>Recent content in Balance on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Apr 2021 12:02:25 +0100</lastBuildDate>
     
-	<atom:link href="/categories/balance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://befit.space/categories/balance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mountain Climber</title>
-      <link>/exercises/mountain-climber-workout-exercise/</link>
+      <link>https://befit.space/exercises/mountain-climber-workout-exercise/</link>
       <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
       
-      <guid>/exercises/mountain-climber-workout-exercise/</guid>
+      <guid>https://befit.space/exercises/mountain-climber-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Air Bike Crunch</title>
-      <link>/exercises/air-bike-crunch-workout-exercise/</link>
+      <link>https://befit.space/exercises/air-bike-crunch-workout-exercise/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/exercises/air-bike-crunch-workout-exercise/</guid>
+      <guid>https://befit.space/exercises/air-bike-crunch-workout-exercise/</guid>
       <description></description>
     </item>
     

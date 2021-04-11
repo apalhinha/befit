@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Equipment on Be Fit, Move, Exercise, Workout</title>
-    <link>/equipment/</link>
+    <link>https://befit.space/equipment/</link>
     <description>Recent content in Equipment on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Apr 2021 12:02:25 +0100</lastBuildDate>
     
-	<atom:link href="/equipment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://befit.space/equipment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pull-up Bar</title>
-      <link>/equipment/pull-up-bar/</link>
+      <link>https://befit.space/equipment/pull-up-bar/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/equipment/pull-up-bar/</guid>
+      <guid>https://befit.space/equipment/pull-up-bar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallettes</title>
-      <link>/equipment/parallettes/</link>
+      <link>https://befit.space/equipment/parallettes/</link>
       <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
       
-      <guid>/equipment/parallettes/</guid>
+      <guid>https://befit.space/equipment/parallettes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wall</title>
-      <link>/equipment/wall/</link>
+      <link>https://befit.space/equipment/wall/</link>
       <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
       
-      <guid>/equipment/wall/</guid>
+      <guid>https://befit.space/equipment/wall/</guid>
       <description></description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neck on Be Fit, Move, Exercise, Workout</title>
-    <link>/muscles/neck/</link>
+    <link>https://befit.space/muscles/neck/</link>
     <description>Recent content in Neck on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Apr 2021 12:02:25 +0100</lastBuildDate>
     
-	<atom:link href="/muscles/neck/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://befit.space/muscles/neck/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sit-up</title>
-      <link>/exercises/sit-up-workout-exercise/</link>
+      <link>https://befit.space/exercises/sit-up-workout-exercise/</link>
       <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
       
-      <guid>/exercises/sit-up-workout-exercise/</guid>
+      <guid>https://befit.space/exercises/sit-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Butterfly sit-ups</title>
-      <link>/exercises/butterfly-sit-ups-workout-exercise/</link>
+      <link>https://befit.space/exercises/butterfly-sit-ups-workout-exercise/</link>
       <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
-      <guid>/exercises/butterfly-sit-ups-workout-exercise/</guid>
+      <guid>https://befit.space/exercises/butterfly-sit-ups-workout-exercise/</guid>
       <description></description>
     </item>
     
