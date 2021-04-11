@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Apr 2021 15:40:18 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 12:02:25 +0100</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Balance</title>
       <link>/categories/balance/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
       <guid>/categories/balance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoga</title>
+      <link>/categories/yoga/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/categories/yoga/</guid>
       <description></description>
     </item>
     
@@ -53,15 +62,6 @@
       <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
       
       <guid>/categories/plyometrics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoga</title>
-      <link>/categories/yoga/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/categories/yoga/</guid>
       <description></description>
     </item>
     

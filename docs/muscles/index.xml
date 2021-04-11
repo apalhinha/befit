@@ -6,159 +6,33 @@
     <description>Recent content in Muscles on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Apr 2021 15:40:18 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 12:04:21 +0100</lastBuildDate>
     
 	<atom:link href="/muscles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Abductor</title>
-      <link>/muscles/abductor/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/abductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Abs</title>
       <link>/muscles/abs/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 12:04:21 +0100</pubDate>
       
       <guid>/muscles/abs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adductor</title>
-      <link>/muscles/adductor/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/adductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biceps</title>
-      <link>/muscles/biceps/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/biceps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calves</title>
-      <link>/muscles/calves/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/calves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chest</title>
-      <link>/muscles/chest/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/chest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forearms</title>
-      <link>/muscles/forearms/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/forearms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Glutes</title>
-      <link>/muscles/glutes/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/glutes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hamstring</title>
-      <link>/muscles/hamstring/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/hamstring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hand</title>
-      <link>/muscles/hand/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/hand/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hip Flexor</title>
       <link>/muscles/hip-flexor/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 12:04:21 +0100</pubDate>
       
       <guid>/muscles/hip-flexor/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Lats</title>
-      <link>/muscles/lats/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/lats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lowerback</title>
-      <link>/muscles/lowerback/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/lowerback/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neck</title>
-      <link>/muscles/neck/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/neck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Obliques</title>
-      <link>/muscles/obliques/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/obliques/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quads</title>
-      <link>/muscles/quads/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
-      
-      <guid>/muscles/quads/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Shoulder</title>
       <link>/muscles/shoulder/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 12:04:21 +0100</pubDate>
       
       <guid>/muscles/shoulder/</guid>
       <description></description>
@@ -167,16 +41,142 @@
     <item>
       <title>Triceps</title>
       <link>/muscles/triceps/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 12:04:21 +0100</pubDate>
       
       <guid>/muscles/triceps/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Abductor</title>
+      <link>/muscles/abductor/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/abductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adductor</title>
+      <link>/muscles/adductor/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/adductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biceps</title>
+      <link>/muscles/biceps/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/biceps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calves</title>
+      <link>/muscles/calves/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/calves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chest</title>
+      <link>/muscles/chest/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/chest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forearms</title>
+      <link>/muscles/forearms/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/forearms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutes</title>
+      <link>/muscles/glutes/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/glutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamstring</title>
+      <link>/muscles/hamstring/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/hamstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand</title>
+      <link>/muscles/hand/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lats</title>
+      <link>/muscles/lats/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/lats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lowerback</title>
+      <link>/muscles/lowerback/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/lowerback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neck</title>
+      <link>/muscles/neck/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/neck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obliques</title>
+      <link>/muscles/obliques/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/obliques/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quads</title>
+      <link>/muscles/quads/</link>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
+      
+      <guid>/muscles/quads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Upper Back</title>
       <link>/muscles/upper-back/</link>
-      <pubDate>Sat, 10 Apr 2021 15:40:18 +0100</pubDate>
+      <pubDate>Sun, 11 Apr 2021 12:02:25 +0100</pubDate>
       
       <guid>/muscles/upper-back/</guid>
       <description></description>
