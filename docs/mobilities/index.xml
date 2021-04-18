@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobilities on Be Fit, Move, Exercise, Workout</title>
-    <link>https://befit.space/mobilities/</link>
+    <link>https://mover.tips/mobilities/</link>
     <description>Recent content in Mobilities on Be Fit, Move, Exercise, Workout</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://befit.space/mobilities/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mover.tips/mobilities/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
