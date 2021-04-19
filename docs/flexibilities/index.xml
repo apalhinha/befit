@@ -6,42 +6,33 @@
     <description>Recent content in Flexibilities on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 11:24:11 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 10:21:08 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/flexibilities/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Calves</title>
-      <link>https://mover.tips/flexibilities/calves/</link>
-      <pubDate>Sun, 18 Apr 2021 11:24:11 +0100</pubDate>
-      
-      <guid>https://mover.tips/flexibilities/calves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shoulder</title>
-      <link>https://mover.tips/flexibilities/shoulder/</link>
-      <pubDate>Sun, 18 Apr 2021 11:24:11 +0100</pubDate>
-      
-      <guid>https://mover.tips/flexibilities/shoulder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Back</title>
       <link>https://mover.tips/flexibilities/back/</link>
-      <pubDate>Mon, 12 Apr 2021 11:15:05 +0100</pubDate>
+      <pubDate>Mon, 19 Apr 2021 10:21:08 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/back/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Calves</title>
+      <link>https://mover.tips/flexibilities/calves/</link>
+      <pubDate>Mon, 19 Apr 2021 10:21:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/flexibilities/calves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Harmstring</title>
       <link>https://mover.tips/flexibilities/harmstring/</link>
-      <pubDate>Mon, 12 Apr 2021 11:15:05 +0100</pubDate>
+      <pubDate>Mon, 19 Apr 2021 10:21:08 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/harmstring/</guid>
       <description></description>
@@ -50,9 +41,18 @@
     <item>
       <title>Hips</title>
       <link>https://mover.tips/flexibilities/hips/</link>
-      <pubDate>Mon, 12 Apr 2021 11:15:05 +0100</pubDate>
+      <pubDate>Mon, 19 Apr 2021 10:21:08 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/hips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shoulder</title>
+      <link>https://mover.tips/flexibilities/shoulder/</link>
+      <pubDate>Mon, 19 Apr 2021 10:21:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/flexibilities/shoulder/</guid>
       <description></description>
     </item>
     
