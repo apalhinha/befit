@@ -1,4 +1,4 @@
-Sitemap: http://befit.space/sitemap.xml
+Sitemap: https://mover.tips//sitemap.xml
 
 User-agent: *
 Disallow: /maintenance/
