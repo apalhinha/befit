@@ -6,7 +6,7 @@
     <description>Recent content in Flexibilities on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 May 2021 09:24:51 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 09:55:47 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/flexibilities/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Back</title>
       <link>https://mover.tips/flexibilities/back/</link>
-      <pubDate>Sat, 08 May 2021 09:24:51 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/back/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Calves</title>
+      <link>https://mover.tips/flexibilities/calves/</link>
+      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
+      
+      <guid>https://mover.tips/flexibilities/calves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Harmstring</title>
       <link>https://mover.tips/flexibilities/harmstring/</link>
-      <pubDate>Sat, 08 May 2021 09:24:51 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/harmstring/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Hips</title>
       <link>https://mover.tips/flexibilities/hips/</link>
-      <pubDate>Sat, 08 May 2021 09:24:51 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/hips/</guid>
       <description></description>
@@ -41,18 +50,9 @@
     <item>
       <title>Shoulder</title>
       <link>https://mover.tips/flexibilities/shoulder/</link>
-      <pubDate>Sat, 08 May 2021 09:24:51 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/shoulder/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calves</title>
-      <link>https://mover.tips/flexibilities/calves/</link>
-      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
-      
-      <guid>https://mover.tips/flexibilities/calves/</guid>
       <description></description>
     </item>
     
