@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 May 2021 12:54:45 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 09:24:51 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Yoga</title>
+      <link>https://mover.tips/categories/yoga/</link>
+      <pubDate>Sat, 08 May 2021 09:24:51 +0100</pubDate>
+      
+      <guid>https://mover.tips/categories/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Balance</title>
       <link>https://mover.tips/categories/balance/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
       
       <guid>https://mover.tips/categories/balance/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Cardio</title>
       <link>https://mover.tips/categories/cardio/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
       
       <guid>https://mover.tips/categories/cardio/</guid>
       <description></description>
@@ -32,7 +41,7 @@
     <item>
       <title>Isometric</title>
       <link>https://mover.tips/categories/isometric/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
       
       <guid>https://mover.tips/categories/isometric/</guid>
       <description></description>
@@ -41,7 +50,7 @@
     <item>
       <title>Low Cardio</title>
       <link>https://mover.tips/categories/low-cardio/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
       
       <guid>https://mover.tips/categories/low-cardio/</guid>
       <description></description>
@@ -50,7 +59,7 @@
     <item>
       <title>Plyometrics</title>
       <link>https://mover.tips/categories/plyometrics/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
       
       <guid>https://mover.tips/categories/plyometrics/</guid>
       <description></description>
@@ -59,18 +68,9 @@
     <item>
       <title>Strength</title>
       <link>https://mover.tips/categories/strength/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
+      <pubDate>Sat, 08 May 2021 09:24:50 +0100</pubDate>
       
       <guid>https://mover.tips/categories/strength/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yoga</title>
-      <link>https://mover.tips/categories/yoga/</link>
-      <pubDate>Thu, 06 May 2021 12:54:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/categories/yoga/</guid>
       <description></description>
     </item>
     
