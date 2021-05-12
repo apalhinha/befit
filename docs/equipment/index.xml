@@ -6,7 +6,7 @@
     <description>Recent content in Equipment on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 20:04:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 21:54:56 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Floor</title>
       <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Tue, 11 May 2021 20:04:21 +0100</pubDate>
+      <pubDate>Wed, 12 May 2021 21:54:56 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/floor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallettes</title>
+      <link>https://mover.tips/equipment/parallettes/</link>
+      <pubDate>Wed, 12 May 2021 21:54:56 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/parallettes/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Tue, 11 May 2021 20:04:21 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/parallel-bar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallettes</title>
-      <link>https://mover.tips/equipment/parallettes/</link>
-      <pubDate>Tue, 11 May 2021 20:04:21 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/parallettes/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,19 @@
     <description>Recent content in Collections on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 May 2021 20:04:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 22:25:52 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/collections/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Raising Legs</title>
+      <link>https://mover.tips/collections/raising-legs/</link>
+      <pubDate>Wed, 12 May 2021 22:25:52 +0100</pubDate>
+      
+      <guid>https://mover.tips/collections/raising-legs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>L-Sit Friendly</title>
@@ -18,15 +27,6 @@
       
       <guid>https://mover.tips/collections/l-sit-friendly/</guid>
       <description>These are L-Sit friendly exercises.</description>
-    </item>
-    
-    <item>
-      <title>Raising Legs</title>
-      <link>https://mover.tips/collections/raising-legs/</link>
-      <pubDate>Sun, 09 May 2021 19:01:41 +0100</pubDate>
-      
-      <guid>https://mover.tips/collections/raising-legs/</guid>
-      <description></description>
     </item>
     
     <item>
