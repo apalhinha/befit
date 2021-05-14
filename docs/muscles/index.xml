@@ -6,7 +6,7 @@
     <description>Recent content in Muscles on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 May 2021 23:08:45 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 09:09:21 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/muscles/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>Abs</title>
       <link>https://mover.tips/muscles/abs/</link>
-      <pubDate>Wed, 12 May 2021 23:08:45 +0100</pubDate>
+      <pubDate>Fri, 14 May 2021 09:09:21 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/abs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamstring</title>
+      <link>https://mover.tips/muscles/hamstring/</link>
+      <pubDate>Fri, 14 May 2021 09:09:21 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/hamstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quads</title>
+      <link>https://mover.tips/muscles/quads/</link>
+      <pubDate>Fri, 14 May 2021 09:09:21 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/quads/</guid>
       <description></description>
     </item>
     
@@ -62,15 +80,6 @@
       <pubDate>Wed, 12 May 2021 23:08:45 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/obliques/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quads</title>
-      <link>https://mover.tips/muscles/quads/</link>
-      <pubDate>Wed, 12 May 2021 23:08:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/quads/</guid>
       <description></description>
     </item>
     
@@ -152,15 +161,6 @@
       <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/calves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hamstring</title>
-      <link>https://mover.tips/muscles/hamstring/</link>
-      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/hamstring/</guid>
       <description></description>
     </item>
     
