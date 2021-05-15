@@ -6,15 +6,33 @@
     <description>Recent content in Equipment on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 May 2021 09:12:01 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 15 May 2021 12:26:20 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Chair</title>
+      <link>https://mover.tips/equipment/chair/</link>
+      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/chair/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor</title>
+      <link>https://mover.tips/equipment/floor/</link>
+      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/floor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Parallel Bar</title>
       <link>https://mover.tips/equipment/parallel-bar/</link>
-      <pubDate>Fri, 14 May 2021 09:12:01 +0100</pubDate>
+      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/parallel-bar/</guid>
       <description></description>
@@ -23,45 +41,27 @@
     <item>
       <title>Parallettes</title>
       <link>https://mover.tips/equipment/parallettes/</link>
-      <pubDate>Fri, 14 May 2021 09:12:01 +0100</pubDate>
+      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/parallettes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Floor</title>
-      <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Wed, 12 May 2021 21:54:56 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/floor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wall</title>
-      <link>https://mover.tips/equipment/wall/</link>
-      <pubDate>Sun, 09 May 2021 19:01:41 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/wall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pull-up Bar</title>
       <link>https://mover.tips/equipment/pull-up-bar/</link>
-      <pubDate>Sun, 09 May 2021 18:42:20 +0100</pubDate>
+      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/pull-up-bar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Chair</title>
-      <link>https://mover.tips/equipment/chair/</link>
-      <pubDate>Sat, 08 May 2021 09:55:47 +0100</pubDate>
+      <title>Wall</title>
+      <link>https://mover.tips/equipment/wall/</link>
+      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
       
-      <guid>https://mover.tips/equipment/chair/</guid>
+      <guid>https://mover.tips/equipment/wall/</guid>
       <description></description>
     </item>
     
