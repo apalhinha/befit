@@ -6,15 +6,24 @@
     <description>Recent content in Equipment on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 May 2021 12:26:20 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 09:55:12 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Parallettes</title>
+      <link>https://mover.tips/equipment/parallettes/</link>
+      <pubDate>Fri, 12 Nov 2021 09:55:12 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/parallettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chair</title>
       <link>https://mover.tips/equipment/chair/</link>
-      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      <pubDate>Fri, 12 Nov 2021 09:12:14 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/chair/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>Floor</title>
       <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      <pubDate>Fri, 12 Nov 2021 09:12:14 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/floor/</guid>
       <description></description>
@@ -32,25 +41,25 @@
     <item>
       <title>Parallel Bar</title>
       <link>https://mover.tips/equipment/parallel-bar/</link>
-      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      <pubDate>Fri, 12 Nov 2021 09:12:14 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/parallel-bar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Parallettes</title>
-      <link>https://mover.tips/equipment/parallettes/</link>
-      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      <title>Slider</title>
+      <link>https://mover.tips/equipment/slider/</link>
+      <pubDate>Fri, 12 Nov 2021 09:12:14 +0100</pubDate>
       
-      <guid>https://mover.tips/equipment/parallettes/</guid>
+      <guid>https://mover.tips/equipment/slider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pull-up Bar</title>
       <link>https://mover.tips/equipment/pull-up-bar/</link>
-      <pubDate>Sat, 15 May 2021 12:26:20 +0100</pubDate>
+      <pubDate>Fri, 12 Nov 2021 09:12:13 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/pull-up-bar/</guid>
       <description></description>
