@@ -6,10 +6,19 @@
     <description>Recent content in Equipment on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Nov 2021 11:37:14 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Parallettes</title>
+      <link>https://mover.tips/equipment/parallettes/</link>
+      <pubDate>Sat, 27 Nov 2021 19:25:36 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/parallettes/</guid>
+      <description>Parallettes are a simple piece of equipment that allows many strength exercises, either full body or upper body focused.</description>
+    </item>
     
     <item>
       <title>Wall</title>
@@ -44,15 +53,6 @@
       <pubDate>Sun, 14 Nov 2021 10:55:25 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/floor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallettes</title>
-      <link>https://mover.tips/equipment/parallettes/</link>
-      <pubDate>Sun, 14 Nov 2021 10:55:25 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/parallettes/</guid>
       <description></description>
     </item>
     
