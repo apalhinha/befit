@@ -6,7 +6,7 @@
     <description>Recent content in Muscles on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Dec 2021 16:39:33 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 19:31:46 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/muscles/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,70 +14,16 @@
     <item>
       <title>Chest</title>
       <link>https://mover.tips/muscles/chest/</link>
-      <pubDate>Wed, 01 Dec 2021 16:39:33 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/chest/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Obliques</title>
-      <link>https://mover.tips/muscles/obliques/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:54 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/obliques/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Triceps</title>
-      <link>https://mover.tips/muscles/triceps/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:54 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/triceps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Abductor</title>
-      <link>https://mover.tips/muscles/abductor/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/abductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adductor</title>
-      <link>https://mover.tips/muscles/adductor/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/adductor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Calves</title>
-      <link>https://mover.tips/muscles/calves/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/calves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forearms</title>
-      <link>https://mover.tips/muscles/forearms/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/forearms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Glutes</title>
       <link>https://mover.tips/muscles/glutes/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/glutes/</guid>
       <description></description>
@@ -86,25 +32,25 @@
     <item>
       <title>Hamstring</title>
       <link>https://mover.tips/muscles/hamstring/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/hamstring/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hand</title>
-      <link>https://mover.tips/muscles/hand/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <title>Hip Adductor</title>
+      <link>https://mover.tips/muscles/hip-adductor/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
-      <guid>https://mover.tips/muscles/hand/</guid>
+      <guid>https://mover.tips/muscles/hip-adductor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hip Flexor</title>
       <link>https://mover.tips/muscles/hip-flexor/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/hip-flexor/</guid>
       <description></description>
@@ -113,7 +59,7 @@
     <item>
       <title>Lats</title>
       <link>https://mover.tips/muscles/lats/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/lats/</guid>
       <description></description>
@@ -122,34 +68,79 @@
     <item>
       <title>Lowerback</title>
       <link>https://mover.tips/muscles/lowerback/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/lowerback/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Neck</title>
-      <link>https://mover.tips/muscles/neck/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <title>Obliques</title>
+      <link>https://mover.tips/muscles/obliques/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
-      <guid>https://mover.tips/muscles/neck/</guid>
+      <guid>https://mover.tips/muscles/obliques/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quads</title>
       <link>https://mover.tips/muscles/quads/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/quads/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Triceps</title>
+      <link>https://mover.tips/muscles/triceps/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:46 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/triceps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forearms</title>
+      <link>https://mover.tips/muscles/forearms/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:45 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/forearms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand</title>
+      <link>https://mover.tips/muscles/hand/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:45 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/hand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hip Abductor</title>
+      <link>https://mover.tips/muscles/hip-abductor/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:45 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/hip-abductor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neck</title>
+      <link>https://mover.tips/muscles/neck/</link>
+      <pubDate>Wed, 01 Dec 2021 19:31:45 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/neck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Upper Back</title>
       <link>https://mover.tips/muscles/upper-back/</link>
-      <pubDate>Wed, 01 Dec 2021 16:30:53 +0100</pubDate>
+      <pubDate>Wed, 01 Dec 2021 19:31:45 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/upper-back/</guid>
       <description></description>
@@ -170,6 +161,15 @@
       <pubDate>Sat, 27 Nov 2021 19:25:36 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/biceps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calves</title>
+      <link>https://mover.tips/muscles/calves/</link>
+      <pubDate>Sat, 27 Nov 2021 19:25:36 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/calves/</guid>
       <description></description>
     </item>
     
