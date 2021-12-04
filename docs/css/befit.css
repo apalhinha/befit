@@ -15,3 +15,15 @@ h3   {font-size: 1.0rem;}
 .flex-child-text {
   flex: 1;
 }
+
+.exercise_outer {
+  display: inline-block;
+  text-align: center;
+  width: 150px;
+  border: 1px solid red;
+}
+
+.exercise_outer .pic {
+  text-align: center;
+  width: 150px;
+}
