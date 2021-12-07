@@ -12,27 +12,9 @@
     
     
     <item>
-      <title>Collections</title>
-      <link>https://mover.tips/categories/collections/</link>
-      <pubDate>Wed, 01 Dec 2021 22:07:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/categories/collections/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knee Push-ups</title>
-      <link>https://mover.tips/categories/knee-push-ups/</link>
-      <pubDate>Wed, 01 Dec 2021 22:07:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/categories/knee-push-ups/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Calisthenics</title>
       <link>https://mover.tips/categories/calisthenics/</link>
-      <pubDate>Wed, 01 Dec 2021 21:04:14 +0100</pubDate>
+      <pubDate>Mon, 06 Dec 2021 19:25:36 +0100</pubDate>
       
       <guid>https://mover.tips/categories/calisthenics/</guid>
       <description></description>
@@ -41,16 +23,34 @@
     <item>
       <title>Cardio</title>
       <link>https://mover.tips/categories/cardio/</link>
-      <pubDate>Wed, 01 Dec 2021 21:04:13 +0100</pubDate>
+      <pubDate>Mon, 06 Dec 2021 19:25:36 +0100</pubDate>
       
       <guid>https://mover.tips/categories/cardio/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Isometric</title>
+      <link>https://mover.tips/categories/isometric/</link>
+      <pubDate>Mon, 06 Dec 2021 19:25:36 +0100</pubDate>
+      
+      <guid>https://mover.tips/categories/isometric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Cardio</title>
+      <link>https://mover.tips/categories/low-cardio/</link>
+      <pubDate>Mon, 06 Dec 2021 19:25:36 +0100</pubDate>
+      
+      <guid>https://mover.tips/categories/low-cardio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plyometrics</title>
       <link>https://mover.tips/categories/plyometrics/</link>
-      <pubDate>Wed, 01 Dec 2021 21:04:13 +0100</pubDate>
+      <pubDate>Mon, 06 Dec 2021 19:25:36 +0100</pubDate>
       
       <guid>https://mover.tips/categories/plyometrics/</guid>
       <description></description>
@@ -59,7 +59,7 @@
     <item>
       <title>Strength</title>
       <link>https://mover.tips/categories/strength/</link>
-      <pubDate>Wed, 01 Dec 2021 21:04:13 +0100</pubDate>
+      <pubDate>Sun, 05 Dec 2021 20:30:59 +0100</pubDate>
       
       <guid>https://mover.tips/categories/strength/</guid>
       <description></description>
@@ -68,27 +68,9 @@
     <item>
       <title>Yoga</title>
       <link>https://mover.tips/categories/yoga/</link>
-      <pubDate>Wed, 01 Dec 2021 21:04:13 +0100</pubDate>
+      <pubDate>Sun, 05 Dec 2021 20:30:59 +0100</pubDate>
       
       <guid>https://mover.tips/categories/yoga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low Cardio</title>
-      <link>https://mover.tips/categories/low-cardio/</link>
-      <pubDate>Wed, 01 Dec 2021 19:31:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/categories/low-cardio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Isometric</title>
-      <link>https://mover.tips/categories/isometric/</link>
-      <pubDate>Wed, 01 Dec 2021 19:31:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/categories/isometric/</guid>
       <description></description>
     </item>
     

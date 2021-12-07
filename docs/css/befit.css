@@ -16,14 +16,18 @@ h3   {font-size: 1.0rem;}
   flex: 1;
 }
 
-.exercise_outer {
+.ex-outer {
   display: inline-block;
-  text-align: center;
-  width: 150px;
-  border: 1px solid red;
+  vertical-align: top;
+  margin: 20px 30px 20px 0px;
 }
 
-.exercise_outer .pic {
+.ex-pic {
+  /* text-align: center; */
+  width: 120px;
+}
+
+.ex-name {
+  width: 120px;
   text-align: center;
-  width: 150px;
 }
