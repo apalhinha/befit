@@ -6,7 +6,7 @@
     <description>Recent content in Equipment on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Dec 2021 21:21:07 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 11 Dec 2021 10:51:35 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Floor</title>
       <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Wed, 08 Dec 2021 21:21:07 +0100</pubDate>
+      <pubDate>Sat, 11 Dec 2021 10:51:35 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/floor/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Parallel Bar</title>
+      <link>https://mover.tips/equipment/parallel-bar/</link>
+      <pubDate>Sat, 11 Dec 2021 10:51:34 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/parallel-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pull-up Bar</title>
       <link>https://mover.tips/equipment/pull-up-bar/</link>
-      <pubDate>Wed, 08 Dec 2021 21:21:06 +0100</pubDate>
+      <pubDate>Sat, 11 Dec 2021 10:51:33 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/pull-up-bar/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Wed, 08 Dec 2021 21:21:06 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/wall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Bar</title>
-      <link>https://mover.tips/equipment/parallel-bar/</link>
-      <pubDate>Wed, 01 Dec 2021 21:04:14 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/parallel-bar/</guid>
       <description></description>
     </item>
     

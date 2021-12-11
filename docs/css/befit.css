@@ -20,15 +20,15 @@ h3   {font-size: 1.0rem;}
   display: inline-block;
   vertical-align: top;
   /* top right bottom left */
-  margin: 20px 15px 20px 0px;
+  margin: 20px 12px 20px 0px;
 }
 
 .ex-pic {
   /* text-align: center; */
-  width: 120px;
+  width: 110px;
 }
 
 .ex-name {
-  width: 120px;
+  width: 110px;
   text-align: center;
 }
