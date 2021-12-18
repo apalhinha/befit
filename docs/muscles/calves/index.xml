@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Calves on Move, Exercise, Workout - Tips and Howto</title>
+    <link>https://mover.tips/muscles/calves/</link>
+    <description>Recent content in Calves on Move, Exercise, Workout - Tips and Howto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://mover.tips/muscles/calves/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Xample Calves</title>
+      <link>https://mover.tips/exercises/xample-calves-workout-exercise/</link>
+      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/xample-calves-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stair Climbing</title>
+      <link>https://mover.tips/exercises/stair-climbing-workout-exercise/</link>
+      <pubDate>Sun, 12 Dec 2021 11:16:41 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/stair-climbing-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calf Raise Hold</title>
+      <link>https://mover.tips/exercises/calf-raise-hold-workout-exercise/</link>
+      <pubDate>Sun, 12 Dec 2021 11:16:42 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/calf-raise-hold-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calf Raise</title>
+      <link>https://mover.tips/exercises/calf-raise-workout-exercise/</link>
+      <pubDate>Sun, 12 Dec 2021 11:16:41 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/calf-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
