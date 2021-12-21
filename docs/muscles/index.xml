@@ -6,33 +6,15 @@
     <description>Recent content in Muscles on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Dec 2021 16:13:02 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 19:33:56 +0100</lastBuildDate>
     
 	<atom:link href="https://mover.tips/muscles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Core</title>
-      <link>https://mover.tips/muscles/core/</link>
-      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/core/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Core Lower Body</title>
-      <link>https://mover.tips/muscles/core-lower-body/</link>
-      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/muscles/core-lower-body/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Core Upper Body</title>
       <link>https://mover.tips/muscles/core-upper-body/</link>
-      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
+      <pubDate>Tue, 21 Dec 2021 19:33:56 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/core-upper-body/</guid>
       <description></description>
@@ -41,7 +23,7 @@
     <item>
       <title>Full Body</title>
       <link>https://mover.tips/muscles/full-body/</link>
-      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
+      <pubDate>Tue, 21 Dec 2021 19:33:56 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/full-body/</guid>
       <description></description>
@@ -50,18 +32,18 @@
     <item>
       <title>Lower Body</title>
       <link>https://mover.tips/muscles/lower-body/</link>
-      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
+      <pubDate>Tue, 21 Dec 2021 19:33:56 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/lower-body/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Upper Body</title>
-      <link>https://mover.tips/muscles/upper-body/</link>
-      <pubDate>Sun, 12 Dec 2021 11:16:43 +0100</pubDate>
+      <title>Core Lower Body</title>
+      <link>https://mover.tips/muscles/core-lower-body/</link>
+      <pubDate>Tue, 21 Dec 2021 19:33:54 +0100</pubDate>
       
-      <guid>https://mover.tips/muscles/upper-body/</guid>
+      <guid>https://mover.tips/muscles/core-lower-body/</guid>
       <description></description>
     </item>
     
@@ -71,6 +53,15 @@
       <pubDate>Tue, 07 Dec 2021 19:25:36 +0100</pubDate>
       
       <guid>https://mover.tips/muscles/abs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upper Body</title>
+      <link>https://mover.tips/muscles/upper-body/</link>
+      <pubDate>Tue, 07 Dec 2021 19:25:36 +0100</pubDate>
+      
+      <guid>https://mover.tips/muscles/upper-body/</guid>
       <description></description>
     </item>
     
