@@ -11,7 +11,9 @@ p   {margin-top: 0.5rem;  margin-bottom: 0.5rem; }
 }
 
 .flex-child-pic {
-    width: 180px;
+    width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
+    /* top right bottom left */
+    margin: 0px 20px 0px 0px;
     /*border: 2px solid yellow;*/
 }
 
@@ -28,10 +30,10 @@ p   {margin-top: 0.5rem;  margin-bottom: 0.5rem; }
 
 .ex-pic {
   /* text-align: center; */
-  width: 105px; /* Mesmo numero que no .ex-name abaixo e no config.toml/Params/mover_pic_width */
+  width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
 }
 
 .ex-name {
-  width: 105px; /* Mesmo numero que no .ex-pic acima e no config.toml/Params/mover_pic_width */
+  width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
   text-align: center;
 }
