@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kick Friendly on Move, Exercise, Workout - Tips and Howto</title>
+    <link>https://mover.tips/collections/kick-friendly/</link>
+    <description>Recent content in Kick Friendly on Move, Exercise, Workout - Tips and Howto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 19:25:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://mover.tips/collections/kick-friendly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Side Leg Raise</title>
+      <link>https://mover.tips/exercises/side-leg-raise-workout-exercise/</link>
+      <pubDate>Tue, 21 Dec 2021 19:33:53 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/side-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Front Leg Raise</title>
+      <link>https://mover.tips/exercises/front-leg-raise-workout-exercise/</link>
+      <pubDate>Sun, 16 Jan 2022 15:08:42 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/front-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
