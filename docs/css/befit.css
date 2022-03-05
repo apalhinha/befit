@@ -26,6 +26,9 @@ p   {margin-top: 0.5rem;  margin-bottom: 0.5rem; }
   vertical-align: top;
   /* top right bottom left */
   margin: 20px 12px 20px 0px;
+  border-style: solid;
+  border-width: 0px; /* talvez as contas estejam para 1 */
+  border-color: white;
 }
 
 .ex-pic {
@@ -35,5 +38,6 @@ p   {margin-top: 0.5rem;  margin-bottom: 0.5rem; }
 
 .ex-name {
   width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
+  /* height: 50px; */
   text-align: center;
 }
