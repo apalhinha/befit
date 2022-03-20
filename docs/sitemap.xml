@@ -4,8 +4,14 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-03-20T19:34:46+01:00</lastmod>
+          <lastmod>2022-03-20T19:45:41+01:00</lastmod>
           <priority>0</priority>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/blog/last-updates/</loc> 
+          <lastmod>2022-03-20T19:45:41+01:00</lastmod>
         </url>
         
     
@@ -65,12 +71,6 @@
     
         <url>
           <loc>https://mover.tips/exercises/l-sit-wipers-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:46+01:00</lastmod>
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/blog/last-updates/</loc> 
           <lastmod>2022-03-20T19:34:46+01:00</lastmod>
         </url>
         
