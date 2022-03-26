@@ -4,14 +4,115 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-03-22T20:52:39+01:00</lastmod>
+          <lastmod>2022-03-26T14:38:41+01:00</lastmod>
           <priority>0</priority>
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-03-22T20:52:39+01:00</lastmod>
+          <lastmod>2022-03-26T14:38:41+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/core-lower-body/</loc> 
+          <lastmod>2022-03-26T14:27:45+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
+          <lastmod>2022-03-26T14:27:45+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/</loc> 
+          <lastmod>2022-03-26T14:27:45+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/raising-legs/</loc> 
+          <lastmod>2022-03-26T14:27:45+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/seated-l-sit-raise-legs-workout-exercise/</loc> 
+          <lastmod>2022-03-26T14:27:45+01:00</lastmod>
+            <image:image>
+              <image:loc>https://mover.tips/pics/exercise/s/seated-l-sit-raise-legs.png</image:loc>
+              <image:caption>A drawing of the Seated L-Sit Raise Legs exercise</image:caption>
+              <image:title>Seated L-Sit Raise Legs</image:title>
+            </image:image>
+        
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/back/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/categories/flexibility/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/full-body/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/l-sit-back-swing-workout-exercise/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/equipment/parallel-bar/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/quads/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/seated-l-sit-single-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/wall-floor-single-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-03-26T14:09:07+01:00</lastmod>
+        
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-03-26T14:09:06+01:00</lastmod>
+        
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/sky-diver-push-up-workout-exercise/</loc> 
+          <lastmod>2022-03-26T14:09:05+01:00</lastmod>
+        
         </url>
         
     
@@ -19,12 +120,6 @@
           <loc>https://mover.tips/exercises/incline-push-up-workout-exercise/</loc> 
           <lastmod>2022-03-22T20:46:34+01:00</lastmod>
         
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/</loc> 
-          <lastmod>2022-03-22T20:46:34+01:00</lastmod>
         </url>
         
     
@@ -85,12 +180,6 @@
     
         <url>
           <loc>https://mover.tips/equipment/floor/</loc> 
-          <lastmod>2022-03-20T19:34:46+01:00</lastmod>
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/full-body/</loc> 
           <lastmod>2022-03-20T19:34:46+01:00</lastmod>
         </url>
         
@@ -171,12 +260,6 @@
         
     
         <url>
-          <loc>https://mover.tips/flexibilities/back/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/equipment/bench/</loc> 
           <lastmod>2022-03-20T19:34:45+01:00</lastmod>
         </url>
@@ -198,12 +281,6 @@
         
     
         <url>
-          <loc>https://mover.tips/categories/flexibility/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/flexibilities/hips/</loc> 
           <lastmod>2022-03-20T19:34:45+01:00</lastmod>
         </url>
@@ -218,13 +295,6 @@
     
         <url>
           <loc>https://mover.tips/exercises/l-sit-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/l-sit-back-swing-workout-exercise/</loc> 
           <lastmod>2022-03-20T19:34:45+01:00</lastmod>
         
         </url>
@@ -293,12 +363,6 @@
         
     
         <url>
-          <loc>https://mover.tips/equipment/parallel-bar/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/parallel-bar-low-l-sit-workout-exercise/</loc> 
           <lastmod>2022-03-20T19:34:45+01:00</lastmod>
         
@@ -312,26 +376,7 @@
         
     
         <url>
-          <loc>https://mover.tips/flexibilities/quads/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/raising-legs/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/seated-l-sit-lift-over-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/seated-l-sit-single-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-03-20T19:34:45+01:00</lastmod>
         
         </url>
@@ -372,21 +417,7 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/wall-floor-single-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:45+01:00</lastmod>
-        
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/assisted-one-arm-push-up-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:44+01:00</lastmod>
-        
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-03-20T19:34:44+01:00</lastmod>
         
         </url>
@@ -410,12 +441,6 @@
           <loc>https://mover.tips/exercises/butterfly-sit-ups-workout-exercise/</loc> 
           <lastmod>2022-03-20T19:34:44+01:00</lastmod>
         
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/core-lower-body/</loc> 
-          <lastmod>2022-03-20T19:34:44+01:00</lastmod>
         </url>
         
     
@@ -511,12 +536,6 @@
         
     
         <url>
-          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
-          <lastmod>2022-03-20T19:34:44+01:00</lastmod>
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/collections/knee-push-up-variations/</loc> 
           <lastmod>2022-03-20T19:34:44+01:00</lastmod>
         </url>
@@ -595,18 +614,6 @@
         <url>
           <loc>https://mover.tips/progressions/pull-up-progression/</loc> 
           <lastmod>2022-03-20T19:34:44+01:00</lastmod>
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/seated-l-sit-raise-legs-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:44+01:00</lastmod>
-            <image:image>
-              <image:loc>https://mover.tips/pics/exercise/s/seated-l-sit-raise-legs.png</image:loc>
-              <image:caption>A drawing of the Seated L-Sit Raise Legs exercise</image:caption>
-              <image:title>Seated L-Sit Raise Legs</image:title>
-            </image:image>
-        
         </url>
         
     
@@ -818,13 +825,6 @@
     
         <url>
           <loc>https://mover.tips/exercises/sit-up-workout-exercise/</loc> 
-          <lastmod>2022-03-20T19:34:43+01:00</lastmod>
-        
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/sky-diver-push-up-workout-exercise/</loc> 
           <lastmod>2022-03-20T19:34:43+01:00</lastmod>
         
         </url>
