@@ -6,7 +6,11 @@
     <description>Recent content in Upper Body on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/muscles/upper-body/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Dec 2021 19:25:36 +0100</lastBuildDate>
+    
+	<atom:link href="https://mover.tips/muscles/upper-body/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Finger Wall Push-up</title>
       <link>https://mover.tips/exercises/finger-wall-push-up-workout-exercise/</link>
