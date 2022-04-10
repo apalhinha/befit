@@ -6,10 +6,24 @@
     <description>Recent content in Pull-up progression on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Mar 2022 19:34:44 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 Apr 2022 00:21:15 +0100</lastBuildDate><atom:link href="https://mover.tips/progressions/pull-up-progression/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pull Up</title>
+      <link>https://mover.tips/exercises/pull-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:15 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://mover.tips/progressions/pull-up-progression/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Negative Pull Up</title>
+      <link>https://mover.tips/exercises/negative-pull-up-workout-exercise/</link>
+      <pubDate>Thu, 31 Mar 2022 23:57:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/negative-pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Flex Hang</title>
@@ -26,24 +40,6 @@
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/dead-hang-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negative Pull-up</title>
-      <link>https://mover.tips/exercises/negative-pull-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/negative-pull-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pull-up</title>
-      <link>https://mover.tips/exercises/pull-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/pull-up-workout-exercise/</guid>
       <description></description>
     </item>
     

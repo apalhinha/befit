@@ -5,14 +5,16 @@ p   {margin-top: 0.5rem;  margin-bottom: 0.5rem; }
 
 table {width: auto;}
 th {font-weight: normal;}
-
+td p {
+  /* background-color: yellow; */
+  margin: 0 0 0 0;
+}
 .colado { margin-top: 0}
 
 .flex-container {
     display: flex;
     flex-wrap: wrap;
 }
-
 .flex-child-pic {
     width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
     /* top right bottom left */
@@ -23,6 +25,29 @@ th {font-weight: normal;}
 .flex-child-text {
   flex: 1;
 }
+
+div.nameline-container {
+    width: 200px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+div.nameline-pic {
+  width: 105px;
+  flex-grow: 1;
+}
+div.nameline-name {
+  width: 45px;
+  flex-grow: 1;
+}
+div.nameline-more {
+  font-size: 100%;
+}
+td.nameline-white {
+}
+td.nameline-selected {
+  background-color: rgb(240,240,240);
+}
+
 
 .ex-outer {
   display: inline-block;

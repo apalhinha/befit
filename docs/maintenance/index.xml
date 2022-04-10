@@ -6,11 +6,7 @@
     <description>Recent content in Maintenances on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Jul 2020 09:11:42 +0100</lastBuildDate>
-    
-	<atom:link href="https://mover.tips/maintenance/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Jul 2020 09:11:42 +0100</lastBuildDate><atom:link href="https://mover.tips/maintenance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Missing Thumbnails</title>
       <link>https://mover.tips/maintenance/missingpic/</link>

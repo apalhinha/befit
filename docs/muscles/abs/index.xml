@@ -6,17 +6,67 @@
     <description>Recent content in Abs on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Dec 2021 19:25:36 +0100</lastBuildDate>
-    
-	<atom:link href="https://mover.tips/muscles/abs/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 07 Dec 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/muscles/abs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Raised Leg Crunch</title>
+      <link>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:43:23 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</guid>
+      <description></description>
+    </item>
     
     <item>
-      <title>Bench single leg raise</title>
+      <title>Bench Single Leg Raise</title>
       <link>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</link>
-      <pubDate>Sat, 26 Mar 2022 14:09:06 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boat Pose</title>
+      <link>https://mover.tips/exercises/boat-pose-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/boat-pose-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall/floor L Sit Position</title>
+      <link>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall/Floor L Sit Raise Legs</title>
+      <link>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elbow Plank</title>
+      <link>https://mover.tips/exercises/elbow-plank-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:15 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/elbow-plank-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heel Taps</title>
+      <link>https://mover.tips/exercises/heel-taps-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:04:34 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/heel-taps-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -30,33 +80,6 @@
     </item>
     
     <item>
-      <title>Boat Pose</title>
-      <link>https://mover.tips/exercises/boat-pose-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/boat-pose-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wall/floor L-Sit Position</title>
-      <link>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wall/Floor L-Sit Raise Legs</title>
-      <link>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Crunch</title>
       <link>https://mover.tips/exercises/crunch-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
@@ -66,38 +89,11 @@
     </item>
     
     <item>
-      <title>Elbow plank</title>
-      <link>https://mover.tips/exercises/elbow-plank-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/elbow-plank-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flutter Kicks</title>
       <link>https://mover.tips/exercises/flutter-kicks-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/flutter-kicks-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heel taps</title>
-      <link>https://mover.tips/exercises/heel-taps-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/heel-taps-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raised Leg Crunch</title>
-      <link>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</guid>
       <description></description>
     </item>
     

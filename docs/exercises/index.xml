@@ -6,53 +6,715 @@
     <description>Recent content in Exercises in alphabetic order on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Mar 2020 17:42:20 +0100</lastBuildDate>
-    
-	<atom:link href="https://mover.tips/exercises/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Mar 2020 17:42:20 +0100</lastBuildDate><atom:link href="https://mover.tips/exercises/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Seated L-Sit Raise Legs</title>
-      <link>https://mover.tips/exercises/seated-l-sit-raise-legs-workout-exercise/</link>
-      <pubDate>Sat, 26 Mar 2022 14:27:45 +0100</pubDate>
+      <title>Sit Up</title>
+      <link>https://mover.tips/exercises/sit-up-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 21:50:09 +0100</pubDate>
       
-      <guid>https://mover.tips/exercises/seated-l-sit-raise-legs-workout-exercise/</guid>
+      <guid>https://mover.tips/exercises/sit-up-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>L-Sit Back Swing</title>
+      <title>Shuffle Push Up</title>
+      <link>https://mover.tips/exercises/shuffle-push-up-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:56:27 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/shuffle-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raise Leg Push Up</title>
+      <link>https://mover.tips/exercises/raise-leg-push-up-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:56:26 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/raise-leg-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bench Tricep Extension</title>
+      <link>https://mover.tips/exercises/bench-tricep-extension-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:43:26 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/bench-tricep-extension-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Shuffle</title>
+      <link>https://mover.tips/exercises/l-sit-shuffle-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:43:26 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-shuffle-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit One Leg Support</title>
+      <link>https://mover.tips/exercises/floor-l-sit-one-leg-support-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:43:25 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-one-leg-support-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Slider Push Up</title>
+      <link>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:43:25 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raised Leg Crunch</title>
+      <link>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</link>
+      <pubDate>Sun, 10 Apr 2022 20:43:23 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chair Half L Sit</title>
+      <link>https://mover.tips/exercises/chair-half-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:39 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/chair-half-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slider L Sit Pikes</title>
+      <link>https://mover.tips/exercises/slider-l-sit-pikes-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:39 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/slider-l-sit-pikes-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chair L Sit Tuck</title>
+      <link>https://mover.tips/exercises/chair-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/chair-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finger L Sit Heels Support</title>
+      <link>https://mover.tips/exercises/finger-l-sit-heels-support-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/finger-l-sit-heels-support-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit</title>
+      <link>https://mover.tips/exercises/l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Back Swing</title>
       <link>https://mover.tips/exercises/l-sit-back-swing-workout-exercise/</link>
-      <pubDate>Sat, 26 Mar 2022 14:09:07 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/l-sit-back-swing-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seated L-Sit Single Leg Raise</title>
+      <title>L Sit Circles</title>
+      <link>https://mover.tips/exercises/l-sit-circles-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-circles-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Dips</title>
+      <link>https://mover.tips/exercises/l-sit-dips-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-dips-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Elastic Support</title>
+      <link>https://mover.tips/exercises/l-sit-elastic-support-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-elastic-support-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Flutter Kick</title>
+      <link>https://mover.tips/exercises/l-sit-flutter-kick-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-flutter-kick-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Kick Through</title>
+      <link>https://mover.tips/exercises/l-sit-kick-through-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-kick-through-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Kicks</title>
+      <link>https://mover.tips/exercises/l-sit-kicks-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-kicks-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Leg Raises</title>
+      <link>https://mover.tips/exercises/l-sit-leg-raises-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-leg-raises-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Lift Over</title>
+      <link>https://mover.tips/exercises/l-sit-lift-over-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-lift-over-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Supported Single Leg Raise</title>
+      <link>https://mover.tips/exercises/l-sit-supported-single-leg-raise-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-supported-single-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Supported Single Leg Raise, Parallettes</title>
+      <link>https://mover.tips/exercises/l-sit-supported-single-leg-raise,-parallettes-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-supported-single-leg-raise,-parallettes-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit to Tuck Planche</title>
+      <link>https://mover.tips/exercises/l-sit-to-tuck-planche-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-to-tuck-planche-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit to Tuck V-Sit</title>
+      <link>https://mover.tips/exercises/l-sit-to-tuck-v-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-to-tuck-v-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Tuck Swing</title>
+      <link>https://mover.tips/exercises/l-sit-tuck-swing-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-tuck-swing-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Walk</title>
+      <link>https://mover.tips/exercises/l-sit-walk-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-walk-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Wipers</title>
+      <link>https://mover.tips/exercises/l-sit-wipers-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-wipers-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Bar Low L Sit</title>
+      <link>https://mover.tips/exercises/parallel-bar-low-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/parallel-bar-low-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seated L Sit Lift Over</title>
+      <link>https://mover.tips/exercises/seated-l-sit-lift-over-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/seated-l-sit-lift-over-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seated L Sit Single Leg Raise</title>
       <link>https://mover.tips/exercises/seated-l-sit-single-leg-raise-workout-exercise/</link>
-      <pubDate>Sat, 26 Mar 2022 14:09:07 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/seated-l-sit-single-leg-raise-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Supported L Sit Scapula Shrugs</title>
+      <link>https://mover.tips/exercises/supported-l-sit-scapula-shrugs-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/supported-l-sit-scapula-shrugs-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towel L Sit Pikes</title>
+      <link>https://mover.tips/exercises/towel-l-sit-pikes-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/towel-l-sit-pikes-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wall/floor Single Leg Raise</title>
       <link>https://mover.tips/exercises/wall-floor-single-leg-raise-workout-exercise/</link>
-      <pubDate>Sat, 26 Mar 2022 14:09:07 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2022 14:16:38 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/wall-floor-single-leg-raise-workout-exercise/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bench single leg raise</title>
+      <title>Bench Single Leg Raise</title>
       <link>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</link>
-      <pubDate>Sat, 26 Mar 2022 14:09:06 +0100</pubDate>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boat Pose</title>
+      <link>https://mover.tips/exercises/boat-pose-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/boat-pose-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double Chair L Sit Tuck</title>
+      <link>https://mover.tips/exercises/double-chair-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/double-chair-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finger Wall Push Up</title>
+      <link>https://mover.tips/exercises/finger-wall-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/finger-wall-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit</title>
+      <link>https://mover.tips/exercises/floor-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit Back and Forth</title>
+      <link>https://mover.tips/exercises/floor-l-sit-back-and-forth-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-back-and-forth-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit Cross Tucked</title>
+      <link>https://mover.tips/exercises/floor-l-sit-cross-tucked-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-cross-tucked-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit Heel Support</title>
+      <link>https://mover.tips/exercises/floor-l-sit-heel-support-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-heel-support-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit Position</title>
+      <link>https://mover.tips/exercises/floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit Tuck</title>
+      <link>https://mover.tips/exercises/floor-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Floor L Sit Tuck to One Leg</title>
+      <link>https://mover.tips/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hanging L Sit</title>
+      <link>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knee Tricep Push Up</title>
+      <link>https://mover.tips/exercises/knee-tricep-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/knee-tricep-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Bicycle Kicks</title>
+      <link>https://mover.tips/exercises/l-sit-bicycle-kicks-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-bicycle-kicks-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>L Sit Butt Scoot</title>
+      <link>https://mover.tips/exercises/l-sit-butt-scoot-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/l-sit-butt-scoot-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Leg L Sit</title>
+      <link>https://mover.tips/exercises/one-leg-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/one-leg-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Bar L Sit</title>
+      <link>https://mover.tips/exercises/parallel-bar-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/parallel-bar-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Bar L Sit Tuck</title>
+      <link>https://mover.tips/exercises/parallel-bar-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/parallel-bar-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallettes L Sit Tuck</title>
+      <link>https://mover.tips/exercises/parallettes-l-sit-tuck-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/parallettes-l-sit-tuck-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seated L Sit Raise Legs</title>
+      <link>https://mover.tips/exercises/seated-l-sit-raise-legs-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/seated-l-sit-raise-legs-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Straddle L Sit</title>
+      <link>https://mover.tips/exercises/straddle-l-sit-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/straddle-l-sit-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall/floor L Sit Position</title>
+      <link>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall/Floor L Sit Raise Legs</title>
+      <link>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staggered Push Up</title>
+      <link>https://mover.tips/exercises/staggered-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:54:19 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/staggered-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butterfly Sit Up</title>
+      <link>https://mover.tips/exercises/butterfly-sit-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:47:59 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/butterfly-sit-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross Tricep Push Up</title>
+      <link>https://mover.tips/exercises/cross-tricep-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:47:59 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/cross-tricep-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knee Push Up</title>
+      <link>https://mover.tips/exercises/knee-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:47:59 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/knee-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked Push Up</title>
+      <link>https://mover.tips/exercises/stacked-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:47:59 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/stacked-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricep Wall Push Up</title>
+      <link>https://mover.tips/exercises/tricep-wall-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:47:59 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/tricep-wall-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archer Push Up</title>
+      <link>https://mover.tips/exercises/archer-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:42:51 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/archer-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clap Push Up</title>
+      <link>https://mover.tips/exercises/clap-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:42:51 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/clap-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pike Push Up</title>
+      <link>https://mover.tips/exercises/pike-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:42:51 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/pike-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wide Grip Push Up</title>
+      <link>https://mover.tips/exercises/wide-grip-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 12:42:51 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/wide-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hindu Push Up</title>
+      <link>https://mover.tips/exercises/hindu-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:16 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/hindu-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Close Grip Push Up</title>
+      <link>https://mover.tips/exercises/close-grip-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:15 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/close-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elbow Plank</title>
+      <link>https://mover.tips/exercises/elbow-plank-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:15 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/elbow-plank-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull Up</title>
+      <link>https://mover.tips/exercises/pull-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:15 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiderman Push Up</title>
+      <link>https://mover.tips/exercises/spiderman-push-up-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:21:15 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/spiderman-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heel Taps</title>
+      <link>https://mover.tips/exercises/heel-taps-workout-exercise/</link>
+      <pubDate>Fri, 01 Apr 2022 00:04:34 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/heel-taps-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative Pull Up</title>
+      <link>https://mover.tips/exercises/negative-pull-up-workout-exercise/</link>
+      <pubDate>Thu, 31 Mar 2022 23:57:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/negative-pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse Grip Push Up</title>
+      <link>https://mover.tips/exercises/reverse-grip-push-up-workout-exercise/</link>
+      <pubDate>Thu, 31 Mar 2022 23:57:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/reverse-grip-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Squat Hold</title>
+      <link>https://mover.tips/exercises/squat-hold-workout-exercise/</link>
+      <pubDate>Thu, 31 Mar 2022 23:57:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/squat-hold-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricep Push Up</title>
+      <link>https://mover.tips/exercises/tricep-push-up-workout-exercise/</link>
+      <pubDate>Thu, 31 Mar 2022 23:57:08 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/tricep-push-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chin Up</title>
+      <link>https://mover.tips/exercises/chin-up-workout-exercise/</link>
+      <pubDate>Thu, 31 Mar 2022 22:33:29 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/chin-up-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -93,15 +755,6 @@
     </item>
     
     <item>
-      <title>Wide Grip Push-up</title>
-      <link>https://mover.tips/exercises/wide-grip-push-up-workout-exercise/</link>
-      <pubDate>Tue, 22 Mar 2022 20:46:33 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/wide-grip-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Push Up</title>
       <link>https://mover.tips/exercises/push-up-workout-exercise/</link>
       <pubDate>Tue, 22 Mar 2022 20:46:32 +0100</pubDate>
@@ -120,92 +773,11 @@
     </item>
     
     <item>
-      <title>Clapping Push Up</title>
-      <link>https://mover.tips/exercises/clapping-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:59:54 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/clapping-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chair Half L-Sit</title>
-      <link>https://mover.tips/exercises/chair-half-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/chair-half-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Incline Tricep Push Up</title>
       <link>https://mover.tips/exercises/incline-tricep-push-up-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/incline-tricep-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Circles</title>
-      <link>https://mover.tips/exercises/l-sit-circles-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-circles-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Dips</title>
-      <link>https://mover.tips/exercises/l-sit-dips-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-dips-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-sit Elastic Support</title>
-      <link>https://mover.tips/exercises/l-sit-elastic-support-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-elastic-support-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Suffle</title>
-      <link>https://mover.tips/exercises/l-sit-suffle-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-suffle-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Walk</title>
-      <link>https://mover.tips/exercises/l-sit-walk-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-walk-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Wipers</title>
-      <link>https://mover.tips/exercises/l-sit-wipers-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-wipers-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slider L-Sit Pikes</title>
-      <link>https://mover.tips/exercises/slider-l-sit-pikes-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:46 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/slider-l-sit-pikes-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -219,110 +791,11 @@
     </item>
     
     <item>
-      <title>Bench Tricep Extension</title>
-      <link>https://mover.tips/exercises/bench-tricep-extension-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/bench-tricep-extension-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chair L-Sit Tuck</title>
-      <link>https://mover.tips/exercises/chair-l-sit-tuck-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/chair-l-sit-tuck-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finger L-Sit Heels Support</title>
-      <link>https://mover.tips/exercises/finger-l-sit-heels-support-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/finger-l-sit-heels-support-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Incline One Arm Push Up</title>
       <link>https://mover.tips/exercises/incline-one-arm-push-up-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/incline-one-arm-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit</title>
-      <link>https://mover.tips/exercises/l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Flutter Kick</title>
-      <link>https://mover.tips/exercises/l-sit-flutter-kick-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-flutter-kick-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Kick Through</title>
-      <link>https://mover.tips/exercises/l-sit-kick-through-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-kick-through-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Kicks</title>
-      <link>https://mover.tips/exercises/l-sit-kicks-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-kicks-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Leg Raises</title>
-      <link>https://mover.tips/exercises/l-sit-leg-raises-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-leg-raises-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Lift Over</title>
-      <link>https://mover.tips/exercises/l-sit-lift-over-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-lift-over-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Supported Single Leg Raise</title>
-      <link>https://mover.tips/exercises/l-sit-supported-single-leg-raise-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-supported-single-leg-raise-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Supported Single Leg Raise, Parallettes</title>
-      <link>https://mover.tips/exercises/l-sit-supported-single-leg-raise-parallettes-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-supported-single-leg-raise-parallettes-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -336,47 +809,11 @@
     </item>
     
     <item>
-      <title>Parallel Bar Low L-Sit</title>
-      <link>https://mover.tips/exercises/parallel-bar-low-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/parallel-bar-low-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seated L-Sit Lift Over</title>
-      <link>https://mover.tips/exercises/seated-l-sit-lift-over-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/seated-l-sit-lift-over-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sumo Squat</title>
       <link>https://mover.tips/exercises/sumo-squat-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/sumo-squat-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supported L-Sit Scapula Shrugs</title>
-      <link>https://mover.tips/exercises/supported-l-sit-scapula-shrugs-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/supported-l-sit-scapula-shrugs-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towel L-Sit Pikes</title>
-      <link>https://mover.tips/exercises/towel-l-sit-pikes-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:45 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/towel-l-sit-pikes-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -408,263 +845,11 @@
     </item>
     
     <item>
-      <title>Boat Pose</title>
-      <link>https://mover.tips/exercises/boat-pose-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/boat-pose-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Butterfly sit-ups</title>
-      <link>https://mover.tips/exercises/butterfly-sit-ups-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/butterfly-sit-ups-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Double Chair L-Sit Tuck</title>
-      <link>https://mover.tips/exercises/double-chair-l-sit-tuck-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/double-chair-l-sit-tuck-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Finger Wall Push-up</title>
-      <link>https://mover.tips/exercises/finger-wall-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/finger-wall-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flex Hang</title>
       <link>https://mover.tips/exercises/flex-hang-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/flex-hang-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit</title>
-      <link>https://mover.tips/exercises/floor-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Back and Forth</title>
-      <link>https://mover.tips/exercises/floor-l-sit-back-and-forth-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-back-and-forth-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Cross Tucked</title>
-      <link>https://mover.tips/exercises/floor-l-sit-cross-tucked-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-cross-tucked-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Heels Support</title>
-      <link>https://mover.tips/exercises/floor-l-sit-heels-support-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-heels-support-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit One Leg Support</title>
-      <link>https://mover.tips/exercises/floor-l-sit-one-leg-support-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-one-leg-support-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Position</title>
-      <link>https://mover.tips/exercises/floor-l-sit-position-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-position-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Tuck</title>
-      <link>https://mover.tips/exercises/floor-l-sit-tuck-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-tuck-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Floor L-Sit Tuck to One Leg</title>
-      <link>https://mover.tips/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forward Slider Push Up</title>
-      <link>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hanging L-Sit</title>
-      <link>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Knee Tricep Push-up</title>
-      <link>https://mover.tips/exercises/knee-tricep-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/knee-tricep-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Bicycle Kicks</title>
-      <link>https://mover.tips/exercises/l-sit-bicycle-kicks-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-bicycle-kicks-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Butt Scoot</title>
-      <link>https://mover.tips/exercises/l-sit-butt-scoot-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-butt-scoot-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit to Tuck Planche</title>
-      <link>https://mover.tips/exercises/l-sit-to-tuck-planche-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-to-tuck-planche-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit to Tuck V-Sit</title>
-      <link>https://mover.tips/exercises/l-sit-to-tuck-v-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-to-tuck-v-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>L-Sit Tuck Swing</title>
-      <link>https://mover.tips/exercises/l-sit-tuck-swing-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/l-sit-tuck-swing-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One Leg L-Sit</title>
-      <link>https://mover.tips/exercises/one-leg-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/one-leg-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Bar L-Sit</title>
-      <link>https://mover.tips/exercises/parallel-bar-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/parallel-bar-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Bar L-Sit Tuck</title>
-      <link>https://mover.tips/exercises/parallel-bar-l-sit-tuck-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/parallel-bar-l-sit-tuck-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallettes L-Sit Tuck</title>
-      <link>https://mover.tips/exercises/parallettes-l-sit-tuck-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/parallettes-l-sit-tuck-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Staggered Push-up</title>
-      <link>https://mover.tips/exercises/staggered-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/staggered-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Straddle L-Sit</title>
-      <link>https://mover.tips/exercises/straddle-l-sit-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/straddle-l-sit-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wall/floor L-Sit Position</title>
-      <link>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/wall-floor-l-sit-position-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wall/Floor L-Sit Raise Legs</title>
-      <link>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:44 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/wall-floor-l-sit-raise-legs-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -678,47 +863,11 @@
     </item>
     
     <item>
-      <title>Archer Push-up</title>
-      <link>https://mover.tips/exercises/archer-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/archer-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Calf Raise Hold</title>
       <link>https://mover.tips/exercises/calf-raise-hold-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/calf-raise-hold-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chin-up</title>
-      <link>https://mover.tips/exercises/chin-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/chin-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Close Grip Push-up</title>
-      <link>https://mover.tips/exercises/close-grip-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/close-grip-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross Tricep Push-up</title>
-      <link>https://mover.tips/exercises/cross-tricep-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/cross-tricep-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -741,15 +890,6 @@
     </item>
     
     <item>
-      <title>Elbow plank</title>
-      <link>https://mover.tips/exercises/elbow-plank-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/elbow-plank-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flutter Kicks</title>
       <link>https://mover.tips/exercises/flutter-kicks-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
@@ -764,24 +904,6 @@
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/front-leg-raise-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Heel taps</title>
-      <link>https://mover.tips/exercises/heel-taps-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/heel-taps-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hindu Push-up</title>
-      <link>https://mover.tips/exercises/hindu-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/hindu-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -804,15 +926,6 @@
     </item>
     
     <item>
-      <title>Knee Push-up</title>
-      <link>https://mover.tips/exercises/knee-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/knee-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mountain Climber</title>
       <link>https://mover.tips/exercises/mountain-climber-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
@@ -822,110 +935,11 @@
     </item>
     
     <item>
-      <title>Negative Pull-up</title>
-      <link>https://mover.tips/exercises/negative-pull-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/negative-pull-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pike Push-up</title>
-      <link>https://mover.tips/exercises/pike-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/pike-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pull-up</title>
-      <link>https://mover.tips/exercises/pull-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/pull-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raised Leg Crunch</title>
-      <link>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reverse Grip Push-up</title>
-      <link>https://mover.tips/exercises/reverse-grip-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/reverse-grip-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sit-up</title>
-      <link>https://mover.tips/exercises/sit-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/sit-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spiderman Push-up</title>
-      <link>https://mover.tips/exercises/spiderman-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/spiderman-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Squat</title>
       <link>https://mover.tips/exercises/squat-workout-exercise/</link>
       <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/squat-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Squat hold</title>
-      <link>https://mover.tips/exercises/squat-hold-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/squat-hold-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Stacked Push-up</title>
-      <link>https://mover.tips/exercises/stacked-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/stacked-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tricep Push-up</title>
-      <link>https://mover.tips/exercises/tricep-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/tricep-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tricep Wall Push-up</title>
-      <link>https://mover.tips/exercises/tricep-wall-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:43 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/tricep-wall-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -944,15 +958,6 @@
       <pubDate>Sun, 20 Mar 2022 19:34:42 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/calf-raise-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Raised Leg Push-up</title>
-      <link>https://mover.tips/exercises/raised-leg-push-up-workout-exercise/</link>
-      <pubDate>Sun, 20 Mar 2022 19:34:42 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/raised-leg-push-up-workout-exercise/</guid>
       <description></description>
     </item>
     
