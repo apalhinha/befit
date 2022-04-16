@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Names on Move, Exercise, Workout - Tips and Howto</title>
+    <title>Exercises by keyword on Move, Exercise, Workout - Tips and Howto</title>
     <link>https://mover.tips/names/</link>
-    <description>Recent content in Names on Move, Exercise, Workout - Tips and Howto</description>
+    <description>Recent content in Exercises by keyword on Move, Exercise, Workout - Tips and Howto</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mover.tips/names/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Mar 2022 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/names/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index for &#39;Air / Bike&#39; exercises</title>
       <link>https://mover.tips/names/air/bike/</link>
@@ -197,13 +198,23 @@
     </item>
     
     <item>
+      <title>Index for &#39;Assisted / Knee&#39; exercises</title>
+      <link>https://mover.tips/names/assisted/knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/assisted/knee/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Assisted / Knee&amp;rsquo;
+Assisted(11)AssistedKnee(1)Assisted Knee Push Up</description>
+    </item>
+    
+    <item>
       <title>Index for &#39;Assisted / One Arm / Push Up&#39; exercises</title>
       <link>https://mover.tips/names/assisted/one-arm/push-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/assisted/one-arm/push-up/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Assisted / One Arm / Push Up&amp;rsquo;
-Assisted(8)AssistedOne Arm(3)AssistedOne ArmPush Up(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
+Assisted(11)AssistedOne Arm(3)AssistedOne ArmPush Up(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -213,7 +224,7 @@
       
       <guid>https://mover.tips/names/assisted/one-arm/unstable/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Assisted / One Arm / Unstable&amp;rsquo;
-Assisted(8)AssistedOne Arm(3)AssistedOne ArmUnstable(1)Unstable Assisted One Arm Push Up</description>
+Assisted(11)AssistedOne Arm(3)AssistedOne ArmUnstable(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -223,7 +234,7 @@
       
       <guid>https://mover.tips/names/assisted/one-arm/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Assisted / One Arm&amp;rsquo;
-Assisted(8)AssistedOne Arm(3)AssistedOne ArmPush Up(2)AssistedOne ArmUnstable(1)</description>
+Assisted(11)AssistedOne Arm(3)AssistedOne ArmPush Up(2)AssistedOne ArmUnstable(1)</description>
     </item>
     
     <item>
@@ -233,7 +244,7 @@
       
       <guid>https://mover.tips/names/assisted/push-up/one-arm/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Assisted / Push Up / One Arm&amp;rsquo;
-Assisted(8)AssistedPush Up(3)AssistedPush UpOne Arm(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
+Assisted(11)AssistedPush Up(5)AssistedPush UpOne Arm(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -243,7 +254,7 @@
       
       <guid>https://mover.tips/names/assisted/push-up/unstable/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Assisted / Push Up / Unstable&amp;rsquo;
-Assisted(8)AssistedPush Up(3)AssistedPush UpUnstable(1)Unstable Assisted One Arm Push Up</description>
+Assisted(11)AssistedPush Up(5)AssistedPush UpUnstable(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -252,8 +263,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/assisted/push-up/</guid>
-      <description>There are 2 exercises using the keywords &amp;lsquo;Assisted / Push Up&amp;rsquo;
-Assisted(8)AssistedPush Up(3)AssistedPush UpOne Arm(2)AssistedPush UpUnstable(1)</description>
+      <description>There are 3 exercises using the keywords &amp;lsquo;Assisted / Push Up&amp;rsquo;
+Assisted(11)AssistedPush Up(5)AssistedPush UpOne Arm(2)AssistedPush UpUnstable(1)Assisted Push UpAssisted Knee Push Up</description>
     </item>
     
     <item>
@@ -263,7 +274,7 @@
       
       <guid>https://mover.tips/names/assisted/unstable/one-arm/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Assisted / Unstable / One Arm&amp;rsquo;
-Assisted(8)AssistedUnstable(2)AssistedUnstableOne Arm(1)Unstable Assisted One Arm Push Up</description>
+Assisted(11)AssistedUnstable(2)AssistedUnstableOne Arm(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -273,7 +284,7 @@
       
       <guid>https://mover.tips/names/assisted/unstable/push-up/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Assisted / Unstable / Push Up&amp;rsquo;
-Assisted(8)AssistedUnstable(2)AssistedUnstablePush Up(1)Unstable Assisted One Arm Push Up</description>
+Assisted(11)AssistedUnstable(2)AssistedUnstablePush Up(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -283,7 +294,7 @@
       
       <guid>https://mover.tips/names/assisted/unstable/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Assisted / Unstable&amp;rsquo;
-Assisted(8)AssistedUnstable(2)AssistedUnstableOne Arm(1)AssistedUnstablePush Up(1)</description>
+Assisted(11)AssistedUnstable(2)AssistedUnstableOne Arm(1)AssistedUnstablePush Up(1)</description>
     </item>
     
     <item>
@@ -292,8 +303,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/assisted/</guid>
-      <description>There are 2 exercises using the keyword &amp;lsquo;Assisted&amp;rsquo;
-Assisted(8)AssistedOne Arm(3)AssistedPush Up(3)AssistedUnstable(2)</description>
+      <description>There are 3 exercises using the keyword &amp;lsquo;Assisted&amp;rsquo;
+Assisted(11)AssistedKnee(1)AssistedOne Arm(3)AssistedPush Up(5)AssistedUnstable(2)</description>
     </item>
     
     <item>
@@ -413,7 +424,7 @@
       
       <guid>https://mover.tips/names/bar/hang/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Hang&amp;rsquo;
-Bar(16)BarHang(1)Passive Bar Hang</description>
+Bar(22)BarHang(1)Passive Bar Hang</description>
     </item>
     
     <item>
@@ -423,7 +434,7 @@
       
       <guid>https://mover.tips/names/bar/l-sit/low/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / L Sit / Low&amp;rsquo;
-Bar(16)BarL Sit(5)BarL SitLow(1)Parallel Bar Low L Sit</description>
+Bar(22)BarL Sit(5)BarL SitLow(1)Parallel Bar Low L Sit</description>
     </item>
     
     <item>
@@ -433,7 +444,7 @@
       
       <guid>https://mover.tips/names/bar/l-sit/parallel/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Bar / L Sit / Parallel&amp;rsquo;
-Bar(16)BarL Sit(5)BarL SitParallel(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
+Bar(22)BarL Sit(5)BarL SitParallel(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -443,7 +454,7 @@
       
       <guid>https://mover.tips/names/bar/l-sit/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / L Sit / Tuck&amp;rsquo;
-Bar(16)BarL Sit(5)BarL SitTuck(1)Parallel Bar L Sit Tuck</description>
+Bar(22)BarL Sit(5)BarL SitTuck(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -453,7 +464,37 @@
       
       <guid>https://mover.tips/names/bar/l-sit/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Bar / L Sit&amp;rsquo;
-Bar(16)BarL Sit(5)BarL SitLow(1)BarL SitParallel(3)BarL SitTuck(1)</description>
+Bar(22)BarL Sit(5)BarL SitLow(1)BarL SitParallel(3)BarL SitTuck(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Leg / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/bar/leg/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/leg/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Leg / Parallel&amp;rsquo;
+Bar(22)BarLeg(2)BarLegParallel(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Leg / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/bar/leg/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/leg/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Leg / Raises&amp;rsquo;
+Bar(22)BarLeg(2)BarLegRaises(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/bar/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Leg&amp;rsquo;
+Bar(22)BarLeg(2)BarLegParallel(1)BarLegRaises(1)</description>
     </item>
     
     <item>
@@ -463,7 +504,7 @@
       
       <guid>https://mover.tips/names/bar/low/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Low / L Sit&amp;rsquo;
-Bar(16)BarLow(2)BarLowL Sit(1)Parallel Bar Low L Sit</description>
+Bar(22)BarLow(2)BarLowL Sit(1)Parallel Bar Low L Sit</description>
     </item>
     
     <item>
@@ -473,7 +514,7 @@
       
       <guid>https://mover.tips/names/bar/low/parallel/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Low / Parallel&amp;rsquo;
-Bar(16)BarLow(2)BarLowParallel(1)Parallel Bar Low L Sit</description>
+Bar(22)BarLow(2)BarLowParallel(1)Parallel Bar Low L Sit</description>
     </item>
     
     <item>
@@ -483,7 +524,7 @@
       
       <guid>https://mover.tips/names/bar/low/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Low&amp;rsquo;
-Bar(16)BarLow(2)BarLowL Sit(1)BarLowParallel(1)</description>
+Bar(22)BarLow(2)BarLowL Sit(1)BarLowParallel(1)</description>
     </item>
     
     <item>
@@ -493,7 +534,17 @@
       
       <guid>https://mover.tips/names/bar/parallel/l-sit/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Bar / Parallel / L Sit&amp;rsquo;
-Bar(16)BarParallel(5)BarParallelL Sit(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
+Bar(22)BarParallel(7)BarParallelL Sit(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Parallel / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/bar/parallel/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/parallel/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Parallel / Leg&amp;rsquo;
+Bar(22)BarParallel(7)BarParallelLeg(1)Parallel Bar Leg Raises</description>
     </item>
     
     <item>
@@ -503,7 +554,17 @@
       
       <guid>https://mover.tips/names/bar/parallel/low/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Parallel / Low&amp;rsquo;
-Bar(16)BarParallel(5)BarParallelLow(1)Parallel Bar Low L Sit</description>
+Bar(22)BarParallel(7)BarParallelLow(1)Parallel Bar Low L Sit</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Parallel / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/bar/parallel/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/parallel/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Parallel / Raises&amp;rsquo;
+Bar(22)BarParallel(7)BarParallelRaises(1)Parallel Bar Leg Raises</description>
     </item>
     
     <item>
@@ -513,7 +574,7 @@
       
       <guid>https://mover.tips/names/bar/parallel/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Parallel / Tuck&amp;rsquo;
-Bar(16)BarParallel(5)BarParallelTuck(1)Parallel Bar L Sit Tuck</description>
+Bar(22)BarParallel(7)BarParallelTuck(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -522,8 +583,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/bar/parallel/</guid>
-      <description>There are 3 exercises using the keywords &amp;lsquo;Bar / Parallel&amp;rsquo;
-Bar(16)BarParallel(5)BarParallelL Sit(3)BarParallelLow(1)BarParallelTuck(1)</description>
+      <description>There are 4 exercises using the keywords &amp;lsquo;Bar / Parallel&amp;rsquo;
+Bar(22)BarParallel(7)BarParallelL Sit(3)BarParallelLeg(1)BarParallelLow(1)BarParallelRaises(1)BarParallelTuck(1)</description>
     </item>
     
     <item>
@@ -533,7 +594,37 @@
       
       <guid>https://mover.tips/names/bar/passive/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Passive&amp;rsquo;
-Bar(16)BarPassive(1)Passive Bar Hang</description>
+Bar(22)BarPassive(1)Passive Bar Hang</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Raises / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/bar/raises/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/raises/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Raises / Leg&amp;rsquo;
+Bar(22)BarRaises(2)BarRaisesLeg(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Raises / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/bar/raises/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/raises/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Raises / Parallel&amp;rsquo;
+Bar(22)BarRaises(2)BarRaisesParallel(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bar / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/bar/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bar/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Raises&amp;rsquo;
+Bar(22)BarRaises(2)BarRaisesLeg(1)BarRaisesParallel(1)</description>
     </item>
     
     <item>
@@ -543,7 +634,7 @@
       
       <guid>https://mover.tips/names/bar/tuck/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Tuck / L Sit&amp;rsquo;
-Bar(16)BarTuck(2)BarTuckL Sit(1)Parallel Bar L Sit Tuck</description>
+Bar(22)BarTuck(2)BarTuckL Sit(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -553,7 +644,7 @@
       
       <guid>https://mover.tips/names/bar/tuck/parallel/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Tuck / Parallel&amp;rsquo;
-Bar(16)BarTuck(2)BarTuckParallel(1)Parallel Bar L Sit Tuck</description>
+Bar(22)BarTuck(2)BarTuckParallel(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -563,7 +654,7 @@
       
       <guid>https://mover.tips/names/bar/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bar / Tuck&amp;rsquo;
-Bar(16)BarTuck(2)BarTuckL Sit(1)BarTuckParallel(1)</description>
+Bar(22)BarTuck(2)BarTuckL Sit(1)BarTuckParallel(1)</description>
     </item>
     
     <item>
@@ -572,8 +663,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/bar/</guid>
-      <description>There are 4 exercises using the keyword &amp;lsquo;Bar&amp;rsquo;
-Bar(16)BarHang(1)BarL Sit(5)BarLow(2)BarParallel(5)BarPassive(1)BarTuck(2)</description>
+      <description>There are 5 exercises using the keyword &amp;lsquo;Bar&amp;rsquo;
+Bar(22)BarHang(1)BarL Sit(5)BarLeg(2)BarLow(2)BarParallel(7)BarPassive(1)BarRaises(2)BarTuck(2)</description>
     </item>
     
     <item>
@@ -583,7 +674,7 @@
       
       <guid>https://mover.tips/names/bench/crusher/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Crusher&amp;rsquo;
-Bench(6)BenchCrusher(1)Bench Skull Crusher</description>
+Bench(8)BenchCrusher(1)Bench Skull Crusher</description>
     </item>
     
     <item>
@@ -593,7 +684,17 @@
       
       <guid>https://mover.tips/names/bench/extension/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Extension&amp;rsquo;
-Bench(6)BenchExtension(1)Bench Tricep Extension</description>
+Bench(8)BenchExtension(1)Bench Tricep Extension</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Bench / Push Up&#39; exercises</title>
+      <link>https://mover.tips/names/bench/push-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/bench/push-up/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Push Up&amp;rsquo;
+Bench(8)BenchPush Up(1)Bench Tricep Push Up</description>
     </item>
     
     <item>
@@ -603,7 +704,7 @@
       
       <guid>https://mover.tips/names/bench/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Raise&amp;rsquo;
-Bench(6)BenchRaise(1)Bench Single Leg Raise</description>
+Bench(8)BenchRaise(1)Bench Single Leg Raise</description>
     </item>
     
     <item>
@@ -613,7 +714,7 @@
       
       <guid>https://mover.tips/names/bench/single-leg/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Single Leg&amp;rsquo;
-Bench(6)BenchSingle Leg(1)Bench Single Leg Raise</description>
+Bench(8)BenchSingle Leg(1)Bench Single Leg Raise</description>
     </item>
     
     <item>
@@ -623,7 +724,7 @@
       
       <guid>https://mover.tips/names/bench/skull/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Skull&amp;rsquo;
-Bench(6)BenchSkull(1)Bench Skull Crusher</description>
+Bench(8)BenchSkull(1)Bench Skull Crusher</description>
     </item>
     
     <item>
@@ -633,7 +734,7 @@
       
       <guid>https://mover.tips/names/bench/tricep/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Bench / Tricep&amp;rsquo;
-Bench(6)BenchTricep(1)Bench Tricep Extension</description>
+Bench(8)BenchTricep(2)Bench Tricep ExtensionBench Tricep Push Up</description>
     </item>
     
     <item>
@@ -643,7 +744,7 @@
       
       <guid>https://mover.tips/names/bench/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Bench&amp;rsquo;
-Bench(6)BenchCrusher(1)BenchExtension(1)BenchRaise(1)BenchSingle Leg(1)BenchSkull(1)BenchTricep(1)</description>
+Bench(8)BenchCrusher(1)BenchExtension(1)BenchPush Up(1)BenchRaise(1)BenchSingle Leg(1)BenchSkull(1)BenchTricep(2)</description>
     </item>
     
     <item>
@@ -887,6 +988,36 @@
     </item>
     
     <item>
+      <title>Index for &#39;Circle / Push Up&#39; exercises</title>
+      <link>https://mover.tips/names/circle/push-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/circle/push-up/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Circle / Push Up&amp;rsquo;
+Circle(3)CirclePush Up(2)Circle Push UpVertical Circle Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Circle / Vertical&#39; exercises</title>
+      <link>https://mover.tips/names/circle/vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/circle/vertical/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Circle / Vertical&amp;rsquo;
+Circle(3)CircleVertical(1)Vertical Circle Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Circle&#39; exercises</title>
+      <link>https://mover.tips/names/circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/circle/</guid>
+      <description>There is 1 exercise using the keyword &amp;lsquo;Circle&amp;rsquo;
+Circle(3)CirclePush Up(2)CircleVertical(1)</description>
+    </item>
+    
+    <item>
       <title>Index for &#39;Clap&#39; exercises</title>
       <link>https://mover.tips/names/clap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -957,13 +1088,13 @@
     </item>
     
     <item>
-      <title>Index for &#39;Cross / Extensions&#39; exercises</title>
-      <link>https://mover.tips/names/cross/extensions/</link>
+      <title>Index for &#39;Cross / Extension&#39; exercises</title>
+      <link>https://mover.tips/names/cross/extension/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mover.tips/names/cross/extensions/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Cross / Extensions&amp;rsquo;
-Cross(6)CrossExtensions(1)Cross Triceps Extensions</description>
+      <guid>https://mover.tips/names/cross/extension/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Cross / Extension&amp;rsquo;
+Cross(6)CrossExtension(1)Cross Triceps Extensions</description>
     </item>
     
     <item>
@@ -1013,7 +1144,7 @@
       
       <guid>https://mover.tips/names/cross/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Cross&amp;rsquo;
-Cross(6)CrossExtensions(1)CrossIron(1)CrossPush Up(2)CrossTricep(1)CrossTriceps(1)</description>
+Cross(6)CrossExtension(1)CrossIron(1)CrossPush Up(2)CrossTricep(1)CrossTriceps(1)</description>
     </item>
     
     <item>
@@ -1053,7 +1184,7 @@
       
       <guid>https://mover.tips/names/crunch/air/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Air&amp;rsquo;
-Crunch(19)CrunchAir(1)Air Bike Crunch</description>
+Crunch(25)CrunchAir(1)Air Bike Crunch</description>
     </item>
     
     <item>
@@ -1063,7 +1194,7 @@
       
       <guid>https://mover.tips/names/crunch/alternate/elbow/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Alternate / Elbow&amp;rsquo;
-Crunch(19)CrunchAlternate(2)CrunchAlternateElbow(1)Alternate Crunch Elbow to Knee</description>
+Crunch(25)CrunchAlternate(2)CrunchAlternateElbow(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1073,7 +1204,7 @@
       
       <guid>https://mover.tips/names/crunch/alternate/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Alternate / Knee&amp;rsquo;
-Crunch(19)CrunchAlternate(2)CrunchAlternateKnee(1)Alternate Crunch Elbow to Knee</description>
+Crunch(25)CrunchAlternate(2)CrunchAlternateKnee(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1083,7 +1214,7 @@
       
       <guid>https://mover.tips/names/crunch/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Alternate&amp;rsquo;
-Crunch(19)CrunchAlternate(2)CrunchAlternateElbow(1)CrunchAlternateKnee(1)</description>
+Crunch(25)CrunchAlternate(2)CrunchAlternateElbow(1)CrunchAlternateKnee(1)</description>
     </item>
     
     <item>
@@ -1093,7 +1224,7 @@
       
       <guid>https://mover.tips/names/crunch/bike/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Bike&amp;rsquo;
-Crunch(19)CrunchBike(1)Air Bike Crunch</description>
+Crunch(25)CrunchBike(1)Air Bike Crunch</description>
     </item>
     
     <item>
@@ -1103,7 +1234,7 @@
       
       <guid>https://mover.tips/names/crunch/elbow/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Elbow / Alternate&amp;rsquo;
-Crunch(19)CrunchElbow(3)CrunchElbowAlternate(1)Alternate Crunch Elbow to Knee</description>
+Crunch(25)CrunchElbow(5)CrunchElbowAlternate(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1113,7 +1244,17 @@
       
       <guid>https://mover.tips/names/crunch/elbow/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Elbow / Knee&amp;rsquo;
-Crunch(19)CrunchElbow(3)CrunchElbowKnee(2)Knee to Elbow CrunchAlternate Crunch Elbow to Knee</description>
+Crunch(25)CrunchElbow(5)CrunchElbowKnee(3)Knee to Elbow CrunchAlternate Crunch Elbow to KneeLying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Crunch / Elbow / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/crunch/elbow/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/crunch/elbow/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Elbow / Lying&amp;rsquo;
+Crunch(25)CrunchElbow(5)CrunchElbowLying(1)Lying Knee to Elbow Crunch</description>
     </item>
     
     <item>
@@ -1123,7 +1264,7 @@
       
       <guid>https://mover.tips/names/crunch/elbow/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Elbow&amp;rsquo;
-Crunch(19)CrunchElbow(3)CrunchElbowAlternate(1)CrunchElbowKnee(2)</description>
+Crunch(25)CrunchElbow(5)CrunchElbowAlternate(1)CrunchElbowKnee(3)CrunchElbowLying(1)</description>
     </item>
     
     <item>
@@ -1133,7 +1274,7 @@
       
       <guid>https://mover.tips/names/crunch/floor/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Floor&amp;rsquo;
-Crunch(19)CrunchFloor(1)Floor L Sit Crunch</description>
+Crunch(25)CrunchFloor(1)Floor L Sit Crunch</description>
     </item>
     
     <item>
@@ -1143,7 +1284,7 @@
       
       <guid>https://mover.tips/names/crunch/knee/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Knee / Alternate&amp;rsquo;
-Crunch(19)CrunchKnee(3)CrunchKneeAlternate(1)Alternate Crunch Elbow to Knee</description>
+Crunch(25)CrunchKnee(5)CrunchKneeAlternate(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1153,7 +1294,17 @@
       
       <guid>https://mover.tips/names/crunch/knee/elbow/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Knee / Elbow&amp;rsquo;
-Crunch(19)CrunchKnee(3)CrunchKneeElbow(2)Knee to Elbow CrunchAlternate Crunch Elbow to Knee</description>
+Crunch(25)CrunchKnee(5)CrunchKneeElbow(3)Knee to Elbow CrunchAlternate Crunch Elbow to KneeLying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Crunch / Knee / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/crunch/knee/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/crunch/knee/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Knee / Lying&amp;rsquo;
+Crunch(25)CrunchKnee(5)CrunchKneeLying(1)Lying Knee to Elbow Crunch</description>
     </item>
     
     <item>
@@ -1163,7 +1314,7 @@
       
       <guid>https://mover.tips/names/crunch/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Knee&amp;rsquo;
-Crunch(19)CrunchKnee(3)CrunchKneeAlternate(1)CrunchKneeElbow(2)</description>
+Crunch(25)CrunchKnee(5)CrunchKneeAlternate(1)CrunchKneeElbow(3)CrunchKneeLying(1)</description>
     </item>
     
     <item>
@@ -1173,7 +1324,7 @@
       
       <guid>https://mover.tips/names/crunch/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / L Sit&amp;rsquo;
-Crunch(19)CrunchL Sit(2)Floor L Sit CrunchSeated L Sit Crunch</description>
+Crunch(25)CrunchL Sit(2)Floor L Sit CrunchSeated L Sit Crunch</description>
     </item>
     
     <item>
@@ -1183,7 +1334,37 @@
       
       <guid>https://mover.tips/names/crunch/leg/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Leg&amp;rsquo;
-Crunch(19)CrunchLeg(1)Raised Leg Crunch</description>
+Crunch(25)CrunchLeg(1)Raised Leg Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Crunch / Lying / Elbow&#39; exercises</title>
+      <link>https://mover.tips/names/crunch/lying/elbow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/crunch/lying/elbow/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Lying / Elbow&amp;rsquo;
+Crunch(25)CrunchLying(2)CrunchLyingElbow(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Crunch / Lying / Knee&#39; exercises</title>
+      <link>https://mover.tips/names/crunch/lying/knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/crunch/lying/knee/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Lying / Knee&amp;rsquo;
+Crunch(25)CrunchLying(2)CrunchLyingKnee(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Crunch / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/crunch/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/crunch/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Lying&amp;rsquo;
+Crunch(25)CrunchLying(2)CrunchLyingElbow(1)CrunchLyingKnee(1)</description>
     </item>
     
     <item>
@@ -1193,7 +1374,7 @@
       
       <guid>https://mover.tips/names/crunch/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Raise&amp;rsquo;
-Crunch(19)CrunchRaise(1)Raised Leg Crunch</description>
+Crunch(25)CrunchRaise(1)Raised Leg Crunch</description>
     </item>
     
     <item>
@@ -1203,7 +1384,7 @@
       
       <guid>https://mover.tips/names/crunch/seated/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crunch / Seated&amp;rsquo;
-Crunch(19)CrunchSeated(1)Seated L Sit Crunch</description>
+Crunch(25)CrunchSeated(1)Seated L Sit Crunch</description>
     </item>
     
     <item>
@@ -1213,7 +1394,7 @@
       
       <guid>https://mover.tips/names/crunch/</guid>
       <description>There are 5 exercises using the keyword &amp;lsquo;Crunch&amp;rsquo;
-Crunch(19)CrunchAir(1)CrunchAlternate(2)CrunchBike(1)CrunchElbow(3)CrunchFloor(1)CrunchKnee(3)CrunchL Sit(2)CrunchLeg(1)CrunchRaise(1)CrunchSeated(1)CrunchBicycle CrunchFoot to Foot Crunch</description>
+Crunch(25)CrunchAir(1)CrunchAlternate(2)CrunchBike(1)CrunchElbow(5)CrunchFloor(1)CrunchKnee(5)CrunchL Sit(2)CrunchLeg(1)CrunchLying(2)CrunchRaise(1)CrunchSeated(1)CrunchBicycle CrunchFoot to Foot Crunch</description>
     </item>
     
     <item>
@@ -1463,7 +1644,7 @@
       
       <guid>https://mover.tips/names/elbow/alternate/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Alternate / Crunch&amp;rsquo;
-Elbow(11)ElbowAlternate(2)ElbowAlternateCrunch(1)Alternate Crunch Elbow to Knee</description>
+Elbow(16)ElbowAlternate(2)ElbowAlternateCrunch(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1473,7 +1654,7 @@
       
       <guid>https://mover.tips/names/elbow/alternate/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Alternate / Knee&amp;rsquo;
-Elbow(11)ElbowAlternate(2)ElbowAlternateKnee(1)Alternate Crunch Elbow to Knee</description>
+Elbow(16)ElbowAlternate(2)ElbowAlternateKnee(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1483,7 +1664,7 @@
       
       <guid>https://mover.tips/names/elbow/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Alternate&amp;rsquo;
-Elbow(11)ElbowAlternate(2)ElbowAlternateCrunch(1)ElbowAlternateKnee(1)</description>
+Elbow(16)ElbowAlternate(2)ElbowAlternateCrunch(1)ElbowAlternateKnee(1)</description>
     </item>
     
     <item>
@@ -1493,7 +1674,7 @@
       
       <guid>https://mover.tips/names/elbow/crunch/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Crunch / Alternate&amp;rsquo;
-Elbow(11)ElbowCrunch(3)ElbowCrunchAlternate(1)Alternate Crunch Elbow to Knee</description>
+Elbow(16)ElbowCrunch(5)ElbowCrunchAlternate(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1503,7 +1684,17 @@
       
       <guid>https://mover.tips/names/elbow/crunch/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Crunch / Knee&amp;rsquo;
-Elbow(11)ElbowCrunch(3)ElbowCrunchKnee(2)Knee to Elbow CrunchAlternate Crunch Elbow to Knee</description>
+Elbow(16)ElbowCrunch(5)ElbowCrunchKnee(3)Knee to Elbow CrunchAlternate Crunch Elbow to KneeLying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Elbow / Crunch / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/elbow/crunch/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/elbow/crunch/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Crunch / Lying&amp;rsquo;
+Elbow(16)ElbowCrunch(5)ElbowCrunchLying(1)Lying Knee to Elbow Crunch</description>
     </item>
     
     <item>
@@ -1513,17 +1704,7 @@
       
       <guid>https://mover.tips/names/elbow/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Crunch&amp;rsquo;
-Elbow(11)ElbowCrunch(3)ElbowCrunchAlternate(1)ElbowCrunchKnee(2)</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Elbow / Hands&#39; exercises</title>
-      <link>https://mover.tips/names/elbow/hands/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/elbow/hands/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Hands&amp;rsquo;
-Elbow(11)ElbowHands(1)Elbow to Hands Plank</description>
+Elbow(16)ElbowCrunch(5)ElbowCrunchAlternate(1)ElbowCrunchKnee(3)ElbowCrunchLying(1)</description>
     </item>
     
     <item>
@@ -1533,7 +1714,7 @@
       
       <guid>https://mover.tips/names/elbow/knee/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Knee / Alternate&amp;rsquo;
-Elbow(11)ElbowKnee(3)ElbowKneeAlternate(1)Alternate Crunch Elbow to Knee</description>
+Elbow(16)ElbowKnee(5)ElbowKneeAlternate(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -1543,7 +1724,17 @@
       
       <guid>https://mover.tips/names/elbow/knee/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Knee / Crunch&amp;rsquo;
-Elbow(11)ElbowKnee(3)ElbowKneeCrunch(2)Knee to Elbow CrunchAlternate Crunch Elbow to Knee</description>
+Elbow(16)ElbowKnee(5)ElbowKneeCrunch(3)Knee to Elbow CrunchAlternate Crunch Elbow to KneeLying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Elbow / Knee / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/elbow/knee/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/elbow/knee/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Knee / Lying&amp;rsquo;
+Elbow(16)ElbowKnee(5)ElbowKneeLying(1)Lying Knee to Elbow Crunch</description>
     </item>
     
     <item>
@@ -1553,17 +1744,37 @@
       
       <guid>https://mover.tips/names/elbow/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Knee&amp;rsquo;
-Elbow(11)ElbowKnee(3)ElbowKneeAlternate(1)ElbowKneeCrunch(2)</description>
+Elbow(16)ElbowKnee(5)ElbowKneeAlternate(1)ElbowKneeCrunch(3)ElbowKneeLying(1)</description>
     </item>
     
     <item>
-      <title>Index for &#39;Elbow / Plank&#39; exercises</title>
-      <link>https://mover.tips/names/elbow/plank/</link>
+      <title>Index for &#39;Elbow / Lying / Crunch&#39; exercises</title>
+      <link>https://mover.tips/names/elbow/lying/crunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mover.tips/names/elbow/plank/</guid>
-      <description>There are 2 exercises using the keywords &amp;lsquo;Elbow / Plank&amp;rsquo;
-Elbow(11)ElbowPlank(2)Elbow PlankElbow to Hands Plank</description>
+      <guid>https://mover.tips/names/elbow/lying/crunch/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Lying / Crunch&amp;rsquo;
+Elbow(16)ElbowLying(2)ElbowLyingCrunch(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Elbow / Lying / Knee&#39; exercises</title>
+      <link>https://mover.tips/names/elbow/lying/knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/elbow/lying/knee/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Lying / Knee&amp;rsquo;
+Elbow(16)ElbowLying(2)ElbowLyingKnee(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Elbow / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/elbow/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/elbow/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Elbow / Lying&amp;rsquo;
+Elbow(16)ElbowLying(2)ElbowLyingCrunch(1)ElbowLyingKnee(1)</description>
     </item>
     
     <item>
@@ -1573,7 +1784,7 @@
       
       <guid>https://mover.tips/names/elbow/</guid>
       <description>There are 3 exercises using the keyword &amp;lsquo;Elbow&amp;rsquo;
-Elbow(11)ElbowAlternate(2)ElbowCrunch(3)ElbowHands(1)ElbowKnee(3)ElbowPlank(2)</description>
+Elbow(16)ElbowAlternate(2)ElbowCrunch(5)ElbowKnee(5)ElbowLying(2)Elbow to HandsElbow Plank</description>
     </item>
     
     <item>
@@ -1593,7 +1804,17 @@
       
       <guid>https://mover.tips/names/extension/bench/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Extension / Bench&amp;rsquo;
-Extension(8)ExtensionBench(1)Bench Tricep Extension</description>
+Extension(10)ExtensionBench(1)Bench Tricep Extension</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Extension / Cross&#39; exercises</title>
+      <link>https://mover.tips/names/extension/cross/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/extension/cross/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Extension / Cross&amp;rsquo;
+Extension(10)ExtensionCross(1)Cross Triceps Extensions</description>
     </item>
     
     <item>
@@ -1603,7 +1824,7 @@
       
       <guid>https://mover.tips/names/extension/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Extension / Knee&amp;rsquo;
-Extension(8)ExtensionKnee(1)Knee Triceps Extension</description>
+Extension(10)ExtensionKnee(1)Knee Triceps Extension</description>
     </item>
     
     <item>
@@ -1613,7 +1834,7 @@
       
       <guid>https://mover.tips/names/extension/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Extension / L Sit&amp;rsquo;
-Extension(8)ExtensionL Sit(1)L Sit Leg Extension</description>
+Extension(10)ExtensionL Sit(1)L Sit Leg Extension</description>
     </item>
     
     <item>
@@ -1623,7 +1844,7 @@
       
       <guid>https://mover.tips/names/extension/leg/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Extension / Leg&amp;rsquo;
-Extension(8)ExtensionLeg(1)L Sit Leg Extension</description>
+Extension(10)ExtensionLeg(1)L Sit Leg Extension</description>
     </item>
     
     <item>
@@ -1633,7 +1854,7 @@
       
       <guid>https://mover.tips/names/extension/push-up/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Extension / Push Up&amp;rsquo;
-Extension(8)ExtensionPush Up(1)Tricep Extension Push Up</description>
+Extension(10)ExtensionPush Up(1)Tricep Extension Push Up</description>
     </item>
     
     <item>
@@ -1643,7 +1864,7 @@
       
       <guid>https://mover.tips/names/extension/tricep/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Extension / Tricep&amp;rsquo;
-Extension(8)ExtensionTricep(2)Bench Tricep ExtensionTricep Extension Push Up</description>
+Extension(10)ExtensionTricep(2)Bench Tricep ExtensionTricep Extension Push Up</description>
     </item>
     
     <item>
@@ -1652,8 +1873,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/extension/triceps/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Extension / Triceps&amp;rsquo;
-Extension(8)ExtensionTriceps(1)Knee Triceps Extension</description>
+      <description>There are 2 exercises using the keywords &amp;lsquo;Extension / Triceps&amp;rsquo;
+Extension(10)ExtensionTriceps(2)Cross Triceps ExtensionsKnee Triceps Extension</description>
     </item>
     
     <item>
@@ -1662,38 +1883,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/extension/</guid>
-      <description>There are 4 exercises using the keyword &amp;lsquo;Extension&amp;rsquo;
-Extension(8)ExtensionBench(1)ExtensionKnee(1)ExtensionL Sit(1)ExtensionLeg(1)ExtensionPush Up(1)ExtensionTricep(2)ExtensionTriceps(1)</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Extensions / Cross&#39; exercises</title>
-      <link>https://mover.tips/names/extensions/cross/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/extensions/cross/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Extensions / Cross&amp;rsquo;
-Extensions(2)ExtensionsCross(1)Cross Triceps Extensions</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Extensions / Triceps&#39; exercises</title>
-      <link>https://mover.tips/names/extensions/triceps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/extensions/triceps/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Extensions / Triceps&amp;rsquo;
-Extensions(2)ExtensionsTriceps(1)Cross Triceps Extensions</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Extensions&#39; exercises</title>
-      <link>https://mover.tips/names/extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/extensions/</guid>
-      <description>There is 1 exercise using the keyword &amp;lsquo;Extensions&amp;rsquo;
-Extensions(2)ExtensionsCross(1)ExtensionsTriceps(1)</description>
+      <description>There are 5 exercises using the keyword &amp;lsquo;Extension&amp;rsquo;
+Extension(10)ExtensionBench(1)ExtensionCross(1)ExtensionKnee(1)ExtensionL Sit(1)ExtensionLeg(1)ExtensionPush Up(1)ExtensionTricep(2)ExtensionTriceps(2)</description>
     </item>
     
     <item>
@@ -2137,6 +2328,16 @@
     </item>
     
     <item>
+      <title>Index for &#39;Forearms&#39; exercises</title>
+      <link>https://mover.tips/names/forearms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/forearms/</guid>
+      <description>There is 1 exercise using the keyword &amp;lsquo;Forearms&amp;rsquo;
+Forearms(1)Forearms Push Up</description>
+    </item>
+    
+    <item>
       <title>Index for &#39;Forth / Back / Floor&#39; exercises</title>
       <link>https://mover.tips/names/forth/back/floor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2537,33 +2738,13 @@
     </item>
     
     <item>
-      <title>Index for &#39;Hands / Elbow&#39; exercises</title>
-      <link>https://mover.tips/names/hands/elbow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/hands/elbow/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Hands / Elbow&amp;rsquo;
-Hands(4)HandsElbow(1)Elbow to Hands Plank</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Hands / Plank&#39; exercises</title>
-      <link>https://mover.tips/names/hands/plank/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/hands/plank/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Hands / Plank&amp;rsquo;
-Hands(4)HandsPlank(1)Elbow to Hands Plank</description>
-    </item>
-    
-    <item>
       <title>Index for &#39;Hands / Push Up&#39; exercises</title>
       <link>https://mover.tips/names/hands/push-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/hands/push-up/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Hands / Push Up&amp;rsquo;
-Hands(4)HandsPush Up(1)Reverse Hands Push Up</description>
+Hands(3)HandsPush Up(1)Reverse Hands Push Up</description>
     </item>
     
     <item>
@@ -2573,7 +2754,7 @@
       
       <guid>https://mover.tips/names/hands/reverse/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Hands / Reverse&amp;rsquo;
-Hands(4)HandsReverse(1)Reverse Hands Push Up</description>
+Hands(3)HandsReverse(1)Reverse Hands Push Up</description>
     </item>
     
     <item>
@@ -2583,7 +2764,7 @@
       
       <guid>https://mover.tips/names/hands/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Hands&amp;rsquo;
-Hands(4)HandsElbow(1)HandsPlank(1)HandsPush Up(1)HandsReverse(1)</description>
+Hands(3)HandsPush Up(1)HandsReverse(1)Elbow to Hands</description>
     </item>
     
     <item>
@@ -3243,7 +3424,7 @@
       
       <guid>https://mover.tips/names/knee/alternate/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Alternate / Crunch&amp;rsquo;
-Knee(27)KneeAlternate(2)KneeAlternateCrunch(1)Alternate Crunch Elbow to Knee</description>
+Knee(35)KneeAlternate(2)KneeAlternateCrunch(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -3253,7 +3434,7 @@
       
       <guid>https://mover.tips/names/knee/alternate/elbow/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Alternate / Elbow&amp;rsquo;
-Knee(27)KneeAlternate(2)KneeAlternateElbow(1)Alternate Crunch Elbow to Knee</description>
+Knee(35)KneeAlternate(2)KneeAlternateElbow(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -3263,7 +3444,17 @@
       
       <guid>https://mover.tips/names/knee/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Alternate&amp;rsquo;
-Knee(27)KneeAlternate(2)KneeAlternateCrunch(1)KneeAlternateElbow(1)</description>
+Knee(35)KneeAlternate(2)KneeAlternateCrunch(1)KneeAlternateElbow(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Knee / Assisted&#39; exercises</title>
+      <link>https://mover.tips/names/knee/assisted/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/knee/assisted/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Assisted&amp;rsquo;
+Knee(35)KneeAssisted(1)Assisted Knee Push Up</description>
     </item>
     
     <item>
@@ -3273,7 +3464,7 @@
       
       <guid>https://mover.tips/names/knee/crunch/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Crunch / Alternate&amp;rsquo;
-Knee(27)KneeCrunch(3)KneeCrunchAlternate(1)Alternate Crunch Elbow to Knee</description>
+Knee(35)KneeCrunch(5)KneeCrunchAlternate(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -3283,7 +3474,17 @@
       
       <guid>https://mover.tips/names/knee/crunch/elbow/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Crunch / Elbow&amp;rsquo;
-Knee(27)KneeCrunch(3)KneeCrunchElbow(2)Knee to Elbow CrunchAlternate Crunch Elbow to Knee</description>
+Knee(35)KneeCrunch(5)KneeCrunchElbow(3)Knee to Elbow CrunchAlternate Crunch Elbow to KneeLying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Knee / Crunch / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/knee/crunch/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/knee/crunch/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Crunch / Lying&amp;rsquo;
+Knee(35)KneeCrunch(5)KneeCrunchLying(1)Lying Knee to Elbow Crunch</description>
     </item>
     
     <item>
@@ -3293,7 +3494,7 @@
       
       <guid>https://mover.tips/names/knee/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Crunch&amp;rsquo;
-Knee(27)KneeCrunch(3)KneeCrunchAlternate(1)KneeCrunchElbow(2)</description>
+Knee(35)KneeCrunch(5)KneeCrunchAlternate(1)KneeCrunchElbow(3)KneeCrunchLying(1)</description>
     </item>
     
     <item>
@@ -3303,7 +3504,7 @@
       
       <guid>https://mover.tips/names/knee/decline/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Decline&amp;rsquo;
-Knee(27)KneeDecline(1)Knee Decline Push Up</description>
+Knee(35)KneeDecline(1)Knee Decline Push Up</description>
     </item>
     
     <item>
@@ -3313,7 +3514,7 @@
       
       <guid>https://mover.tips/names/knee/elbow/alternate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Elbow / Alternate&amp;rsquo;
-Knee(27)KneeElbow(3)KneeElbowAlternate(1)Alternate Crunch Elbow to Knee</description>
+Knee(35)KneeElbow(5)KneeElbowAlternate(1)Alternate Crunch Elbow to Knee</description>
     </item>
     
     <item>
@@ -3323,7 +3524,17 @@
       
       <guid>https://mover.tips/names/knee/elbow/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Elbow / Crunch&amp;rsquo;
-Knee(27)KneeElbow(3)KneeElbowCrunch(2)Knee to Elbow CrunchAlternate Crunch Elbow to Knee</description>
+Knee(35)KneeElbow(5)KneeElbowCrunch(3)Knee to Elbow CrunchAlternate Crunch Elbow to KneeLying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Knee / Elbow / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/knee/elbow/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/knee/elbow/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Elbow / Lying&amp;rsquo;
+Knee(35)KneeElbow(5)KneeElbowLying(1)Lying Knee to Elbow Crunch</description>
     </item>
     
     <item>
@@ -3333,7 +3544,7 @@
       
       <guid>https://mover.tips/names/knee/elbow/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Elbow&amp;rsquo;
-Knee(27)KneeElbow(3)KneeElbowAlternate(1)KneeElbowCrunch(2)</description>
+Knee(35)KneeElbow(5)KneeElbowAlternate(1)KneeElbowCrunch(3)KneeElbowLying(1)</description>
     </item>
     
     <item>
@@ -3343,7 +3554,7 @@
       
       <guid>https://mover.tips/names/knee/extension/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Extension&amp;rsquo;
-Knee(27)KneeExtension(1)Knee Triceps Extension</description>
+Knee(35)KneeExtension(1)Knee Triceps Extension</description>
     </item>
     
     <item>
@@ -3353,7 +3564,7 @@
       
       <guid>https://mover.tips/names/knee/hold/parallettes/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Hold / Parallettes&amp;rsquo;
-Knee(27)KneeHold(2)KneeHoldParallettes(1)Knee Raise Hold, Parallettes</description>
+Knee(35)KneeHold(2)KneeHoldParallettes(1)Knee Raise Hold, Parallettes</description>
     </item>
     
     <item>
@@ -3363,7 +3574,7 @@
       
       <guid>https://mover.tips/names/knee/hold/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Hold / Raise&amp;rsquo;
-Knee(27)KneeHold(2)KneeHoldRaise(1)Knee Raise Hold, Parallettes</description>
+Knee(35)KneeHold(2)KneeHoldRaise(1)Knee Raise Hold, Parallettes</description>
     </item>
     
     <item>
@@ -3373,7 +3584,7 @@
       
       <guid>https://mover.tips/names/knee/hold/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Hold&amp;rsquo;
-Knee(27)KneeHold(2)KneeHoldParallettes(1)KneeHoldRaise(1)</description>
+Knee(35)KneeHold(2)KneeHoldParallettes(1)KneeHoldRaise(1)</description>
     </item>
     
     <item>
@@ -3383,7 +3594,7 @@
       
       <guid>https://mover.tips/names/knee/l-sit/single/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / L Sit / Single&amp;rsquo;
-Knee(27)KneeL Sit(2)KneeL SitSingle(1)L Sit Single Knee Tuck</description>
+Knee(35)KneeL Sit(2)KneeL SitSingle(1)L Sit Single Knee Tuck</description>
     </item>
     
     <item>
@@ -3393,7 +3604,7 @@
       
       <guid>https://mover.tips/names/knee/l-sit/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / L Sit / Tuck&amp;rsquo;
-Knee(27)KneeL Sit(2)KneeL SitTuck(1)L Sit Single Knee Tuck</description>
+Knee(35)KneeL Sit(2)KneeL SitTuck(1)L Sit Single Knee Tuck</description>
     </item>
     
     <item>
@@ -3403,7 +3614,37 @@
       
       <guid>https://mover.tips/names/knee/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / L Sit&amp;rsquo;
-Knee(27)KneeL Sit(2)KneeL SitSingle(1)KneeL SitTuck(1)</description>
+Knee(35)KneeL Sit(2)KneeL SitSingle(1)KneeL SitTuck(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Knee / Lying / Crunch&#39; exercises</title>
+      <link>https://mover.tips/names/knee/lying/crunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/knee/lying/crunch/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Lying / Crunch&amp;rsquo;
+Knee(35)KneeLying(2)KneeLyingCrunch(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Knee / Lying / Elbow&#39; exercises</title>
+      <link>https://mover.tips/names/knee/lying/elbow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/knee/lying/elbow/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Lying / Elbow&amp;rsquo;
+Knee(35)KneeLying(2)KneeLyingElbow(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Knee / Lying&#39; exercises</title>
+      <link>https://mover.tips/names/knee/lying/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/knee/lying/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Lying&amp;rsquo;
+Knee(35)KneeLying(2)KneeLyingCrunch(1)KneeLyingElbow(1)</description>
     </item>
     
     <item>
@@ -3413,7 +3654,7 @@
       
       <guid>https://mover.tips/names/knee/parallettes/hold/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Parallettes / Hold&amp;rsquo;
-Knee(27)KneeParallettes(2)KneeParallettesHold(1)Knee Raise Hold, Parallettes</description>
+Knee(35)KneeParallettes(2)KneeParallettesHold(1)Knee Raise Hold, Parallettes</description>
     </item>
     
     <item>
@@ -3423,7 +3664,7 @@
       
       <guid>https://mover.tips/names/knee/parallettes/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Parallettes / Raise&amp;rsquo;
-Knee(27)KneeParallettes(2)KneeParallettesRaise(1)Knee Raise Hold, Parallettes</description>
+Knee(35)KneeParallettes(2)KneeParallettesRaise(1)Knee Raise Hold, Parallettes</description>
     </item>
     
     <item>
@@ -3433,7 +3674,7 @@
       
       <guid>https://mover.tips/names/knee/parallettes/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Parallettes&amp;rsquo;
-Knee(27)KneeParallettes(2)KneeParallettesHold(1)KneeParallettesRaise(1)</description>
+Knee(35)KneeParallettes(2)KneeParallettesHold(1)KneeParallettesRaise(1)</description>
     </item>
     
     <item>
@@ -3443,7 +3684,7 @@
       
       <guid>https://mover.tips/names/knee/push-up/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Knee / Push Up&amp;rsquo;
-Knee(27)KneePush Up(3)Knee Push UpKnee Decline Push UpKnee Tricep Push Up</description>
+Knee(35)KneePush Up(4)Knee Push UpAssisted Knee Push UpKnee Decline Push UpKnee Tricep Push Up</description>
     </item>
     
     <item>
@@ -3453,7 +3694,7 @@
       
       <guid>https://mover.tips/names/knee/raise/hold/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Raise / Hold&amp;rsquo;
-Knee(27)KneeRaise(2)KneeRaiseHold(1)Knee Raise Hold, Parallettes</description>
+Knee(35)KneeRaise(2)KneeRaiseHold(1)Knee Raise Hold, Parallettes</description>
     </item>
     
     <item>
@@ -3463,7 +3704,7 @@
       
       <guid>https://mover.tips/names/knee/raise/parallettes/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Raise / Parallettes&amp;rsquo;
-Knee(27)KneeRaise(2)KneeRaiseParallettes(1)Knee Raise Hold, Parallettes</description>
+Knee(35)KneeRaise(2)KneeRaiseParallettes(1)Knee Raise Hold, Parallettes</description>
     </item>
     
     <item>
@@ -3473,7 +3714,7 @@
       
       <guid>https://mover.tips/names/knee/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Raise&amp;rsquo;
-Knee(27)KneeRaise(2)KneeRaiseHold(1)KneeRaiseParallettes(1)</description>
+Knee(35)KneeRaise(2)KneeRaiseHold(1)KneeRaiseParallettes(1)</description>
     </item>
     
     <item>
@@ -3483,7 +3724,7 @@
       
       <guid>https://mover.tips/names/knee/single/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Single / L Sit&amp;rsquo;
-Knee(27)KneeSingle(2)KneeSingleL Sit(1)L Sit Single Knee Tuck</description>
+Knee(35)KneeSingle(2)KneeSingleL Sit(1)L Sit Single Knee Tuck</description>
     </item>
     
     <item>
@@ -3493,7 +3734,7 @@
       
       <guid>https://mover.tips/names/knee/single/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Single / Tuck&amp;rsquo;
-Knee(27)KneeSingle(2)KneeSingleTuck(1)L Sit Single Knee Tuck</description>
+Knee(35)KneeSingle(2)KneeSingleTuck(1)L Sit Single Knee Tuck</description>
     </item>
     
     <item>
@@ -3503,7 +3744,7 @@
       
       <guid>https://mover.tips/names/knee/single/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Single&amp;rsquo;
-Knee(27)KneeSingle(2)KneeSingleL Sit(1)KneeSingleTuck(1)</description>
+Knee(35)KneeSingle(2)KneeSingleL Sit(1)KneeSingleTuck(1)</description>
     </item>
     
     <item>
@@ -3513,7 +3754,7 @@
       
       <guid>https://mover.tips/names/knee/tricep/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Tricep&amp;rsquo;
-Knee(27)KneeTricep(1)Knee Tricep Push Up</description>
+Knee(35)KneeTricep(1)Knee Tricep Push Up</description>
     </item>
     
     <item>
@@ -3523,7 +3764,7 @@
       
       <guid>https://mover.tips/names/knee/triceps/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Triceps&amp;rsquo;
-Knee(27)KneeTriceps(1)Knee Triceps Extension</description>
+Knee(35)KneeTriceps(1)Knee Triceps Extension</description>
     </item>
     
     <item>
@@ -3533,7 +3774,7 @@
       
       <guid>https://mover.tips/names/knee/tuck/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Tuck / L Sit&amp;rsquo;
-Knee(27)KneeTuck(2)KneeTuckL Sit(1)L Sit Single Knee Tuck</description>
+Knee(35)KneeTuck(2)KneeTuckL Sit(1)L Sit Single Knee Tuck</description>
     </item>
     
     <item>
@@ -3543,7 +3784,7 @@
       
       <guid>https://mover.tips/names/knee/tuck/single/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Tuck / Single&amp;rsquo;
-Knee(27)KneeTuck(2)KneeTuckSingle(1)L Sit Single Knee Tuck</description>
+Knee(35)KneeTuck(2)KneeTuckSingle(1)L Sit Single Knee Tuck</description>
     </item>
     
     <item>
@@ -3553,7 +3794,7 @@
       
       <guid>https://mover.tips/names/knee/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Knee / Tuck&amp;rsquo;
-Knee(27)KneeTuck(2)KneeTuckL Sit(1)KneeTuckSingle(1)</description>
+Knee(35)KneeTuck(2)KneeTuckL Sit(1)KneeTuckSingle(1)</description>
     </item>
     
     <item>
@@ -3563,7 +3804,7 @@
       
       <guid>https://mover.tips/names/knee/</guid>
       <description>There are 6 exercises using the keyword &amp;lsquo;Knee&amp;rsquo;
-Knee(27)KneeAlternate(2)KneeCrunch(3)KneeDecline(1)KneeElbow(3)KneeExtension(1)KneeHold(2)KneeL Sit(2)KneeParallettes(2)KneePush Up(3)KneeRaise(2)KneeSingle(2)KneeTricep(1)KneeTriceps(1)KneeTuck(2)</description>
+Knee(35)KneeAlternate(2)KneeAssisted(1)KneeCrunch(5)KneeDecline(1)KneeElbow(5)KneeExtension(1)KneeHold(2)KneeL Sit(2)KneeLying(2)KneeParallettes(2)KneePush Up(4)KneeRaise(2)KneeSingle(2)KneeTricep(1)KneeTriceps(1)KneeTuck(2)</description>
     </item>
     
     <item>
@@ -4667,13 +4908,43 @@
     </item>
     
     <item>
+      <title>Index for &#39;Leg / Bar / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/leg/bar/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/bar/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Bar / Parallel&amp;rsquo;
+Leg(48)LegBar(2)LegBarParallel(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Bar / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/leg/bar/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/bar/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Bar / Raises&amp;rsquo;
+Leg(48)LegBar(2)LegBarRaises(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/leg/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Bar&amp;rsquo;
+Leg(48)LegBar(2)LegBarParallel(1)LegBarRaises(1)</description>
+    </item>
+    
+    <item>
       <title>Index for &#39;Leg / Crunch&#39; exercises</title>
       <link>https://mover.tips/names/leg/crunch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/leg/crunch/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Crunch&amp;rsquo;
-Leg(42)LegCrunch(1)Raised Leg Crunch</description>
+Leg(48)LegCrunch(1)Raised Leg Crunch</description>
     </item>
     
     <item>
@@ -4683,7 +4954,7 @@
       
       <guid>https://mover.tips/names/leg/extension/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Extension&amp;rsquo;
-Leg(42)LegExtension(1)L Sit Leg Extension</description>
+Leg(48)LegExtension(1)L Sit Leg Extension</description>
     </item>
     
     <item>
@@ -4693,7 +4964,7 @@
       
       <guid>https://mover.tips/names/leg/front/lift/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Front / Lift&amp;rsquo;
-Leg(42)LegFront(5)LegFrontLift(1)Standing Front Leg Lift</description>
+Leg(48)LegFront(5)LegFrontLift(1)Standing Front Leg Lift</description>
     </item>
     
     <item>
@@ -4703,7 +4974,7 @@
       
       <guid>https://mover.tips/names/leg/front/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Front / Raise&amp;rsquo;
-Leg(42)LegFront(5)LegFrontRaise(2)Front Leg RaiseStanding Front Leg Raise</description>
+Leg(48)LegFront(5)LegFrontRaise(2)Front Leg RaiseStanding Front Leg Raise</description>
     </item>
     
     <item>
@@ -4713,7 +4984,7 @@
       
       <guid>https://mover.tips/names/leg/front/standing/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Front / Standing&amp;rsquo;
-Leg(42)LegFront(5)LegFrontStanding(2)Standing Front Leg LiftStanding Front Leg Raise</description>
+Leg(48)LegFront(5)LegFrontStanding(2)Standing Front Leg LiftStanding Front Leg Raise</description>
     </item>
     
     <item>
@@ -4723,7 +4994,7 @@
       
       <guid>https://mover.tips/names/leg/front/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Front&amp;rsquo;
-Leg(42)LegFront(5)LegFrontLift(1)LegFrontRaise(2)LegFrontStanding(2)</description>
+Leg(48)LegFront(5)LegFrontLift(1)LegFrontRaise(2)LegFrontStanding(2)</description>
     </item>
     
     <item>
@@ -4733,7 +5004,7 @@
       
       <guid>https://mover.tips/names/leg/l-sit/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Leg / L Sit&amp;rsquo;
-Leg(42)LegL Sit(2)L Sit Leg ExtensionL Sit Leg Raises</description>
+Leg(48)LegL Sit(2)L Sit Leg ExtensionL Sit Leg Raises</description>
     </item>
     
     <item>
@@ -4743,7 +5014,7 @@
       
       <guid>https://mover.tips/names/leg/lift/front/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Lift / Front&amp;rsquo;
-Leg(42)LegLift(6)LegLiftFront(1)Standing Front Leg Lift</description>
+Leg(48)LegLift(6)LegLiftFront(1)Standing Front Leg Lift</description>
     </item>
     
     <item>
@@ -4753,7 +5024,7 @@
       
       <guid>https://mover.tips/names/leg/lift/pike/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Lift / Pike&amp;rsquo;
-Leg(42)LegLift(6)LegLiftPike(1)Seated Pike Leg Lift</description>
+Leg(48)LegLift(6)LegLiftPike(1)Seated Pike Leg Lift</description>
     </item>
     
     <item>
@@ -4763,7 +5034,7 @@
       
       <guid>https://mover.tips/names/leg/lift/seated/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Lift / Seated&amp;rsquo;
-Leg(42)LegLift(6)LegLiftSeated(1)Seated Pike Leg Lift</description>
+Leg(48)LegLift(6)LegLiftSeated(1)Seated Pike Leg Lift</description>
     </item>
     
     <item>
@@ -4773,7 +5044,7 @@
       
       <guid>https://mover.tips/names/leg/lift/side/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Lift / Side&amp;rsquo;
-Leg(42)LegLift(6)LegLiftSide(1)Standing Side Leg Lift</description>
+Leg(48)LegLift(6)LegLiftSide(1)Standing Side Leg Lift</description>
     </item>
     
     <item>
@@ -4783,7 +5054,7 @@
       
       <guid>https://mover.tips/names/leg/lift/standing/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Leg / Lift / Standing&amp;rsquo;
-Leg(42)LegLift(6)LegLiftStanding(2)Standing Front Leg LiftStanding Side Leg Lift</description>
+Leg(48)LegLift(6)LegLiftStanding(2)Standing Front Leg LiftStanding Side Leg Lift</description>
     </item>
     
     <item>
@@ -4793,7 +5064,37 @@
       
       <guid>https://mover.tips/names/leg/lift/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Leg / Lift&amp;rsquo;
-Leg(42)LegLift(6)LegLiftFront(1)LegLiftPike(1)LegLiftSeated(1)LegLiftSide(1)LegLiftStanding(2)</description>
+Leg(48)LegLift(6)LegLiftFront(1)LegLiftPike(1)LegLiftSeated(1)LegLiftSide(1)LegLiftStanding(2)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Parallel / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/leg/parallel/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/parallel/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Parallel / Bar&amp;rsquo;
+Leg(48)LegParallel(2)LegParallelBar(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Parallel / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/leg/parallel/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/parallel/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Parallel / Raises&amp;rsquo;
+Leg(48)LegParallel(2)LegParallelRaises(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/leg/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Parallel&amp;rsquo;
+Leg(48)LegParallel(2)LegParallelBar(1)LegParallelRaises(1)</description>
     </item>
     
     <item>
@@ -4803,7 +5104,7 @@
       
       <guid>https://mover.tips/names/leg/pike/lift/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Pike / Lift&amp;rsquo;
-Leg(42)LegPike(2)LegPikeLift(1)Seated Pike Leg Lift</description>
+Leg(48)LegPike(2)LegPikeLift(1)Seated Pike Leg Lift</description>
     </item>
     
     <item>
@@ -4813,7 +5114,7 @@
       
       <guid>https://mover.tips/names/leg/pike/seated/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Pike / Seated&amp;rsquo;
-Leg(42)LegPike(2)LegPikeSeated(1)Seated Pike Leg Lift</description>
+Leg(48)LegPike(2)LegPikeSeated(1)Seated Pike Leg Lift</description>
     </item>
     
     <item>
@@ -4823,7 +5124,7 @@
       
       <guid>https://mover.tips/names/leg/pike/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Pike&amp;rsquo;
-Leg(42)LegPike(2)LegPikeLift(1)LegPikeSeated(1)</description>
+Leg(48)LegPike(2)LegPikeLift(1)LegPikeSeated(1)</description>
     </item>
     
     <item>
@@ -4833,7 +5134,7 @@
       
       <guid>https://mover.tips/names/leg/push-up/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Push Up&amp;rsquo;
-Leg(42)LegPush Up(1)Raise Leg Push Up</description>
+Leg(48)LegPush Up(1)Raise Leg Push Up</description>
     </item>
     
     <item>
@@ -4843,7 +5144,7 @@
       
       <guid>https://mover.tips/names/leg/raise/front/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Raise / Front&amp;rsquo;
-Leg(42)LegRaise(8)LegRaiseFront(2)Front Leg RaiseStanding Front Leg Raise</description>
+Leg(48)LegRaise(8)LegRaiseFront(2)Front Leg RaiseStanding Front Leg Raise</description>
     </item>
     
     <item>
@@ -4853,7 +5154,7 @@
       
       <guid>https://mover.tips/names/leg/raise/side/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Raise / Side&amp;rsquo;
-Leg(42)LegRaise(8)LegRaiseSide(2)Side Leg RaiseStanding Side Leg Raise</description>
+Leg(48)LegRaise(8)LegRaiseSide(2)Side Leg RaiseStanding Side Leg Raise</description>
     </item>
     
     <item>
@@ -4863,7 +5164,7 @@
       
       <guid>https://mover.tips/names/leg/raise/standing/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Leg / Raise / Standing&amp;rsquo;
-Leg(42)LegRaise(8)LegRaiseStanding(2)Standing Front Leg RaiseStanding Side Leg Raise</description>
+Leg(48)LegRaise(8)LegRaiseStanding(2)Standing Front Leg RaiseStanding Side Leg Raise</description>
     </item>
     
     <item>
@@ -4873,7 +5174,27 @@
       
       <guid>https://mover.tips/names/leg/raise/</guid>
       <description>There are 4 exercises using the keywords &amp;lsquo;Leg / Raise&amp;rsquo;
-Leg(42)LegRaise(8)LegRaiseFront(2)LegRaiseSide(2)LegRaiseStanding(2)Raised Leg CrunchRaise Leg Push Up</description>
+Leg(48)LegRaise(8)LegRaiseFront(2)LegRaiseSide(2)LegRaiseStanding(2)Raised Leg CrunchRaise Leg Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Raises / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/leg/raises/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/raises/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Raises / Bar&amp;rsquo;
+Leg(48)LegRaises(3)LegRaisesBar(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Leg / Raises / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/leg/raises/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/leg/raises/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Raises / Parallel&amp;rsquo;
+Leg(48)LegRaises(3)LegRaisesParallel(1)Parallel Bar Leg Raises</description>
     </item>
     
     <item>
@@ -4883,7 +5204,7 @@
       
       <guid>https://mover.tips/names/leg/raises/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Raises&amp;rsquo;
-Leg(42)LegRaises(1)L Sit Leg Raises</description>
+Leg(48)LegRaises(3)LegRaisesBar(1)LegRaisesParallel(1)L Sit Leg Raises</description>
     </item>
     
     <item>
@@ -4893,7 +5214,7 @@
       
       <guid>https://mover.tips/names/leg/seated/lift/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Seated / Lift&amp;rsquo;
-Leg(42)LegSeated(2)LegSeatedLift(1)Seated Pike Leg Lift</description>
+Leg(48)LegSeated(2)LegSeatedLift(1)Seated Pike Leg Lift</description>
     </item>
     
     <item>
@@ -4903,7 +5224,7 @@
       
       <guid>https://mover.tips/names/leg/seated/pike/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Seated / Pike&amp;rsquo;
-Leg(42)LegSeated(2)LegSeatedPike(1)Seated Pike Leg Lift</description>
+Leg(48)LegSeated(2)LegSeatedPike(1)Seated Pike Leg Lift</description>
     </item>
     
     <item>
@@ -4913,7 +5234,7 @@
       
       <guid>https://mover.tips/names/leg/seated/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Seated&amp;rsquo;
-Leg(42)LegSeated(2)LegSeatedLift(1)LegSeatedPike(1)</description>
+Leg(48)LegSeated(2)LegSeatedLift(1)LegSeatedPike(1)</description>
     </item>
     
     <item>
@@ -4923,7 +5244,7 @@
       
       <guid>https://mover.tips/names/leg/side/lift/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Side / Lift&amp;rsquo;
-Leg(42)LegSide(5)LegSideLift(1)Standing Side Leg Lift</description>
+Leg(48)LegSide(5)LegSideLift(1)Standing Side Leg Lift</description>
     </item>
     
     <item>
@@ -4933,7 +5254,7 @@
       
       <guid>https://mover.tips/names/leg/side/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Side / Raise&amp;rsquo;
-Leg(42)LegSide(5)LegSideRaise(2)Side Leg RaiseStanding Side Leg Raise</description>
+Leg(48)LegSide(5)LegSideRaise(2)Side Leg RaiseStanding Side Leg Raise</description>
     </item>
     
     <item>
@@ -4943,7 +5264,7 @@
       
       <guid>https://mover.tips/names/leg/side/standing/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Side / Standing&amp;rsquo;
-Leg(42)LegSide(5)LegSideStanding(2)Standing Side Leg LiftStanding Side Leg Raise</description>
+Leg(48)LegSide(5)LegSideStanding(2)Standing Side Leg LiftStanding Side Leg Raise</description>
     </item>
     
     <item>
@@ -4953,7 +5274,7 @@
       
       <guid>https://mover.tips/names/leg/side/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Side&amp;rsquo;
-Leg(42)LegSide(5)LegSideLift(1)LegSideRaise(2)LegSideStanding(2)</description>
+Leg(48)LegSide(5)LegSideLift(1)LegSideRaise(2)LegSideStanding(2)</description>
     </item>
     
     <item>
@@ -4963,7 +5284,7 @@
       
       <guid>https://mover.tips/names/leg/standing/front/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Standing / Front&amp;rsquo;
-Leg(42)LegStanding(8)LegStandingFront(2)Standing Front Leg LiftStanding Front Leg Raise</description>
+Leg(48)LegStanding(8)LegStandingFront(2)Standing Front Leg LiftStanding Front Leg Raise</description>
     </item>
     
     <item>
@@ -4973,7 +5294,7 @@
       
       <guid>https://mover.tips/names/leg/standing/lift/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Leg / Standing / Lift&amp;rsquo;
-Leg(42)LegStanding(8)LegStandingLift(2)Standing Front Leg LiftStanding Side Leg Lift</description>
+Leg(48)LegStanding(8)LegStandingLift(2)Standing Front Leg LiftStanding Side Leg Lift</description>
     </item>
     
     <item>
@@ -4983,7 +5304,7 @@
       
       <guid>https://mover.tips/names/leg/standing/raise/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Leg / Standing / Raise&amp;rsquo;
-Leg(42)LegStanding(8)LegStandingRaise(2)Standing Front Leg RaiseStanding Side Leg Raise</description>
+Leg(48)LegStanding(8)LegStandingRaise(2)Standing Front Leg RaiseStanding Side Leg Raise</description>
     </item>
     
     <item>
@@ -4993,7 +5314,7 @@
       
       <guid>https://mover.tips/names/leg/standing/side/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Leg / Standing / Side&amp;rsquo;
-Leg(42)LegStanding(8)LegStandingSide(2)Standing Side Leg LiftStanding Side Leg Raise</description>
+Leg(48)LegStanding(8)LegStandingSide(2)Standing Side Leg LiftStanding Side Leg Raise</description>
     </item>
     
     <item>
@@ -5003,7 +5324,7 @@
       
       <guid>https://mover.tips/names/leg/standing/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Leg / Standing&amp;rsquo;
-Leg(42)LegStanding(8)LegStandingFront(2)LegStandingLift(2)LegStandingRaise(2)LegStandingSide(2)</description>
+Leg(48)LegStanding(8)LegStandingFront(2)LegStandingLift(2)LegStandingRaise(2)LegStandingSide(2)</description>
     </item>
     
     <item>
@@ -5013,7 +5334,7 @@
       
       <guid>https://mover.tips/names/leg/</guid>
       <description>There are 7 exercises using the keyword &amp;lsquo;Leg&amp;rsquo;
-Leg(42)LegCrunch(1)LegExtension(1)LegFront(5)LegL Sit(2)LegLift(6)LegPike(2)LegPush Up(1)LegRaise(8)LegRaises(1)LegSeated(2)LegSide(5)LegStanding(8)</description>
+Leg(48)LegBar(2)LegCrunch(1)LegExtension(1)LegFront(5)LegL Sit(2)LegLift(6)LegParallel(2)LegPike(2)LegPush Up(1)LegRaise(8)LegRaises(3)LegSeated(2)LegSide(5)LegStanding(8)</description>
     </item>
     
     <item>
@@ -5527,13 +5848,103 @@
     </item>
     
     <item>
+      <title>Index for &#39;Lying / Crunch / Elbow&#39; exercises</title>
+      <link>https://mover.tips/names/lying/crunch/elbow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/crunch/elbow/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Crunch / Elbow&amp;rsquo;
+Lying(8)LyingCrunch(2)LyingCrunchElbow(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Crunch / Knee&#39; exercises</title>
+      <link>https://mover.tips/names/lying/crunch/knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/crunch/knee/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Crunch / Knee&amp;rsquo;
+Lying(8)LyingCrunch(2)LyingCrunchKnee(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Crunch&#39; exercises</title>
+      <link>https://mover.tips/names/lying/crunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/crunch/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Crunch&amp;rsquo;
+Lying(8)LyingCrunch(2)LyingCrunchElbow(1)LyingCrunchKnee(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Elbow / Crunch&#39; exercises</title>
+      <link>https://mover.tips/names/lying/elbow/crunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/elbow/crunch/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Elbow / Crunch&amp;rsquo;
+Lying(8)LyingElbow(2)LyingElbowCrunch(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Elbow / Knee&#39; exercises</title>
+      <link>https://mover.tips/names/lying/elbow/knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/elbow/knee/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Elbow / Knee&amp;rsquo;
+Lying(8)LyingElbow(2)LyingElbowKnee(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Elbow&#39; exercises</title>
+      <link>https://mover.tips/names/lying/elbow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/elbow/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Elbow&amp;rsquo;
+Lying(8)LyingElbow(2)LyingElbowCrunch(1)LyingElbowKnee(1)</description>
+    </item>
+    
+    <item>
       <title>Index for &#39;Lying / Heel&#39; exercises</title>
       <link>https://mover.tips/names/lying/heel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/lying/heel/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Heel&amp;rsquo;
-Lying(2)LyingHeel(1)Lying heel touches</description>
+Lying(8)LyingHeel(1)Lying heel touches</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Knee / Crunch&#39; exercises</title>
+      <link>https://mover.tips/names/lying/knee/crunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/knee/crunch/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Knee / Crunch&amp;rsquo;
+Lying(8)LyingKnee(2)LyingKneeCrunch(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Knee / Elbow&#39; exercises</title>
+      <link>https://mover.tips/names/lying/knee/elbow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/knee/elbow/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Knee / Elbow&amp;rsquo;
+Lying(8)LyingKnee(2)LyingKneeElbow(1)Lying Knee to Elbow Crunch</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Lying / Knee&#39; exercises</title>
+      <link>https://mover.tips/names/lying/knee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/lying/knee/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Knee&amp;rsquo;
+Lying(8)LyingKnee(2)LyingKneeCrunch(1)LyingKneeElbow(1)</description>
     </item>
     
     <item>
@@ -5543,7 +5954,7 @@
       
       <guid>https://mover.tips/names/lying/touches/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Lying / Touches&amp;rsquo;
-Lying(2)LyingTouches(1)Lying heel touches</description>
+Lying(8)LyingTouches(1)Lying heel touches</description>
     </item>
     
     <item>
@@ -5552,8 +5963,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/lying/</guid>
-      <description>There is 1 exercise using the keyword &amp;lsquo;Lying&amp;rsquo;
-Lying(2)LyingHeel(1)LyingTouches(1)</description>
+      <description>There are 2 exercises using the keyword &amp;lsquo;Lying&amp;rsquo;
+Lying(8)LyingCrunch(2)LyingElbow(2)LyingHeel(1)LyingKnee(2)LyingTouches(1)</description>
     </item>
     
     <item>
@@ -6033,7 +6444,17 @@
       
       <guid>https://mover.tips/names/parallel/bar/l-sit/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Parallel / Bar / L Sit&amp;rsquo;
-Parallel(14)ParallelBar(5)ParallelBarL Sit(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
+Parallel(20)ParallelBar(7)ParallelBarL Sit(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Bar / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/bar/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/bar/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Bar / Leg&amp;rsquo;
+Parallel(20)ParallelBar(7)ParallelBarLeg(1)Parallel Bar Leg Raises</description>
     </item>
     
     <item>
@@ -6043,7 +6464,17 @@
       
       <guid>https://mover.tips/names/parallel/bar/low/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Bar / Low&amp;rsquo;
-Parallel(14)ParallelBar(5)ParallelBarLow(1)Parallel Bar Low L Sit</description>
+Parallel(20)ParallelBar(7)ParallelBarLow(1)Parallel Bar Low L Sit</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Bar / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/bar/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/bar/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Bar / Raises&amp;rsquo;
+Parallel(20)ParallelBar(7)ParallelBarRaises(1)Parallel Bar Leg Raises</description>
     </item>
     
     <item>
@@ -6053,7 +6484,7 @@
       
       <guid>https://mover.tips/names/parallel/bar/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Bar / Tuck&amp;rsquo;
-Parallel(14)ParallelBar(5)ParallelBarTuck(1)Parallel Bar L Sit Tuck</description>
+Parallel(20)ParallelBar(7)ParallelBarTuck(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -6062,8 +6493,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/parallel/bar/</guid>
-      <description>There are 3 exercises using the keywords &amp;lsquo;Parallel / Bar&amp;rsquo;
-Parallel(14)ParallelBar(5)ParallelBarL Sit(3)ParallelBarLow(1)ParallelBarTuck(1)</description>
+      <description>There are 4 exercises using the keywords &amp;lsquo;Parallel / Bar&amp;rsquo;
+Parallel(20)ParallelBar(7)ParallelBarL Sit(3)ParallelBarLeg(1)ParallelBarLow(1)ParallelBarRaises(1)ParallelBarTuck(1)</description>
     </item>
     
     <item>
@@ -6073,7 +6504,7 @@
       
       <guid>https://mover.tips/names/parallel/l-sit/bar/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Parallel / L Sit / Bar&amp;rsquo;
-Parallel(14)ParallelL Sit(5)ParallelL SitBar(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
+Parallel(20)ParallelL Sit(5)ParallelL SitBar(3)Parallel Bar L SitParallel Bar Low L SitParallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -6083,7 +6514,7 @@
       
       <guid>https://mover.tips/names/parallel/l-sit/low/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / L Sit / Low&amp;rsquo;
-Parallel(14)ParallelL Sit(5)ParallelL SitLow(1)Parallel Bar Low L Sit</description>
+Parallel(20)ParallelL Sit(5)ParallelL SitLow(1)Parallel Bar Low L Sit</description>
     </item>
     
     <item>
@@ -6093,7 +6524,7 @@
       
       <guid>https://mover.tips/names/parallel/l-sit/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / L Sit / Tuck&amp;rsquo;
-Parallel(14)ParallelL Sit(5)ParallelL SitTuck(1)Parallel Bar L Sit Tuck</description>
+Parallel(20)ParallelL Sit(5)ParallelL SitTuck(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -6103,7 +6534,37 @@
       
       <guid>https://mover.tips/names/parallel/l-sit/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Parallel / L Sit&amp;rsquo;
-Parallel(14)ParallelL Sit(5)ParallelL SitBar(3)ParallelL SitLow(1)ParallelL SitTuck(1)</description>
+Parallel(20)ParallelL Sit(5)ParallelL SitBar(3)ParallelL SitLow(1)ParallelL SitTuck(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Leg / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/leg/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/leg/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Leg / Bar&amp;rsquo;
+Parallel(20)ParallelLeg(2)ParallelLegBar(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Leg / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/leg/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/leg/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Leg / Raises&amp;rsquo;
+Parallel(20)ParallelLeg(2)ParallelLegRaises(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Leg&amp;rsquo;
+Parallel(20)ParallelLeg(2)ParallelLegBar(1)ParallelLegRaises(1)</description>
     </item>
     
     <item>
@@ -6113,7 +6574,7 @@
       
       <guid>https://mover.tips/names/parallel/low/bar/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Low / Bar&amp;rsquo;
-Parallel(14)ParallelLow(2)ParallelLowBar(1)Parallel Bar Low L Sit</description>
+Parallel(20)ParallelLow(2)ParallelLowBar(1)Parallel Bar Low L Sit</description>
     </item>
     
     <item>
@@ -6123,7 +6584,7 @@
       
       <guid>https://mover.tips/names/parallel/low/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Low / L Sit&amp;rsquo;
-Parallel(14)ParallelLow(2)ParallelLowL Sit(1)Parallel Bar Low L Sit</description>
+Parallel(20)ParallelLow(2)ParallelLowL Sit(1)Parallel Bar Low L Sit</description>
     </item>
     
     <item>
@@ -6133,7 +6594,37 @@
       
       <guid>https://mover.tips/names/parallel/low/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Low&amp;rsquo;
-Parallel(14)ParallelLow(2)ParallelLowBar(1)ParallelLowL Sit(1)</description>
+Parallel(20)ParallelLow(2)ParallelLowBar(1)ParallelLowL Sit(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Raises / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/raises/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/raises/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Raises / Bar&amp;rsquo;
+Parallel(20)ParallelRaises(2)ParallelRaisesBar(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Raises / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/raises/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/raises/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Raises / Leg&amp;rsquo;
+Parallel(20)ParallelRaises(2)ParallelRaisesLeg(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Parallel / Raises&#39; exercises</title>
+      <link>https://mover.tips/names/parallel/raises/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/parallel/raises/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Raises&amp;rsquo;
+Parallel(20)ParallelRaises(2)ParallelRaisesBar(1)ParallelRaisesLeg(1)</description>
     </item>
     
     <item>
@@ -6143,7 +6634,7 @@
       
       <guid>https://mover.tips/names/parallel/tuck/bar/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Tuck / Bar&amp;rsquo;
-Parallel(14)ParallelTuck(2)ParallelTuckBar(1)Parallel Bar L Sit Tuck</description>
+Parallel(20)ParallelTuck(2)ParallelTuckBar(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -6153,7 +6644,7 @@
       
       <guid>https://mover.tips/names/parallel/tuck/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Tuck / L Sit&amp;rsquo;
-Parallel(14)ParallelTuck(2)ParallelTuckL Sit(1)Parallel Bar L Sit Tuck</description>
+Parallel(20)ParallelTuck(2)ParallelTuckL Sit(1)Parallel Bar L Sit Tuck</description>
     </item>
     
     <item>
@@ -6163,7 +6654,7 @@
       
       <guid>https://mover.tips/names/parallel/tuck/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Parallel / Tuck&amp;rsquo;
-Parallel(14)ParallelTuck(2)ParallelTuckBar(1)ParallelTuckL Sit(1)</description>
+Parallel(20)ParallelTuck(2)ParallelTuckBar(1)ParallelTuckL Sit(1)</description>
     </item>
     
     <item>
@@ -6172,8 +6663,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/parallel/</guid>
-      <description>There are 3 exercises using the keyword &amp;lsquo;Parallel&amp;rsquo;
-Parallel(14)ParallelBar(5)ParallelL Sit(5)ParallelLow(2)ParallelTuck(2)</description>
+      <description>There are 4 exercises using the keyword &amp;lsquo;Parallel&amp;rsquo;
+Parallel(20)ParallelBar(7)ParallelL Sit(5)ParallelLeg(2)ParallelLow(2)ParallelRaises(2)ParallelTuck(2)</description>
     </item>
     
     <item>
@@ -6543,27 +7034,7 @@
       
       <guid>https://mover.tips/names/plank/down/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Plank / Down&amp;rsquo;
-Plank(9)PlankDown(1)Up and Down Plank</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Plank / Elbow&#39; exercises</title>
-      <link>https://mover.tips/names/plank/elbow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/plank/elbow/</guid>
-      <description>There are 2 exercises using the keywords &amp;lsquo;Plank / Elbow&amp;rsquo;
-Plank(9)PlankElbow(2)Elbow PlankElbow to Hands Plank</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Plank / Hands&#39; exercises</title>
-      <link>https://mover.tips/names/plank/hands/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/plank/hands/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Plank / Hands&amp;rsquo;
-Plank(9)PlankHands(1)Elbow to Hands Plank</description>
+Plank(7)PlankDown(1)Up and Down Plank</description>
     </item>
     
     <item>
@@ -6573,7 +7044,7 @@
       
       <guid>https://mover.tips/names/plank/up/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Plank / Up&amp;rsquo;
-Plank(9)PlankUp(1)Up and Down Plank</description>
+Plank(7)PlankUp(1)Up and Down Plank</description>
     </item>
     
     <item>
@@ -6583,7 +7054,7 @@
       
       <guid>https://mover.tips/names/plank/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Plank&amp;rsquo;
-Plank(9)PlankDown(1)PlankElbow(2)PlankHands(1)PlankUp(1)Commando PlankForearm PlankLow PlankWalking Plank</description>
+Plank(7)PlankDown(1)PlankUp(1)Commando PlankElbow PlankForearm PlankLow PlankWalking Plank</description>
     </item>
     
     <item>
@@ -6713,7 +7184,7 @@
       
       <guid>https://mover.tips/names/push-up/assisted/one-arm/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Assisted / One Arm&amp;rsquo;
-Push Up(78)Push UpAssisted(3)Push UpAssistedOne Arm(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
+Push Up(87)Push UpAssisted(5)Push UpAssistedOne Arm(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -6723,7 +7194,7 @@
       
       <guid>https://mover.tips/names/push-up/assisted/unstable/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Assisted / Unstable&amp;rsquo;
-Push Up(78)Push UpAssisted(3)Push UpAssistedUnstable(1)Unstable Assisted One Arm Push Up</description>
+Push Up(87)Push UpAssisted(5)Push UpAssistedUnstable(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -6732,8 +7203,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/push-up/assisted/</guid>
-      <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Assisted&amp;rsquo;
-Push Up(78)Push UpAssisted(3)Push UpAssistedOne Arm(2)Push UpAssistedUnstable(1)</description>
+      <description>There are 3 exercises using the keywords &amp;lsquo;Push Up / Assisted&amp;rsquo;
+Push Up(87)Push UpAssisted(5)Push UpAssistedOne Arm(2)Push UpAssistedUnstable(1)Assisted Push UpAssisted Knee Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Push Up / Bench&#39; exercises</title>
+      <link>https://mover.tips/names/push-up/bench/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/push-up/bench/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Bench&amp;rsquo;
+Push Up(87)Push UpBench(1)Bench Tricep Push Up</description>
     </item>
     
     <item>
@@ -6743,7 +7224,17 @@
       
       <guid>https://mover.tips/names/push-up/bomber/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Bomber&amp;rsquo;
-Push Up(78)Push UpBomber(1)Dive Bomber Push Up</description>
+Push Up(87)Push UpBomber(1)Dive Bomber Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Push Up / Circle&#39; exercises</title>
+      <link>https://mover.tips/names/push-up/circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/push-up/circle/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Circle&amp;rsquo;
+Push Up(87)Push UpCircle(2)Circle Push UpVertical Circle Push Up</description>
     </item>
     
     <item>
@@ -6753,7 +7244,7 @@
       
       <guid>https://mover.tips/names/push-up/close/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Close&amp;rsquo;
-Push Up(78)Push UpClose(1)Close Grip Push Up</description>
+Push Up(87)Push UpClose(1)Close Grip Push Up</description>
     </item>
     
     <item>
@@ -6763,7 +7254,7 @@
       
       <guid>https://mover.tips/names/push-up/cross/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Cross&amp;rsquo;
-Push Up(78)Push UpCross(2)Iron Cross Push UpCross Tricep Push Up</description>
+Push Up(87)Push UpCross(2)Iron Cross Push UpCross Tricep Push Up</description>
     </item>
     
     <item>
@@ -6773,7 +7264,7 @@
       
       <guid>https://mover.tips/names/push-up/decline/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Decline&amp;rsquo;
-Push Up(78)Push UpDecline(2)Decline Push UpKnee Decline Push Up</description>
+Push Up(87)Push UpDecline(2)Decline Push UpKnee Decline Push Up</description>
     </item>
     
     <item>
@@ -6783,7 +7274,7 @@
       
       <guid>https://mover.tips/names/push-up/dive/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Dive&amp;rsquo;
-Push Up(78)Push UpDive(1)Dive Bomber Push Up</description>
+Push Up(87)Push UpDive(1)Dive Bomber Push Up</description>
     </item>
     
     <item>
@@ -6793,7 +7284,7 @@
       
       <guid>https://mover.tips/names/push-up/diver/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Diver&amp;rsquo;
-Push Up(78)Push UpDiver(2)Diver Push UpSky Diver Push Up</description>
+Push Up(87)Push UpDiver(2)Diver Push UpSky Diver Push Up</description>
     </item>
     
     <item>
@@ -6803,7 +7294,7 @@
       
       <guid>https://mover.tips/names/push-up/extension/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Extension&amp;rsquo;
-Push Up(78)Push UpExtension(1)Tricep Extension Push Up</description>
+Push Up(87)Push UpExtension(1)Tricep Extension Push Up</description>
     </item>
     
     <item>
@@ -6813,7 +7304,7 @@
       
       <guid>https://mover.tips/names/push-up/finger/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Finger&amp;rsquo;
-Push Up(78)Push UpFinger(1)Finger Wall Push Up</description>
+Push Up(87)Push UpFinger(1)Finger Wall Push Up</description>
     </item>
     
     <item>
@@ -6823,7 +7314,7 @@
       
       <guid>https://mover.tips/names/push-up/forward/one-arm/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Forward / One Arm&amp;rsquo;
-Push Up(78)Push UpForward(3)Push UpForwardOne Arm(1)Forward Slider One Arm Push Up</description>
+Push Up(87)Push UpForward(3)Push UpForwardOne Arm(1)Forward Slider One Arm Push Up</description>
     </item>
     
     <item>
@@ -6833,7 +7324,7 @@
       
       <guid>https://mover.tips/names/push-up/forward/slider/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Forward / Slider&amp;rsquo;
-Push Up(78)Push UpForward(3)Push UpForwardSlider(2)Forward Slider Push UpForward Slider One Arm Push Up</description>
+Push Up(87)Push UpForward(3)Push UpForwardSlider(2)Forward Slider Push UpForward Slider One Arm Push Up</description>
     </item>
     
     <item>
@@ -6843,7 +7334,7 @@
       
       <guid>https://mover.tips/names/push-up/forward/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Forward&amp;rsquo;
-Push Up(78)Push UpForward(3)Push UpForwardOne Arm(1)Push UpForwardSlider(2)</description>
+Push Up(87)Push UpForward(3)Push UpForwardOne Arm(1)Push UpForwardSlider(2)</description>
     </item>
     
     <item>
@@ -6853,7 +7344,7 @@
       
       <guid>https://mover.tips/names/push-up/grip/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Push Up / Grip&amp;rsquo;
-Push Up(78)Push UpGrip(3)Close Grip Push UpReverse Grip Push UpWide Grip Push Up</description>
+Push Up(87)Push UpGrip(3)Close Grip Push UpReverse Grip Push UpWide Grip Push Up</description>
     </item>
     
     <item>
@@ -6863,7 +7354,7 @@
       
       <guid>https://mover.tips/names/push-up/hands/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Hands&amp;rsquo;
-Push Up(78)Push UpHands(1)Reverse Hands Push Up</description>
+Push Up(87)Push UpHands(1)Reverse Hands Push Up</description>
     </item>
     
     <item>
@@ -6873,7 +7364,7 @@
       
       <guid>https://mover.tips/names/push-up/incline/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Incline&amp;rsquo;
-Push Up(78)Push UpIncline(2)Incline Push UpIncline One Arm Push Up</description>
+Push Up(87)Push UpIncline(2)Incline Push UpIncline One Arm Push Up</description>
     </item>
     
     <item>
@@ -6883,7 +7374,7 @@
       
       <guid>https://mover.tips/names/push-up/iron/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Iron&amp;rsquo;
-Push Up(78)Push UpIron(1)Iron Cross Push Up</description>
+Push Up(87)Push UpIron(1)Iron Cross Push Up</description>
     </item>
     
     <item>
@@ -6893,7 +7384,7 @@
       
       <guid>https://mover.tips/names/push-up/knee/</guid>
       <description>There are 3 exercises using the keywords &amp;lsquo;Push Up / Knee&amp;rsquo;
-Push Up(78)Push UpKnee(3)Knee Push UpKnee Decline Push UpKnee Tricep Push Up</description>
+Push Up(87)Push UpKnee(4)Knee Push UpAssisted Knee Push UpKnee Decline Push UpKnee Tricep Push Up</description>
     </item>
     
     <item>
@@ -6903,7 +7394,7 @@
       
       <guid>https://mover.tips/names/push-up/leg/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Leg&amp;rsquo;
-Push Up(78)Push UpLeg(1)Raise Leg Push Up</description>
+Push Up(87)Push UpLeg(1)Raise Leg Push Up</description>
     </item>
     
     <item>
@@ -6913,7 +7404,7 @@
       
       <guid>https://mover.tips/names/push-up/one-arm/assisted/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / One Arm / Assisted&amp;rsquo;
-Push Up(78)Push UpOne Arm(8)Push UpOne ArmAssisted(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
+Push Up(87)Push UpOne Arm(8)Push UpOne ArmAssisted(2)Assisted One Arm Push UpUnstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -6923,7 +7414,7 @@
       
       <guid>https://mover.tips/names/push-up/one-arm/forward/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / One Arm / Forward&amp;rsquo;
-Push Up(78)Push UpOne Arm(8)Push UpOne ArmForward(1)Forward Slider One Arm Push Up</description>
+Push Up(87)Push UpOne Arm(8)Push UpOne ArmForward(1)Forward Slider One Arm Push Up</description>
     </item>
     
     <item>
@@ -6933,7 +7424,7 @@
       
       <guid>https://mover.tips/names/push-up/one-arm/slider/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / One Arm / Slider&amp;rsquo;
-Push Up(78)Push UpOne Arm(8)Push UpOne ArmSlider(2)One Arm Slider Push UpForward Slider One Arm Push Up</description>
+Push Up(87)Push UpOne Arm(8)Push UpOne ArmSlider(2)One Arm Slider Push UpForward Slider One Arm Push Up</description>
     </item>
     
     <item>
@@ -6943,7 +7434,7 @@
       
       <guid>https://mover.tips/names/push-up/one-arm/unstable/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / One Arm / Unstable&amp;rsquo;
-Push Up(78)Push UpOne Arm(8)Push UpOne ArmUnstable(1)Unstable Assisted One Arm Push Up</description>
+Push Up(87)Push UpOne Arm(8)Push UpOne ArmUnstable(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -6953,7 +7444,7 @@
       
       <guid>https://mover.tips/names/push-up/one-arm/</guid>
       <description>There are 5 exercises using the keywords &amp;lsquo;Push Up / One Arm&amp;rsquo;
-Push Up(78)Push UpOne Arm(8)Push UpOne ArmAssisted(2)Push UpOne ArmForward(1)Push UpOne ArmSlider(2)Push UpOne ArmUnstable(1)One Arm Push UpIncline One Arm Push Up</description>
+Push Up(87)Push UpOne Arm(8)Push UpOne ArmAssisted(2)Push UpOne ArmForward(1)Push UpOne ArmSlider(2)Push UpOne ArmUnstable(1)One Arm Push UpIncline One Arm Push Up</description>
     </item>
     
     <item>
@@ -6963,7 +7454,7 @@
       
       <guid>https://mover.tips/names/push-up/raise/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Raise&amp;rsquo;
-Push Up(78)Push UpRaise(1)Raise Leg Push Up</description>
+Push Up(87)Push UpRaise(1)Raise Leg Push Up</description>
     </item>
     
     <item>
@@ -6973,7 +7464,7 @@
       
       <guid>https://mover.tips/names/push-up/reach/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Reach&amp;rsquo;
-Push Up(78)Push UpReach(1)Push Up Reach on Slider</description>
+Push Up(87)Push UpReach(1)Push Up Reach on Slider</description>
     </item>
     
     <item>
@@ -6983,7 +7474,7 @@
       
       <guid>https://mover.tips/names/push-up/renegate/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Renegate&amp;rsquo;
-Push Up(78)Push UpRenegate(1)Renegate Rows Push Up</description>
+Push Up(87)Push UpRenegate(1)Renegate Rows Push Up</description>
     </item>
     
     <item>
@@ -6993,7 +7484,7 @@
       
       <guid>https://mover.tips/names/push-up/reverse/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Reverse&amp;rsquo;
-Push Up(78)Push UpReverse(2)Reverse Grip Push UpReverse Hands Push Up</description>
+Push Up(87)Push UpReverse(2)Reverse Grip Push UpReverse Hands Push Up</description>
     </item>
     
     <item>
@@ -7003,7 +7494,7 @@
       
       <guid>https://mover.tips/names/push-up/rows/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Rows&amp;rsquo;
-Push Up(78)Push UpRows(1)Renegate Rows Push Up</description>
+Push Up(87)Push UpRows(1)Renegate Rows Push Up</description>
     </item>
     
     <item>
@@ -7013,7 +7504,7 @@
       
       <guid>https://mover.tips/names/push-up/sky/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Sky&amp;rsquo;
-Push Up(78)Push UpSky(1)Sky Diver Push Up</description>
+Push Up(87)Push UpSky(1)Sky Diver Push Up</description>
     </item>
     
     <item>
@@ -7023,7 +7514,7 @@
       
       <guid>https://mover.tips/names/push-up/slider/forward/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Slider / Forward&amp;rsquo;
-Push Up(78)Push UpSlider(5)Push UpSliderForward(2)Forward Slider Push UpForward Slider One Arm Push Up</description>
+Push Up(87)Push UpSlider(5)Push UpSliderForward(2)Forward Slider Push UpForward Slider One Arm Push Up</description>
     </item>
     
     <item>
@@ -7033,7 +7524,7 @@
       
       <guid>https://mover.tips/names/push-up/slider/one-arm/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Slider / One Arm&amp;rsquo;
-Push Up(78)Push UpSlider(5)Push UpSliderOne Arm(2)One Arm Slider Push UpForward Slider One Arm Push Up</description>
+Push Up(87)Push UpSlider(5)Push UpSliderOne Arm(2)One Arm Slider Push UpForward Slider One Arm Push Up</description>
     </item>
     
     <item>
@@ -7043,7 +7534,7 @@
       
       <guid>https://mover.tips/names/push-up/slider/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Slider&amp;rsquo;
-Push Up(78)Push UpSlider(5)Push UpSliderForward(2)Push UpSliderOne Arm(2)Push Up Reach on Slider</description>
+Push Up(87)Push UpSlider(5)Push UpSliderForward(2)Push UpSliderOne Arm(2)Push Up Reach on Slider</description>
     </item>
     
     <item>
@@ -7052,8 +7543,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/push-up/tricep/</guid>
-      <description>There are 4 exercises using the keywords &amp;lsquo;Push Up / Tricep&amp;rsquo;
-Push Up(78)Push UpTricep(5)Tricep Push UpCross Tricep Push UpTricep Extension Push UpKnee Tricep Push UpTricep Wall Push Up</description>
+      <description>There are 5 exercises using the keywords &amp;lsquo;Push Up / Tricep&amp;rsquo;
+Push Up(87)Push UpTricep(6)Tricep Push UpBench Tricep Push UpCross Tricep Push UpTricep Extension Push UpKnee Tricep Push UpTricep Wall Push Up</description>
     </item>
     
     <item>
@@ -7063,7 +7554,7 @@
       
       <guid>https://mover.tips/names/push-up/unstable/assisted/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Unstable / Assisted&amp;rsquo;
-Push Up(78)Push UpUnstable(2)Push UpUnstableAssisted(1)Unstable Assisted One Arm Push Up</description>
+Push Up(87)Push UpUnstable(2)Push UpUnstableAssisted(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -7073,7 +7564,7 @@
       
       <guid>https://mover.tips/names/push-up/unstable/one-arm/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Unstable / One Arm&amp;rsquo;
-Push Up(78)Push UpUnstable(2)Push UpUnstableOne Arm(1)Unstable Assisted One Arm Push Up</description>
+Push Up(87)Push UpUnstable(2)Push UpUnstableOne Arm(1)Unstable Assisted One Arm Push Up</description>
     </item>
     
     <item>
@@ -7083,7 +7574,17 @@
       
       <guid>https://mover.tips/names/push-up/unstable/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Unstable&amp;rsquo;
-Push Up(78)Push UpUnstable(2)Push UpUnstableAssisted(1)Push UpUnstableOne Arm(1)</description>
+Push Up(87)Push UpUnstable(2)Push UpUnstableAssisted(1)Push UpUnstableOne Arm(1)</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Push Up / Vertical&#39; exercises</title>
+      <link>https://mover.tips/names/push-up/vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/push-up/vertical/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Vertical&amp;rsquo;
+Push Up(87)Push UpVertical(1)Vertical Circle Push Up</description>
     </item>
     
     <item>
@@ -7093,7 +7594,7 @@
       
       <guid>https://mover.tips/names/push-up/wall/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Push Up / Wall&amp;rsquo;
-Push Up(78)Push UpWall(2)Finger Wall Push UpTricep Wall Push Up</description>
+Push Up(87)Push UpWall(2)Finger Wall Push UpTricep Wall Push Up</description>
     </item>
     
     <item>
@@ -7103,7 +7604,7 @@
       
       <guid>https://mover.tips/names/push-up/wide/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Push Up / Wide&amp;rsquo;
-Push Up(78)Push UpWide(1)Wide Grip Push Up</description>
+Push Up(87)Push UpWide(1)Wide Grip Push Up</description>
     </item>
     
     <item>
@@ -7112,8 +7613,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/push-up/</guid>
-      <description>There are 30 exercises using the keyword &amp;lsquo;Push Up&amp;rsquo;
-Push Up(78)Push UpAssisted(3)Push UpBomber(1)Push UpClose(1)Push UpCross(2)Push UpDecline(2)Push UpDive(1)Push UpDiver(2)Push UpExtension(1)Push UpFinger(1)Push UpForward(3)Push UpGrip(3)Push UpHands(1)Push UpIncline(2)Push UpIron(1)Push UpKnee(3)Push UpLeg(1)Push UpOne Arm(8)Push UpRaise(1)Push UpReach(1)Push UpRenegate(1)Push UpReverse(2)Push UpRows(1)Push UpSky(1)Push UpSlider(5)Push UpTricep(5)Push UpUnstable(2)Push UpWall(2)Push UpWide(1)Push UpArcher Push UpBicep Push UpClap Push UpDiamond Push UpDragon Push UpExplosive Push UpForearm Push UpHindu Push UpOne Leg Push UpPike Push UpPlyo Push UpRenegade Push UpSeal Push UpShoulder Push UpShuffle Push UpSpiderman Push UpStacked Push UpStaggered Push UpTiger Push Up</description>
+      <description>There are 33 exercises using the keyword &amp;lsquo;Push Up&amp;rsquo;
+Push Up(87)Push UpAssisted(5)Push UpBench(1)Push UpBomber(1)Push UpCircle(2)Push UpClose(1)Push UpCross(2)Push UpDecline(2)Push UpDive(1)Push UpDiver(2)Push UpExtension(1)Push UpFinger(1)Push UpForward(3)Push UpGrip(3)Push UpHands(1)Push UpIncline(2)Push UpIron(1)Push UpKnee(4)Push UpLeg(1)Push UpOne Arm(8)Push UpRaise(1)Push UpReach(1)Push UpRenegate(1)Push UpReverse(2)Push UpRows(1)Push UpSky(1)Push UpSlider(5)Push UpTricep(6)Push UpUnstable(2)Push UpVertical(1)Push UpWall(2)Push UpWide(1)Push UpArcher Push UpBicep Push UpClap Push UpDiamond Push UpDragon Push UpExplosive Push UpForearm Push UpForearms Push UpHindu Push UpOne Leg Push UpPike Push UpPlyo Push UpRenegade Push UpSeal Push UpShoulder Push UpShuffle Push UpSpiderman Push UpStacked Push UpStaggered Push UpTiger Push Up</description>
     </item>
     
     <item>
@@ -7537,13 +8038,63 @@
     </item>
     
     <item>
+      <title>Index for &#39;Raises / Bar / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/raises/bar/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/bar/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Bar / Leg&amp;rsquo;
+Raises(8)RaisesBar(2)RaisesBarLeg(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Bar / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/raises/bar/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/bar/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Bar / Parallel&amp;rsquo;
+Raises(8)RaisesBar(2)RaisesBarParallel(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/raises/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Bar&amp;rsquo;
+Raises(8)RaisesBar(2)RaisesBarLeg(1)RaisesBarParallel(1)</description>
+    </item>
+    
+    <item>
       <title>Index for &#39;Raises / L Sit&#39; exercises</title>
       <link>https://mover.tips/names/raises/l-sit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/raises/l-sit/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Raises / L Sit&amp;rsquo;
-Raises(2)RaisesL Sit(1)L Sit Leg Raises</description>
+Raises(8)RaisesL Sit(1)L Sit Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Leg / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/raises/leg/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/leg/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Leg / Bar&amp;rsquo;
+Raises(8)RaisesLeg(3)RaisesLegBar(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Leg / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/raises/leg/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/leg/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Leg / Parallel&amp;rsquo;
+Raises(8)RaisesLeg(3)RaisesLegParallel(1)Parallel Bar Leg Raises</description>
     </item>
     
     <item>
@@ -7553,7 +8104,37 @@
       
       <guid>https://mover.tips/names/raises/leg/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Leg&amp;rsquo;
-Raises(2)RaisesLeg(1)L Sit Leg Raises</description>
+Raises(8)RaisesLeg(3)RaisesLegBar(1)RaisesLegParallel(1)L Sit Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Parallel / Bar&#39; exercises</title>
+      <link>https://mover.tips/names/raises/parallel/bar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/parallel/bar/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Parallel / Bar&amp;rsquo;
+Raises(8)RaisesParallel(2)RaisesParallelBar(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Parallel / Leg&#39; exercises</title>
+      <link>https://mover.tips/names/raises/parallel/leg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/parallel/leg/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Parallel / Leg&amp;rsquo;
+Raises(8)RaisesParallel(2)RaisesParallelLeg(1)Parallel Bar Leg Raises</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Raises / Parallel&#39; exercises</title>
+      <link>https://mover.tips/names/raises/parallel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/raises/parallel/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Raises / Parallel&amp;rsquo;
+Raises(8)RaisesParallel(2)RaisesParallelBar(1)RaisesParallelLeg(1)</description>
     </item>
     
     <item>
@@ -7563,7 +8144,7 @@
       
       <guid>https://mover.tips/names/raises/</guid>
       <description>There is 1 exercise using the keyword &amp;lsquo;Raises&amp;rsquo;
-Raises(2)RaisesL Sit(1)RaisesLeg(1)</description>
+Raises(8)RaisesBar(2)RaisesL Sit(1)RaisesLeg(3)RaisesParallel(2)</description>
     </item>
     
     <item>
@@ -9663,7 +10244,7 @@
       
       <guid>https://mover.tips/names/tricep/bench/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Tricep / Bench&amp;rsquo;
-Tricep(11)TricepBench(1)Bench Tricep Extension</description>
+Tricep(13)TricepBench(2)Bench Tricep ExtensionBench Tricep Push Up</description>
     </item>
     
     <item>
@@ -9673,7 +10254,7 @@
       
       <guid>https://mover.tips/names/tricep/cross/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Tricep / Cross&amp;rsquo;
-Tricep(11)TricepCross(1)Cross Tricep Push Up</description>
+Tricep(13)TricepCross(1)Cross Tricep Push Up</description>
     </item>
     
     <item>
@@ -9683,7 +10264,7 @@
       
       <guid>https://mover.tips/names/tricep/extension/</guid>
       <description>There are 2 exercises using the keywords &amp;lsquo;Tricep / Extension&amp;rsquo;
-Tricep(11)TricepExtension(2)Bench Tricep ExtensionTricep Extension Push Up</description>
+Tricep(13)TricepExtension(2)Bench Tricep ExtensionTricep Extension Push Up</description>
     </item>
     
     <item>
@@ -9693,7 +10274,7 @@
       
       <guid>https://mover.tips/names/tricep/knee/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Tricep / Knee&amp;rsquo;
-Tricep(11)TricepKnee(1)Knee Tricep Push Up</description>
+Tricep(13)TricepKnee(1)Knee Tricep Push Up</description>
     </item>
     
     <item>
@@ -9702,8 +10283,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/tricep/push-up/</guid>
-      <description>There are 4 exercises using the keywords &amp;lsquo;Tricep / Push Up&amp;rsquo;
-Tricep(11)TricepPush Up(5)Tricep Push UpCross Tricep Push UpTricep Extension Push UpKnee Tricep Push UpTricep Wall Push Up</description>
+      <description>There are 5 exercises using the keywords &amp;lsquo;Tricep / Push Up&amp;rsquo;
+Tricep(13)TricepPush Up(6)Tricep Push UpBench Tricep Push UpCross Tricep Push UpTricep Extension Push UpKnee Tricep Push UpTricep Wall Push Up</description>
     </item>
     
     <item>
@@ -9713,7 +10294,7 @@
       
       <guid>https://mover.tips/names/tricep/wall/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Tricep / Wall&amp;rsquo;
-Tricep(11)TricepWall(1)Tricep Wall Push Up</description>
+Tricep(13)TricepWall(1)Tricep Wall Push Up</description>
     </item>
     
     <item>
@@ -9723,7 +10304,7 @@
       
       <guid>https://mover.tips/names/tricep/</guid>
       <description>There are 5 exercises using the keyword &amp;lsquo;Tricep&amp;rsquo;
-Tricep(11)TricepBench(1)TricepCross(1)TricepExtension(2)TricepKnee(1)TricepPush Up(5)TricepWall(1)</description>
+Tricep(13)TricepBench(2)TricepCross(1)TricepExtension(2)TricepKnee(1)TricepPush Up(6)TricepWall(1)</description>
     </item>
     
     <item>
@@ -9742,18 +10323,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/triceps/extension/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Triceps / Extension&amp;rsquo;
-Triceps(4)TricepsExtension(1)Knee Triceps Extension</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Triceps / Extensions&#39; exercises</title>
-      <link>https://mover.tips/names/triceps/extensions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/triceps/extensions/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Triceps / Extensions&amp;rsquo;
-Triceps(4)TricepsExtensions(1)Cross Triceps Extensions</description>
+      <description>There are 2 exercises using the keywords &amp;lsquo;Triceps / Extension&amp;rsquo;
+Triceps(4)TricepsExtension(2)Cross Triceps ExtensionsKnee Triceps Extension</description>
     </item>
     
     <item>
@@ -9773,7 +10344,7 @@
       
       <guid>https://mover.tips/names/triceps/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Triceps&amp;rsquo;
-Triceps(4)TricepsCross(1)TricepsExtension(1)TricepsExtensions(1)TricepsKnee(1)</description>
+Triceps(4)TricepsCross(1)TricepsExtension(2)TricepsKnee(1)</description>
     </item>
     
     <item>
@@ -10264,6 +10835,36 @@
       <guid>https://mover.tips/names/v-sit/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;V-Sit&amp;rsquo;
 V-Sit(3)V-SitPlanche(1)V-SitTuck(1)Floor V-Sit</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Vertical / Circle&#39; exercises</title>
+      <link>https://mover.tips/names/vertical/circle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/vertical/circle/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Vertical / Circle&amp;rsquo;
+Vertical(2)VerticalCircle(1)Vertical Circle Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Vertical / Push Up&#39; exercises</title>
+      <link>https://mover.tips/names/vertical/push-up/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/vertical/push-up/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Vertical / Push Up&amp;rsquo;
+Vertical(2)VerticalPush Up(1)Vertical Circle Push Up</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Vertical&#39; exercises</title>
+      <link>https://mover.tips/names/vertical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/vertical/</guid>
+      <description>There is 1 exercise using the keyword &amp;lsquo;Vertical&amp;rsquo;
+Vertical(2)VerticalCircle(1)VerticalPush Up(1)</description>
     </item>
     
     <item>
