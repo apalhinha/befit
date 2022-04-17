@@ -1148,36 +1148,6 @@
     </item>
     
     <item>
-      <title>Index for &#39;Cruchers / Skull&#39; exercises</title>
-      <link>https://mover.tips/names/cruchers/skull/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/cruchers/skull/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Cruchers / Skull&amp;rsquo;
-Cruchers(2)CruchersSkull(1)Wall Skull Cruchers</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Cruchers / Wall&#39; exercises</title>
-      <link>https://mover.tips/names/cruchers/wall/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/cruchers/wall/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Cruchers / Wall&amp;rsquo;
-Cruchers(2)CruchersWall(1)Wall Skull Cruchers</description>
-    </item>
-    
-    <item>
-      <title>Index for &#39;Cruchers&#39; exercises</title>
-      <link>https://mover.tips/names/cruchers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/cruchers/</guid>
-      <description>There is 1 exercise using the keyword &amp;lsquo;Cruchers&amp;rsquo;
-Cruchers(2)CruchersSkull(1)CruchersWall(1)</description>
-    </item>
-    
-    <item>
       <title>Index for &#39;Crunch / Air&#39; exercises</title>
       <link>https://mover.tips/names/crunch/air/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1404,7 +1374,7 @@
       
       <guid>https://mover.tips/names/crusher/bench/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Crusher / Bench&amp;rsquo;
-Crusher(2)CrusherBench(1)Bench Skull Crusher</description>
+Crusher(4)CrusherBench(1)Bench Skull Crusher</description>
     </item>
     
     <item>
@@ -1413,8 +1383,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/crusher/skull/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Crusher / Skull&amp;rsquo;
-Crusher(2)CrusherSkull(1)Bench Skull Crusher</description>
+      <description>There are 2 exercises using the keywords &amp;lsquo;Crusher / Skull&amp;rsquo;
+Crusher(4)CrusherSkull(2)Bench Skull CrusherWall Skull Crusher</description>
+    </item>
+    
+    <item>
+      <title>Index for &#39;Crusher / Wall&#39; exercises</title>
+      <link>https://mover.tips/names/crusher/wall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mover.tips/names/crusher/wall/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Crusher / Wall&amp;rsquo;
+Crusher(4)CrusherWall(1)Wall Skull Crusher</description>
     </item>
     
     <item>
@@ -1423,8 +1403,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/crusher/</guid>
-      <description>There is 1 exercise using the keyword &amp;lsquo;Crusher&amp;rsquo;
-Crusher(2)CrusherBench(1)CrusherSkull(1)</description>
+      <description>There are 2 exercises using the keyword &amp;lsquo;Crusher&amp;rsquo;
+Crusher(4)CrusherBench(1)CrusherSkull(2)CrusherWall(1)</description>
     </item>
     
     <item>
@@ -9318,23 +9298,13 @@
     </item>
     
     <item>
-      <title>Index for &#39;Skull / Cruchers&#39; exercises</title>
-      <link>https://mover.tips/names/skull/cruchers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mover.tips/names/skull/cruchers/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Skull / Cruchers&amp;rsquo;
-Skull(4)SkullCruchers(1)Wall Skull Cruchers</description>
-    </item>
-    
-    <item>
       <title>Index for &#39;Skull / Crusher&#39; exercises</title>
       <link>https://mover.tips/names/skull/crusher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mover.tips/names/skull/crusher/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Skull / Crusher&amp;rsquo;
-Skull(4)SkullCrusher(1)Bench Skull Crusher</description>
+      <description>There are 2 exercises using the keywords &amp;lsquo;Skull / Crusher&amp;rsquo;
+Skull(4)SkullCrusher(2)Bench Skull CrusherWall Skull Crusher</description>
     </item>
     
     <item>
@@ -9344,7 +9314,7 @@
       
       <guid>https://mover.tips/names/skull/wall/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Skull / Wall&amp;rsquo;
-Skull(4)SkullWall(1)Wall Skull Cruchers</description>
+Skull(4)SkullWall(1)Wall Skull Crusher</description>
     </item>
     
     <item>
@@ -9354,7 +9324,7 @@
       
       <guid>https://mover.tips/names/skull/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Skull&amp;rsquo;
-Skull(4)SkullBench(1)SkullCruchers(1)SkullCrusher(1)SkullWall(1)</description>
+Skull(4)SkullBench(1)SkullCrusher(2)SkullWall(1)</description>
     </item>
     
     <item>
@@ -10908,13 +10878,13 @@
     </item>
     
     <item>
-      <title>Index for &#39;Wall / Cruchers&#39; exercises</title>
-      <link>https://mover.tips/names/wall/cruchers/</link>
+      <title>Index for &#39;Wall / Crusher&#39; exercises</title>
+      <link>https://mover.tips/names/wall/crusher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mover.tips/names/wall/cruchers/</guid>
-      <description>There is 1 exercise using the keywords &amp;lsquo;Wall / Cruchers&amp;rsquo;
-Wall(6)WallCruchers(1)Wall Skull Cruchers</description>
+      <guid>https://mover.tips/names/wall/crusher/</guid>
+      <description>There is 1 exercise using the keywords &amp;lsquo;Wall / Crusher&amp;rsquo;
+Wall(6)WallCrusher(1)Wall Skull Crusher</description>
     </item>
     
     <item>
@@ -10944,7 +10914,7 @@
       
       <guid>https://mover.tips/names/wall/skull/</guid>
       <description>There is 1 exercise using the keywords &amp;lsquo;Wall / Skull&amp;rsquo;
-Wall(6)WallSkull(1)Wall Skull Cruchers</description>
+Wall(6)WallSkull(1)Wall Skull Crusher</description>
     </item>
     
     <item>
@@ -10964,7 +10934,7 @@
       
       <guid>https://mover.tips/names/wall/</guid>
       <description>There are 2 exercises using the keyword &amp;lsquo;Wall&amp;rsquo;
-Wall(6)WallCruchers(1)WallFinger(1)WallPush Up(2)WallSkull(1)WallTricep(1)</description>
+Wall(6)WallCrusher(1)WallFinger(1)WallPush Up(2)WallSkull(1)WallTricep(1)</description>
     </item>
     
     <item>
