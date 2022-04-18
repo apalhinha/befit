@@ -8,56 +8,56 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wall</title>
-      <link>https://mover.tips/equipment/wall/</link>
-      <pubDate>Sun, 17 Apr 2022 14:33:50 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/wall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bench</title>
-      <link>https://mover.tips/equipment/bench/</link>
-      <pubDate>Sat, 16 Apr 2022 14:34:33 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/bench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Parallel Bar</title>
-      <link>https://mover.tips/equipment/parallel-bar/</link>
-      <pubDate>Sat, 16 Apr 2022 14:34:33 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/parallel-bar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Floor</title>
       <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Sun, 10 Apr 2022 20:43:26 +0100</pubDate>
+      <pubDate>Mon, 18 Apr 2022 00:25:47 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/floor/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Slider</title>
-      <link>https://mover.tips/equipment/slider/</link>
-      <pubDate>Sun, 10 Apr 2022 20:43:25 +0100</pubDate>
+      <title>Parallel Bar</title>
+      <link>https://mover.tips/equipment/parallel-bar/</link>
+      <pubDate>Mon, 18 Apr 2022 00:25:47 +0100</pubDate>
       
-      <guid>https://mover.tips/equipment/slider/</guid>
+      <guid>https://mover.tips/equipment/parallel-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bench</title>
+      <link>https://mover.tips/equipment/bench/</link>
+      <pubDate>Mon, 18 Apr 2022 00:25:44 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/bench/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pull-up Bar</title>
       <link>https://mover.tips/equipment/pull-up-bar/</link>
-      <pubDate>Fri, 01 Apr 2022 14:16:37 +0100</pubDate>
+      <pubDate>Mon, 18 Apr 2022 00:25:40 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/pull-up-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slider</title>
+      <link>https://mover.tips/equipment/slider/</link>
+      <pubDate>Mon, 18 Apr 2022 00:18:20 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall</title>
+      <link>https://mover.tips/equipment/wall/</link>
+      <pubDate>Mon, 18 Apr 2022 00:18:18 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/wall/</guid>
       <description></description>
     </item>
     
