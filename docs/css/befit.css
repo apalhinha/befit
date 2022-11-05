@@ -69,3 +69,13 @@ td.nameline-selected {
   /* height: 50px; */
   text-align: center;
 }
+
+.box-muscle {
+  display: inline-block;
+  vertical-align: middle;
+  /* top right bottom left */
+  margin: 0px 0px 20px 0px;
+  border-style: solid;
+  border-width: 0px; /* talvez as contas estejam para 1 */
+  border-color: white;
+}
