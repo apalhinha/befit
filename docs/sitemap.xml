@@ -5,20 +5,395 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-06T14:43:27+01:00</lastmod>
+          <lastmod>2022-11-06T20:22:09+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-06T14:43:27+01:00</lastmod>                      
+          <lastmod>2022-11-06T20:22:09+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/</loc> 
+          <lastmod>2022-11-06T20:22:07+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/reverse-crunch-workout-exercise/</loc> 
+          <lastmod>2022-11-06T20:22:07+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/r/reverse-crunch.png</image:loc>
+                <image:caption>A drawing of the Reverse Crunch exercise</image:caption>
+                <image:title>Reverse Crunch</image:title>
+              </image:image>
+                                
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-06T14:42:30+01:00</lastmod>                      
+          <lastmod>2022-11-06T20:21:36+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/leg-pulse-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T20:15:20+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/leg-pulse-up.png</image:loc>
+                <image:caption>A drawing of the Leg Pulse Up exercise</image:caption>
+                <image:title>Leg Pulse Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/core-upper-body/</loc> 
+          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/dead-hang-workout-exercise/</loc> 
+          <lastmod>2022-11-06T19:27:58+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/hanging/</loc> 
+          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/equipment/pull-up-bar/</loc> 
+          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
+          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/progressions/pull-up-progression/</loc> 
+          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/renegade-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:35:00+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/assisted-one-arm-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:33:28+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/push-ups-on-one-arm/</loc> 
+          <lastmod>2022-11-06T18:33:28+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/knee-push-up-variations/</loc> 
+          <lastmod>2022-11-06T18:31:21+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/knee-triceps-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:31:21+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/incline-triceps-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:34+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/tricep-extension-variations/</loc> 
+          <lastmod>2022-11-06T18:26:34+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/assisted-knee-one-arm-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/incline-one-arm-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/unstable-assisted-one-arm-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/wall-one-arm-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/w/wall-one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the Wall One Arm Push Up exercise</image:caption>
+                <image:title>Wall One Arm Push Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/circle-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:32+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/full-body/</loc> 
+          <lastmod>2022-11-06T18:26:32+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/push-up-with-rotation-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:32+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/shuffle-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:32+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/clap-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:31+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/knee-decline-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:26:31+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/core-lower-body/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/cross-reach-sit-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/cross-reach-sit-up.png</image:loc>
+                <image:caption>A drawing of the Cross Reach Sit Up exercise</image:caption>
+                <image:title>Cross Reach Sit Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/front-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/hips/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/lying-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/lying-leg-raise.png</image:loc>
+                <image:caption>A drawing of the Lying Leg Raise exercise</image:caption>
+                <image:title>Lying Leg Raise</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/raising-legs/</loc> 
+          <lastmod>2022-11-06T18:09:33+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/side-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-06T18:09:32+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/categories/cardio/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/chin-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/elevated-feet-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/e/elevated-feet-body-row.png</image:loc>
+                <image:caption>A drawing of the Elevated Feet Body Row exercise</image:caption>
+                <image:title>Elevated Feet Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/flutter-kicks-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/heel-taps-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/mixed-grip-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/m/mixed-grip-body-row.png</image:loc>
+                <image:caption>A drawing of the Mixed Grip Body Row exercise</image:caption>
+                <image:title>Mixed Grip Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/mountain-climber-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/negative-pull-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/equipment/parallel-bar/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/sit-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/calf-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/calves/</loc> 
+          <lastmod>2022-11-06T17:02:35+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/raise-leg-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/stair-climbing-workout-exercise/</loc> 
+          <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+                                
         </url>
         
     
@@ -26,18 +401,6 @@
           <loc>https://mover.tips/exercises/air-bike-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:18+01:00</lastmod>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/</loc> 
-          <lastmod>2022-11-06T13:50:18+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/core-lower-body/</loc> 
-          <lastmod>2022-11-06T13:50:17+01:00</lastmod>                      
         </url>
         
     
@@ -56,26 +419,7 @@
         
     
         <url>
-          <loc>https://mover.tips/flexibilities/hips/</loc> 
-          <lastmod>2022-11-06T13:50:17+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/collections/injured-ankle/</loc> 
-          <lastmod>2022-11-06T13:50:17+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/knee-decline-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-06T13:50:17+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/knee-push-up-variations/</loc> 
           <lastmod>2022-11-06T13:50:17+01:00</lastmod>                      
         </url>
         
@@ -95,48 +439,8 @@
         
     
         <url>
-          <loc>https://mover.tips/muscles/core-upper-body/</loc> 
-          <lastmod>2022-11-06T13:50:16+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/flutter-kicks-workout-exercise/</loc> 
-          <lastmod>2022-11-06T13:50:16+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/full-body/</loc> 
-          <lastmod>2022-11-06T13:50:16+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/heel-taps-workout-exercise/</loc> 
-          <lastmod>2022-11-06T13:50:16+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/reverse-grip-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:16+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/sit-up-workout-exercise/</loc> 
-          <lastmod>2022-11-06T13:50:16+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/incline-one-arm-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T22:57:28+01:00</lastmod>
                                 
         </url>
         
@@ -156,40 +460,8 @@
         
     
         <url>
-          <loc>https://mover.tips/collections/push-ups-on-one-arm/</loc> 
-          <lastmod>2022-11-05T22:57:28+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/wall-one-arm-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T22:57:28+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/w/wall-one-arm-push-up.png</image:loc>
-                <image:caption>A drawing of the Wall One Arm Push Up exercise</image:caption>
-                <image:title>Wall One Arm Push Up</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/assisted-one-arm-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T22:57:25+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/equipment/floor/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/incline-triceps-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:52+01:00</lastmod>
-                                
         </url>
         
     
@@ -236,12 +508,6 @@
         
     
         <url>
-          <loc>https://mover.tips/equipment/parallel-bar/</loc> 
-          <lastmod>2022-11-05T19:33:52+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/parallel-bar-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
                                 
@@ -256,19 +522,6 @@
                 <image:caption>A drawing of the Towel L Sit Pike exercise</image:caption>
                 <image:title>Towel L Sit Pike</image:title>
               </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/tricep-extension-variations/</loc> 
-          <lastmod>2022-11-05T19:33:52+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/assisted-knee-one-arm-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:51+01:00</lastmod>
                                 
         </url>
         
@@ -441,13 +694,6 @@
     
     
         <url>
-          <loc>https://mover.tips/exercises/unstable-assisted-one-arm-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:51+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/flexibilities/back/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
         </url>
@@ -462,13 +708,6 @@
     
         <url>
           <loc>https://mover.tips/exercises/boat-pose-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/circle-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
                                 
         </url>
@@ -553,26 +792,7 @@
         
     
         <url>
-          <loc>https://mover.tips/collections/hanging/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/knee-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
                                 
         </url>
@@ -593,37 +813,6 @@
         
     
     
-    
-        <url>
-          <loc>https://mover.tips/equipment/pull-up-bar/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/progressions/pull-up-progression/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/push-up-with-rotation-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/raising-legs/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>                      
-        </url>
-        
     
         <url>
           <loc>https://mover.tips/exercises/seated-l-sit-raise-leg-workout-exercise/</loc> 
@@ -711,13 +900,6 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/front-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:49+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/knee-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
                                 
@@ -733,13 +915,6 @@
     
         <url>
           <loc>https://mover.tips/exercises/plyo-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:49+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/renegade-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
                                 
         </url>
@@ -781,19 +956,6 @@
         
     
         <url>
-          <loc>https://mover.tips/categories/cardio/</loc> 
-          <lastmod>2022-11-05T19:33:48+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/clap-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:48+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/close-grip-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
                                 
@@ -817,18 +979,6 @@
         <url>
           <loc>https://mover.tips/exercises/jump-squat-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/leg-pulse-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:48+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/l/leg-pulse-up.png</image:loc>
-                <image:caption>A drawing of the Leg Pulse Up exercise</image:caption>
-                <image:title>Leg Pulse Up</image:title>
-              </image:image>
                                 
         </url>
         
@@ -876,126 +1026,7 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/calf-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/flexibilities/calves/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/chin-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/dead-hang-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/elevated-feet-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/e/elevated-feet-body-row.png</image:loc>
-                <image:caption>A drawing of the Elevated Feet Body Row exercise</image:caption>
-                <image:title>Elevated Feet Body Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/lying-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/l/lying-leg-raise.png</image:loc>
-                <image:caption>A drawing of the Lying Leg Raise exercise</image:caption>
-                <image:title>Lying Leg Raise</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/mixed-grip-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/m/mixed-grip-body-row.png</image:loc>
-                <image:caption>A drawing of the Mixed Grip Body Row exercise</image:caption>
-                <image:title>Mixed Grip Body Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/mountain-climber-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/negative-pull-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/raise-leg-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/side-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/squat-hold-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:47+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/stair-climbing-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:47+01:00</lastmod>
                                 
         </url>
@@ -1044,13 +1075,6 @@
         <url>
           <loc>https://mover.tips/exercises/wall-floor-single-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-04T02:51:15+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/shuffle-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-04T02:51:14+01:00</lastmod>
                                 
         </url>
         
@@ -2159,6 +2183,16 @@
     
         <url>
           <loc>https://mover.tips/names/cross/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/reach/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/sit-up/</loc>                       
         </url>
         
     
@@ -13688,7 +13722,17 @@
         
     
         <url>
+          <loc>https://mover.tips/names/reach/cross/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/reach/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/reach/sit-up/</loc>                       
         </url>
         
     
@@ -16433,12 +16477,22 @@
         
     
         <url>
-          <loc>https://mover.tips/names/sit-up/</loc>                       
+          <loc>https://mover.tips/names/sit/</loc>                       
         </url>
         
     
         <url>
-          <loc>https://mover.tips/names/sit/</loc>                       
+          <loc>https://mover.tips/names/sit-up/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sit-up/reach/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sit-up/</loc>                       
         </url>
         
     
