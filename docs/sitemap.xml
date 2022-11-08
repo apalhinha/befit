@@ -5,20 +5,239 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-06T20:22:09+01:00</lastmod>
+          <lastmod>2022-11-08T12:22:30+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-06T20:22:09+01:00</lastmod>                      
+          <lastmod>2022-11-08T12:22:30+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-08T12:22:27+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/body-row.png</image:loc>
+                <image:caption>A drawing of the Body Row exercise</image:caption>
+                <image:title>Body Row</image:title>
+              </image:image>
+                                
         </url>
         
     
         <url>
           <loc>https://mover.tips/muscles/</loc> 
-          <lastmod>2022-11-06T20:22:07+01:00</lastmod>                      
+          <lastmod>2022-11-08T12:22:27+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/equipment/parallel-bar/</loc> 
+          <lastmod>2022-11-08T12:22:27+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
+          <lastmod>2022-11-08T12:22:27+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/progressions/pull-up-progression/</loc> 
+          <lastmod>2022-11-08T12:22:27+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/</loc> 
+          <lastmod>2022-11-08T12:20:12+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/flex-hang-workout-exercise/</loc> 
+          <lastmod>2022-11-07T23:46:05+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/hanging/</loc> 
+          <lastmod>2022-11-07T23:46:05+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/leg-scissor-cross-workout-exercise/</loc> 
+          <lastmod>2022-11-07T23:46:04+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/leg-scissor-cross.png</image:loc>
+                <image:caption>A drawing of the Leg Scissor Cross exercise</image:caption>
+                <image:title>Leg Scissor Cross</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/core-upper-body/</loc> 
+          <lastmod>2022-11-07T23:46:03+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/dead-hang-workout-exercise/</loc> 
+          <lastmod>2022-11-07T23:46:03+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/flutter-kicks-workout-exercise/</loc> 
+          <lastmod>2022-11-07T23:46:03+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/flutter-kicks.png</image:loc>
+                <image:caption>A drawing of the Flutter Kicks exercise</image:caption>
+                <image:title>Flutter Kicks</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/full-body/</loc> 
+          <lastmod>2022-11-07T19:40:29+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:29+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/h/hanging-l-sit.png</image:loc>
+                <image:caption>A drawing of the Hanging L Sit exercise</image:caption>
+                <image:title>Hanging L Sit</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
+          <lastmod>2022-11-07T19:40:29+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/categories/fight/</loc> 
+          <lastmod>2022-11-07T19:40:28+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/hanging-knee-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:28+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/h/hanging-knee-raise.png</image:loc>
+                <image:caption>A drawing of the Hanging Knee Raise exercise</image:caption>
+                <image:title>Hanging Knee Raise</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/pull-up-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:28+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/sit-up-punch-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:28+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/sit-up-punch.png</image:loc>
+                <image:caption>A drawing of the Sit Up Punch exercise</image:caption>
+                <image:title>Sit Up Punch</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/chin-up-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:27+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/chin-up.png</image:loc>
+                <image:caption>A drawing of the Chin Up exercise</image:caption>
+                <image:title>Chin Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/cross-reach-sit-up-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:27+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/cross-reach-sit-up.png</image:loc>
+                <image:caption>A drawing of the Cross Reach Sit Up exercise</image:caption>
+                <image:title>Cross Reach Sit Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/negative-pull-up-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:27+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/n/negative-pull-up.png</image:loc>
+                <image:caption>A drawing of the Negative Pull Up exercise</image:caption>
+                <image:title>Negative Pull Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/sit-up-workout-exercise/</loc> 
+          <lastmod>2022-11-07T19:40:27+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/sit-up.png</image:loc>
+                <image:caption>A drawing of the Sit Up exercise</image:caption>
+                <image:title>Sit Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/high-crunch-workout-exercise/</loc> 
+          <lastmod>2022-11-07T11:38:55+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/h/high-crunch.png</image:loc>
+                <image:caption>A drawing of the High Crunch exercise</image:caption>
+                <image:title>High Crunch</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/crunch-workout-exercise/</loc> 
+          <lastmod>2022-11-07T11:36:05+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/crunch.png</image:loc>
+                <image:caption>A drawing of the Crunch exercise</image:caption>
+                <image:title>Crunch</image:title>
+              </image:image>
+                                
         </url>
         
     
@@ -35,12 +254,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-06T20:21:36+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/leg-pulse-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T20:15:20+01:00</lastmod>
               <image:image>
@@ -53,45 +266,19 @@
         
     
         <url>
-          <loc>https://mover.tips/muscles/core-upper-body/</loc> 
-          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/dead-hang-workout-exercise/</loc> 
-          <lastmod>2022-11-06T19:27:58+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/hanging/</loc> 
-          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/equipment/pull-up-bar/</loc> 
-          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
-          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/progressions/pull-up-progression/</loc> 
-          <lastmod>2022-11-06T19:27:58+01:00</lastmod>                      
+          <lastmod>2022-11-06T19:25:36+01:00</lastmod>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/exercises/renegade-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:35:00+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/r/renegade-push-up.png</image:loc>
+                <image:caption>A drawing of the Renegade Push Up exercise</image:caption>
+                <image:title>Renegade Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -99,6 +286,11 @@
         <url>
           <loc>https://mover.tips/exercises/assisted-one-arm-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:33:28+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/a/assisted-one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the Assisted One Arm Push Up exercise</image:caption>
+                <image:title>Assisted One Arm Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -118,6 +310,11 @@
         <url>
           <loc>https://mover.tips/exercises/knee-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:31:21+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/k/knee-triceps-push-up.png</image:loc>
+                <image:caption>A drawing of the Knee Triceps Push Up exercise</image:caption>
+                <image:title>Knee Triceps Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -125,6 +322,11 @@
         <url>
           <loc>https://mover.tips/exercises/incline-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:34+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/i/incline-triceps-push-up.png</image:loc>
+                <image:caption>A drawing of the Incline Triceps Push Up exercise</image:caption>
+                <image:title>Incline Triceps Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -138,6 +340,11 @@
         <url>
           <loc>https://mover.tips/exercises/assisted-knee-one-arm-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/a/assisted-knee-one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the Assisted Knee One Arm Push Up exercise</image:caption>
+                <image:title>Assisted Knee One Arm Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -145,6 +352,11 @@
         <url>
           <loc>https://mover.tips/exercises/incline-one-arm-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/i/incline-one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the Incline One Arm Push Up exercise</image:caption>
+                <image:title>Incline One Arm Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -152,6 +364,11 @@
         <url>
           <loc>https://mover.tips/exercises/unstable-assisted-one-arm-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/u/unstable-assisted-one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the Unstable Assisted One Arm Push Up exercise</image:caption>
+                <image:title>Unstable Assisted One Arm Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -171,19 +388,23 @@
         <url>
           <loc>https://mover.tips/exercises/circle-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:32+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/circle-push-up.png</image:loc>
+                <image:caption>A drawing of the Circle Push Up exercise</image:caption>
+                <image:title>Circle Push Up</image:title>
+              </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/full-body/</loc> 
-          <lastmod>2022-11-06T18:26:32+01:00</lastmod>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/exercises/push-up-with-rotation-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:32+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/push-up-with-rotation.png</image:loc>
+                <image:caption>A drawing of the Push Up with Rotation exercise</image:caption>
+                <image:title>Push Up with Rotation</image:title>
+              </image:image>
                                 
         </url>
         
@@ -191,6 +412,11 @@
         <url>
           <loc>https://mover.tips/exercises/shuffle-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:32+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/shuffle-push-up.png</image:loc>
+                <image:caption>A drawing of the Shuffle Push Up exercise</image:caption>
+                <image:title>Shuffle Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -198,6 +424,11 @@
         <url>
           <loc>https://mover.tips/exercises/clap-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:31+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/clap-push-up.png</image:loc>
+                <image:caption>A drawing of the Clap Push Up exercise</image:caption>
+                <image:title>Clap Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -205,6 +436,11 @@
         <url>
           <loc>https://mover.tips/exercises/knee-decline-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:26:31+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/k/knee-decline-push-up.png</image:loc>
+                <image:caption>A drawing of the Knee Decline Push Up exercise</image:caption>
+                <image:title>Knee Decline Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -216,27 +452,14 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/cross-reach-sit-up-workout-exercise/</loc> 
-          <lastmod>2022-11-06T18:09:33+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/c/cross-reach-sit-up.png</image:loc>
-                <image:caption>A drawing of the Cross Reach Sit Up exercise</image:caption>
-                <image:title>Cross Reach Sit Up</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/front-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:09:33+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/front-leg-raise.png</image:loc>
+                <image:caption>A drawing of the Front Leg Raise exercise</image:caption>
+                <image:title>Front Leg Raise</image:title>
+              </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
-          <lastmod>2022-11-06T18:09:33+01:00</lastmod>                      
         </url>
         
     
@@ -267,13 +490,11 @@
         <url>
           <loc>https://mover.tips/exercises/side-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-06T18:09:32+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/side-leg-raise.png</image:loc>
+                <image:caption>A drawing of the Side Leg Raise exercise</image:caption>
+                <image:title>Side Leg Raise</image:title>
+              </image:image>
                                 
         </url>
         
@@ -281,13 +502,6 @@
         <url>
           <loc>https://mover.tips/categories/cardio/</loc> 
           <lastmod>2022-11-06T17:02:36+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/chin-up-workout-exercise/</loc> 
-          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
-                                
         </url>
         
     
@@ -304,15 +518,13 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/flutter-kicks-workout-exercise/</loc> 
-          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/heel-taps-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/h/heel-taps.png</image:loc>
+                <image:caption>A drawing of the Heel Taps exercise</image:caption>
+                <image:title>Heel Taps</image:title>
+              </image:image>
                                 
         </url>
         
@@ -332,33 +544,23 @@
         <url>
           <loc>https://mover.tips/exercises/mountain-climber-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/m/mountain-climber.png</image:loc>
+                <image:caption>A drawing of the Mountain Climber exercise</image:caption>
+                <image:title>Mountain Climber</image:title>
+              </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/negative-pull-up-workout-exercise/</loc> 
-          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/equipment/parallel-bar/</loc> 
-          <lastmod>2022-11-06T17:02:36+01:00</lastmod>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:36+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/sit-up-workout-exercise/</loc> 
-          <lastmod>2022-11-06T17:02:36+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/r/raised-leg-crunch.png</image:loc>
+                <image:caption>A drawing of the Raised Leg Crunch exercise</image:caption>
+                <image:title>Raised Leg Crunch</image:title>
+              </image:image>
                                 
         </url>
         
@@ -366,6 +568,11 @@
         <url>
           <loc>https://mover.tips/exercises/calf-raise-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/calf-raise.png</image:loc>
+                <image:caption>A drawing of the Calf Raise exercise</image:caption>
+                <image:title>Calf Raise</image:title>
+              </image:image>
                                 
         </url>
         
@@ -379,6 +586,11 @@
         <url>
           <loc>https://mover.tips/exercises/push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/push-up.png</image:loc>
+                <image:caption>A drawing of the Push Up exercise</image:caption>
+                <image:title>Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -386,6 +598,11 @@
         <url>
           <loc>https://mover.tips/exercises/raise-leg-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/r/raise-leg-push-up.png</image:loc>
+                <image:caption>A drawing of the Raise Leg Push Up exercise</image:caption>
+                <image:title>Raise Leg Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -393,6 +610,11 @@
         <url>
           <loc>https://mover.tips/exercises/stair-climbing-workout-exercise/</loc> 
           <lastmod>2022-11-06T17:02:35+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/stair-climbing.png</image:loc>
+                <image:caption>A drawing of the Stair Climbing exercise</image:caption>
+                <image:title>Stair Climbing</image:title>
+              </image:image>
                                 
         </url>
         
@@ -400,6 +622,11 @@
         <url>
           <loc>https://mover.tips/exercises/air-bike-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:18+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/a/air-bike.png</image:loc>
+                <image:caption>A drawing of the Air Bike exercise</image:caption>
+                <image:title>Air Bike</image:title>
+              </image:image>
                                 
         </url>
         
@@ -407,6 +634,11 @@
         <url>
           <loc>https://mover.tips/exercises/cross-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:17+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/cross-triceps-push-up.png</image:loc>
+                <image:caption>A drawing of the Cross Triceps Push Up exercise</image:caption>
+                <image:title>Cross Triceps Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -414,6 +646,11 @@
         <url>
           <loc>https://mover.tips/exercises/hindu-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:17+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/h/hindu-push-up.png</image:loc>
+                <image:caption>A drawing of the Hindu Push Up exercise</image:caption>
+                <image:title>Hindu Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -427,6 +664,11 @@
         <url>
           <loc>https://mover.tips/exercises/knee-to-elbow-crunch-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:17+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/k/knee-to-elbow-crunch.png</image:loc>
+                <image:caption>A drawing of the Knee to Elbow Crunch exercise</image:caption>
+                <image:title>Knee to Elbow Crunch</image:title>
+              </image:image>
                                 
         </url>
         
@@ -434,6 +676,11 @@
         <url>
           <loc>https://mover.tips/exercises/sky-diver-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:17+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/sky-diver-push-up.png</image:loc>
+                <image:caption>A drawing of the Sky Diver Push Up exercise</image:caption>
+                <image:title>Sky Diver Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -441,6 +688,11 @@
         <url>
           <loc>https://mover.tips/exercises/reverse-grip-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-06T13:50:16+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/r/reverse-grip-push-up.png</image:loc>
+                <image:caption>A drawing of the Reverse Grip Push Up exercise</image:caption>
+                <image:title>Reverse Grip Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -448,6 +700,11 @@
         <url>
           <loc>https://mover.tips/exercises/knee-one-arm-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T22:57:28+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/k/knee-one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the Knee One Arm Push Up exercise</image:caption>
+                <image:title>Knee One Arm Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -455,6 +712,11 @@
         <url>
           <loc>https://mover.tips/exercises/one-arm-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T22:57:28+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/o/one-arm-push-up.png</image:loc>
+                <image:caption>A drawing of the One Arm Push Up exercise</image:caption>
+                <image:title>One Arm Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -468,6 +730,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-circle-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-circle.png</image:loc>
+                <image:caption>A drawing of the L Sit Circle exercise</image:caption>
+                <image:title>L Sit Circle</image:title>
+              </image:image>
                                 
         </url>
         
@@ -475,6 +742,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-dips-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-dips.png</image:loc>
+                <image:caption>A drawing of the L Sit Dips exercise</image:caption>
+                <image:title>L Sit Dips</image:title>
+              </image:image>
                                 
         </url>
         
@@ -482,6 +754,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-elastic-support-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-elastic-support.png</image:loc>
+                <image:caption>A drawing of the L Sit Elastic Support exercise</image:caption>
+                <image:title>L Sit Elastic Support</image:title>
+              </image:image>
                                 
         </url>
         
@@ -489,6 +766,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-shuffle-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-shuffle.png</image:loc>
+                <image:caption>A drawing of the L Sit Shuffle exercise</image:caption>
+                <image:title>L Sit Shuffle</image:title>
+              </image:image>
                                 
         </url>
         
@@ -496,6 +778,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-walk-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-walk.png</image:loc>
+                <image:caption>A drawing of the L Sit Walk exercise</image:caption>
+                <image:title>L Sit Walk</image:title>
+              </image:image>
                                 
         </url>
         
@@ -503,6 +790,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-wipers-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-wipers.png</image:loc>
+                <image:caption>A drawing of the L Sit Wipers exercise</image:caption>
+                <image:title>L Sit Wipers</image:title>
+              </image:image>
                                 
         </url>
         
@@ -510,6 +802,11 @@
         <url>
           <loc>https://mover.tips/exercises/parallel-bar-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:52+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/parallel-bar-triceps-push-up.png</image:loc>
+                <image:caption>A drawing of the Parallel Bar Triceps Push Up exercise</image:caption>
+                <image:title>Parallel Bar Triceps Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -535,6 +832,11 @@
         <url>
           <loc>https://mover.tips/exercises/bench-triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/bench-triceps-push-up.png</image:loc>
+                <image:caption>A drawing of the Bench Triceps Push Up exercise</image:caption>
+                <image:title>Bench Triceps Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -543,6 +845,11 @@
         <url>
           <loc>https://mover.tips/exercises/incline-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/i/incline-push-up.png</image:loc>
+                <image:caption>A drawing of the Incline Push Up exercise</image:caption>
+                <image:title>Incline Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -550,6 +857,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit.png</image:loc>
+                <image:caption>A drawing of the L Sit exercise</image:caption>
+                <image:title>L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -557,6 +869,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-back-swing-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-back-swing.png</image:loc>
+                <image:caption>A drawing of the L Sit Back Swing exercise</image:caption>
+                <image:title>L Sit Back Swing</image:title>
+              </image:image>
                                 
         </url>
         
@@ -564,6 +881,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-bicycle-kicks-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-bicycle-kicks.png</image:loc>
+                <image:caption>A drawing of the L Sit Bicycle Kicks exercise</image:caption>
+                <image:title>L Sit Bicycle Kicks</image:title>
+              </image:image>
                                 
         </url>
         
@@ -571,6 +893,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-flutter-kick-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-flutter-kick.png</image:loc>
+                <image:caption>A drawing of the L Sit Flutter Kick exercise</image:caption>
+                <image:title>L Sit Flutter Kick</image:title>
+              </image:image>
                                 
         </url>
         
@@ -578,6 +905,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-kick-through-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-kick-through.png</image:loc>
+                <image:caption>A drawing of the L Sit Kick Through exercise</image:caption>
+                <image:title>L Sit Kick Through</image:title>
+              </image:image>
                                 
         </url>
         
@@ -585,6 +917,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-kicks-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-kicks.png</image:loc>
+                <image:caption>A drawing of the L Sit Kicks exercise</image:caption>
+                <image:title>L Sit Kicks</image:title>
+              </image:image>
                                 
         </url>
         
@@ -592,6 +929,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-leg-raise.png</image:loc>
+                <image:caption>A drawing of the L Sit Leg Raise exercise</image:caption>
+                <image:title>L Sit Leg Raise</image:title>
+              </image:image>
                                 
         </url>
         
@@ -599,6 +941,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-lift-over-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-lift-over.png</image:loc>
+                <image:caption>A drawing of the L Sit Lift Over exercise</image:caption>
+                <image:title>L Sit Lift Over</image:title>
+              </image:image>
                                 
         </url>
         
@@ -606,6 +953,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-supported-single-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-supported-single-leg-raise.png</image:loc>
+                <image:caption>A drawing of the L Sit Supported Single Leg Raise exercise</image:caption>
+                <image:title>L Sit Supported Single Leg Raise</image:title>
+              </image:image>
                                 
         </url>
         
@@ -620,6 +972,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-to-tuck-planche-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-to-tuck-planche.png</image:loc>
+                <image:caption>A drawing of the L Sit to Tuck Planche exercise</image:caption>
+                <image:title>L Sit to Tuck Planche</image:title>
+              </image:image>
                                 
         </url>
         
@@ -627,6 +984,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-to-tuck-v-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-to-tuck-v-sit.png</image:loc>
+                <image:caption>A drawing of the L Sit to Tuck V Sit exercise</image:caption>
+                <image:title>L Sit to Tuck V Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -634,6 +996,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-tuck-swing-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-tuck-swing.png</image:loc>
+                <image:caption>A drawing of the L Sit Tuck Swing exercise</image:caption>
+                <image:title>L Sit Tuck Swing</image:title>
+              </image:image>
                                 
         </url>
         
@@ -647,6 +1014,11 @@
         <url>
           <loc>https://mover.tips/exercises/one-leg-l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/o/one-leg-l-sit.png</image:loc>
+                <image:caption>A drawing of the One Leg L Sit exercise</image:caption>
+                <image:title>One Leg L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -654,6 +1026,11 @@
         <url>
           <loc>https://mover.tips/exercises/parallel-bar-low-l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/parallel-bar-low-l-sit.png</image:loc>
+                <image:caption>A drawing of the Parallel Bar Low L Sit exercise</image:caption>
+                <image:title>Parallel Bar Low L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -661,6 +1038,11 @@
         <url>
           <loc>https://mover.tips/exercises/seated-l-sit-lift-over-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/seated-l-sit-lift-over.png</image:loc>
+                <image:caption>A drawing of the Seated L Sit Lift Over exercise</image:caption>
+                <image:title>Seated L Sit Lift Over</image:title>
+              </image:image>
                                 
         </url>
         
@@ -674,6 +1056,11 @@
         <url>
           <loc>https://mover.tips/exercises/straddle-l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/straddle-l-sit.png</image:loc>
+                <image:caption>A drawing of the Straddle L Sit exercise</image:caption>
+                <image:title>Straddle L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -681,6 +1068,11 @@
         <url>
           <loc>https://mover.tips/exercises/sumo-squat-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/sumo-squat.png</image:loc>
+                <image:caption>A drawing of the Sumo Squat exercise</image:caption>
+                <image:title>Sumo Squat</image:title>
+              </image:image>
                                 
         </url>
         
@@ -688,6 +1080,11 @@
         <url>
           <loc>https://mover.tips/exercises/supported-l-sit-scapula-shrugs-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:51+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/supported-l-sit-scapula-shrugs.png</image:loc>
+                <image:caption>A drawing of the Supported L Sit Scapula Shrugs exercise</image:caption>
+                <image:title>Supported L Sit Scapula Shrugs</image:title>
+              </image:image>
                                 
         </url>
         
@@ -702,6 +1099,11 @@
         <url>
           <loc>https://mover.tips/exercises/bench-single-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/bench-single-leg-raise.png</image:loc>
+                <image:caption>A drawing of the Bench Single Leg Raise exercise</image:caption>
+                <image:title>Bench Single Leg Raise</image:title>
+              </image:image>
                                 
         </url>
         
@@ -709,6 +1111,11 @@
         <url>
           <loc>https://mover.tips/exercises/boat-pose-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/boat-pose.png</image:loc>
+                <image:caption>A drawing of the Boat Pose exercise</image:caption>
+                <image:title>Boat Pose</image:title>
+              </image:image>
                                 
         </url>
         
@@ -717,13 +1124,11 @@
         <url>
           <loc>https://mover.tips/exercises/finger-wall-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/flex-hang-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/finger-wall-push-up.png</image:loc>
+                <image:caption>A drawing of the Finger Wall Push Up exercise</image:caption>
+                <image:title>Finger Wall Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -731,6 +1136,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit exercise</image:caption>
+                <image:title>Floor L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -738,6 +1148,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-back-and-forth-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-back-and-forth.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit Back and Forth exercise</image:caption>
+                <image:title>Floor L Sit Back and Forth</image:title>
+              </image:image>
                                 
         </url>
         
@@ -745,6 +1160,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-cross-tucked-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-cross-tucked.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit Cross Tucked exercise</image:caption>
+                <image:title>Floor L Sit Cross Tucked</image:title>
+              </image:image>
                                 
         </url>
         
@@ -752,6 +1172,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-heel-support-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-heel-support.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit Heel Support exercise</image:caption>
+                <image:title>Floor L Sit Heel Support</image:title>
+              </image:image>
                                 
         </url>
         
@@ -759,6 +1184,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-one-leg-support-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-one-leg-support.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit One Leg Support exercise</image:caption>
+                <image:title>Floor L Sit One Leg Support</image:title>
+              </image:image>
                                 
         </url>
         
@@ -766,6 +1196,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-position-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-position.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit Position exercise</image:caption>
+                <image:title>Floor L Sit Position</image:title>
+              </image:image>
                                 
         </url>
         
@@ -773,6 +1208,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-tuck-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-tuck.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit Tuck exercise</image:caption>
+                <image:title>Floor L Sit Tuck</image:title>
+              </image:image>
                                 
         </url>
         
@@ -780,6 +1220,11 @@
         <url>
           <loc>https://mover.tips/exercises/floor-l-sit-tuck-to-one-leg-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/floor-l-sit-tuck-to-one-leg.png</image:loc>
+                <image:caption>A drawing of the Floor L Sit Tuck to One Leg exercise</image:caption>
+                <image:title>Floor L Sit Tuck to One Leg</image:title>
+              </image:image>
                                 
         </url>
         
@@ -787,13 +1232,11 @@
         <url>
           <loc>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/hanging-l-sit-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/forward-slider-push-up.png</image:loc>
+                <image:caption>A drawing of the Forward Slider Push Up exercise</image:caption>
+                <image:title>Forward Slider Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -801,6 +1244,11 @@
         <url>
           <loc>https://mover.tips/exercises/l-sit-butt-scoot-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/l-sit-butt-scoot.png</image:loc>
+                <image:caption>A drawing of the L Sit Butt Scoot exercise</image:caption>
+                <image:title>L Sit Butt Scoot</image:title>
+              </image:image>
                                 
         </url>
         
@@ -808,6 +1256,11 @@
         <url>
           <loc>https://mover.tips/exercises/parallel-bar-l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/parallel-bar-l-sit.png</image:loc>
+                <image:caption>A drawing of the Parallel Bar L Sit exercise</image:caption>
+                <image:title>Parallel Bar L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -841,6 +1294,11 @@
         <url>
           <loc>https://mover.tips/exercises/staggered-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:50+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/staggered-push-up.png</image:loc>
+                <image:caption>A drawing of the Staggered Push Up exercise</image:caption>
+                <image:title>Staggered Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -874,6 +1332,11 @@
         <url>
           <loc>https://mover.tips/exercises/archer-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/a/archer-push-up.png</image:loc>
+                <image:caption>A drawing of the Archer Push Up exercise</image:caption>
+                <image:title>Archer Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -881,6 +1344,11 @@
         <url>
           <loc>https://mover.tips/exercises/bird-dog-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/bird-dog.png</image:loc>
+                <image:caption>A drawing of the Bird Dog exercise</image:caption>
+                <image:title>Bird Dog</image:title>
+              </image:image>
                                 
         </url>
         
@@ -888,6 +1356,11 @@
         <url>
           <loc>https://mover.tips/exercises/butterfly-sit-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/butterfly-sit-up.png</image:loc>
+                <image:caption>A drawing of the Butterfly Sit Up exercise</image:caption>
+                <image:title>Butterfly Sit Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -895,6 +1368,11 @@
         <url>
           <loc>https://mover.tips/exercises/decline-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/d/decline-push-up.png</image:loc>
+                <image:caption>A drawing of the Decline Push Up exercise</image:caption>
+                <image:title>Decline Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -902,6 +1380,11 @@
         <url>
           <loc>https://mover.tips/exercises/knee-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/k/knee-push-up.png</image:loc>
+                <image:caption>A drawing of the Knee Push Up exercise</image:caption>
+                <image:title>Knee Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -909,6 +1392,11 @@
         <url>
           <loc>https://mover.tips/exercises/mountain-climber-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/m/mountain-climber-push-up.png</image:loc>
+                <image:caption>A drawing of the Mountain Climber Push Up exercise</image:caption>
+                <image:title>Mountain Climber Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -923,6 +1411,11 @@
         <url>
           <loc>https://mover.tips/exercises/slider-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/slider-push-up.png</image:loc>
+                <image:caption>A drawing of the Slider Push Up exercise</image:caption>
+                <image:title>Slider Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -930,6 +1423,11 @@
         <url>
           <loc>https://mover.tips/exercises/stacked-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/stacked-push-up.png</image:loc>
+                <image:caption>A drawing of the Stacked Push Up exercise</image:caption>
+                <image:title>Stacked Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -937,6 +1435,11 @@
         <url>
           <loc>https://mover.tips/exercises/triceps-wall-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/t/triceps-wall-push-up.png</image:loc>
+                <image:caption>A drawing of the Triceps Wall Push Up exercise</image:caption>
+                <image:title>Triceps Wall Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -944,6 +1447,11 @@
         <url>
           <loc>https://mover.tips/exercises/wide-grip-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:49+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/w/wide-grip-push-up.png</image:loc>
+                <image:caption>A drawing of the Wide Grip Push Up exercise</image:caption>
+                <image:title>Wide Grip Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -951,6 +1459,11 @@
         <url>
           <loc>https://mover.tips/exercises/calf-raise-hold-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/calf-raise-hold.png</image:loc>
+                <image:caption>A drawing of the Calf Raise Hold exercise</image:caption>
+                <image:title>Calf Raise Hold</image:title>
+              </image:image>
                                 
         </url>
         
@@ -958,13 +1471,11 @@
         <url>
           <loc>https://mover.tips/exercises/close-grip-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/crunch-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/close-grip-push-up.png</image:loc>
+                <image:caption>A drawing of the Close Grip Push Up exercise</image:caption>
+                <image:title>Close Grip Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -972,6 +1483,11 @@
         <url>
           <loc>https://mover.tips/exercises/elbow-plank-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/e/elbow-plank.png</image:loc>
+                <image:caption>A drawing of the Elbow Plank exercise</image:caption>
+                <image:title>Elbow Plank</image:title>
+              </image:image>
                                 
         </url>
         
@@ -979,6 +1495,11 @@
         <url>
           <loc>https://mover.tips/exercises/jump-squat-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/j/jump-squat.png</image:loc>
+                <image:caption>A drawing of the Jump Squat exercise</image:caption>
+                <image:title>Jump Squat</image:title>
+              </image:image>
                                 
         </url>
         
@@ -986,13 +1507,11 @@
         <url>
           <loc>https://mover.tips/exercises/pike-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/pull-up-workout-exercise/</loc> 
-          <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/pike-push-up.png</image:loc>
+                <image:caption>A drawing of the Pike Push Up exercise</image:caption>
+                <image:title>Pike Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1000,6 +1519,11 @@
         <url>
           <loc>https://mover.tips/exercises/spiderman-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/spiderman-push-up.png</image:loc>
+                <image:caption>A drawing of the Spiderman Push Up exercise</image:caption>
+                <image:title>Spiderman Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1007,6 +1531,11 @@
         <url>
           <loc>https://mover.tips/exercises/squat-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/squat.png</image:loc>
+                <image:caption>A drawing of the Squat exercise</image:caption>
+                <image:title>Squat</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1014,6 +1543,11 @@
         <url>
           <loc>https://mover.tips/exercises/triceps-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/t/triceps-push-up.png</image:loc>
+                <image:caption>A drawing of the Triceps Push Up exercise</image:caption>
+                <image:title>Triceps Push Up</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1021,6 +1555,11 @@
         <url>
           <loc>https://mover.tips/exercises/up-and-down-plank-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:48+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/u/up-and-down-plank.png</image:loc>
+                <image:caption>A drawing of the Up and Down Plank exercise</image:caption>
+                <image:title>Up and Down Plank</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1028,6 +1567,11 @@
         <url>
           <loc>https://mover.tips/exercises/squat-hold-workout-exercise/</loc> 
           <lastmod>2022-11-05T19:33:47+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/squat-hold.png</image:loc>
+                <image:caption>A drawing of the Squat Hold exercise</image:caption>
+                <image:title>Squat Hold</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1035,6 +1579,11 @@
         <url>
           <loc>https://mover.tips/exercises/chair-half-l-sit-workout-exercise/</loc> 
           <lastmod>2022-11-04T02:51:15+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/chair-half-l-sit.png</image:loc>
+                <image:caption>A drawing of the Chair Half L Sit exercise</image:caption>
+                <image:title>Chair Half L Sit</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1042,6 +1591,11 @@
         <url>
           <loc>https://mover.tips/exercises/finger-l-sit-heel-support-workout-exercise/</loc> 
           <lastmod>2022-11-04T02:51:15+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/finger-l-sit-heel-support.png</image:loc>
+                <image:caption>A drawing of the Finger L Sit Heel Support exercise</image:caption>
+                <image:title>Finger L Sit Heel Support</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1061,6 +1615,11 @@
         <url>
           <loc>https://mover.tips/exercises/seated-l-sit-single-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-04T02:51:15+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/seated-l-sit-single-leg-raise.png</image:loc>
+                <image:caption>A drawing of the Seated L Sit Single Leg Raise exercise</image:caption>
+                <image:title>Seated L Sit Single Leg Raise</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1068,6 +1627,11 @@
         <url>
           <loc>https://mover.tips/exercises/slider-l-sit-pike-workout-exercise/</loc> 
           <lastmod>2022-11-04T02:51:15+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/slider-l-sit-pike.png</image:loc>
+                <image:caption>A drawing of the Slider L Sit Pike exercise</image:caption>
+                <image:title>Slider L Sit Pike</image:title>
+              </image:image>
                                 
         </url>
         
@@ -1722,7 +2286,17 @@
         
     
         <url>
+          <loc>https://mover.tips/names/bar/knee/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/bar/passive/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/bar/raise/</loc>                       
         </url>
         
     
@@ -2162,6 +2736,21 @@
         
     
         <url>
+          <loc>https://mover.tips/names/cross/horizontal/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/horizontal/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/cross/iron/</loc>                       
         </url>
         
@@ -2182,12 +2771,42 @@
         
     
         <url>
+          <loc>https://mover.tips/names/cross/leg/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/leg/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/leg/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/cross/push-up/</loc>                       
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/cross/reach/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/scissor/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/scissor/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/cross/scissor/</loc>                       
         </url>
         
     
@@ -3427,7 +4046,17 @@
         
     
         <url>
+          <loc>https://mover.tips/names/hang/knee/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/hang/passive/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/hang/raise/</loc>                       
         </url>
         
     
@@ -4647,6 +5276,56 @@
         
     
         <url>
+          <loc>https://mover.tips/names/horizontal/cross/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/cross/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/leg/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/leg/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/scissor/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/scissor/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/incline/extension/</loc>                       
         </url>
         
@@ -4847,6 +5526,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/knee/bar/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/knee/crunch/alternate/</loc>                       
         </url>
         
@@ -4893,6 +5577,11 @@
     
         <url>
           <loc>https://mover.tips/names/knee/extension/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/knee/hang/</loc>                       
         </url>
         
     
@@ -7402,6 +8091,21 @@
         
     
         <url>
+          <loc>https://mover.tips/names/leg/cross/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/cross/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/cross/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/leg/crossed/</loc>                       
         </url>
         
@@ -7638,6 +8342,21 @@
     
         <url>
           <loc>https://mover.tips/names/leg/heel/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/horizontal/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/horizontal/scissor/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/horizontal/</loc>                       
         </url>
         
     
@@ -8648,6 +9367,21 @@
     
         <url>
           <loc>https://mover.tips/names/leg/raise/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/scissor/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/scissor/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/leg/scissor/</loc>                       
         </url>
         
     
@@ -11397,6 +12131,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/punch/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/push-up/assisted/knee/</loc>                       
         </url>
         
@@ -11697,6 +12436,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/raise/bar/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/raise/bench/leg/</loc>                       
         </url>
         
@@ -11733,6 +12477,11 @@
     
         <url>
           <loc>https://mover.tips/names/raise/front/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/raise/hang/</loc>                       
         </url>
         
     
@@ -14028,6 +14777,56 @@
     
         <url>
           <loc>https://mover.tips/names/scapula/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/cross/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/cross/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/horizontal/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/horizontal/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/leg/cross/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/leg/horizontal/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/leg/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/scissor/</loc>                       
         </url>
         
     
@@ -16477,11 +17276,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/sit/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/sit-up/cross/</loc>                       
         </url>
         
@@ -16493,6 +17287,11 @@
     
         <url>
           <loc>https://mover.tips/names/sit-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sit/</loc>                       
         </url>
         
     

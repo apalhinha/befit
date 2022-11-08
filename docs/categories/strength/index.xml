@@ -8,11 +8,74 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Dec 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/categories/strength/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Flex Hang</title>
+      <link>https://mover.tips/exercises/flex-hang-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 23:46:05 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/flex-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dead Hang</title>
       <link>https://mover.tips/exercises/dead-hang-workout-exercise/</link>
-      <pubDate>Sun, 06 Nov 2022 19:27:58 +0100</pubDate>
+      <pubDate>Mon, 07 Nov 2022 23:46:03 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/dead-hang-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flutter Kicks</title>
+      <link>https://mover.tips/exercises/flutter-kicks-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 23:46:03 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/flutter-kicks-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pull Up</title>
+      <link>https://mover.tips/exercises/pull-up-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 19:40:28 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chin Up</title>
+      <link>https://mover.tips/exercises/chin-up-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 19:40:27 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/chin-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Negative Pull Up</title>
+      <link>https://mover.tips/exercises/negative-pull-up-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 19:40:27 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/negative-pull-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sit Up</title>
+      <link>https://mover.tips/exercises/sit-up-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 19:40:27 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/sit-up-workout-exercise/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crunch</title>
+      <link>https://mover.tips/exercises/crunch-workout-exercise/</link>
+      <pubDate>Mon, 07 Nov 2022 11:36:05 +0100</pubDate>
+      
+      <guid>https://mover.tips/exercises/crunch-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -116,24 +179,6 @@
     </item>
     
     <item>
-      <title>Chin Up</title>
-      <link>https://mover.tips/exercises/chin-up-workout-exercise/</link>
-      <pubDate>Sun, 06 Nov 2022 17:02:36 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/chin-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flutter Kicks</title>
-      <link>https://mover.tips/exercises/flutter-kicks-workout-exercise/</link>
-      <pubDate>Sun, 06 Nov 2022 17:02:36 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/flutter-kicks-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Heel Taps</title>
       <link>https://mover.tips/exercises/heel-taps-workout-exercise/</link>
       <pubDate>Sun, 06 Nov 2022 17:02:36 +0100</pubDate>
@@ -143,29 +188,11 @@
     </item>
     
     <item>
-      <title>Negative Pull Up</title>
-      <link>https://mover.tips/exercises/negative-pull-up-workout-exercise/</link>
-      <pubDate>Sun, 06 Nov 2022 17:02:36 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/negative-pull-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Raised Leg Crunch</title>
       <link>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</link>
       <pubDate>Sun, 06 Nov 2022 17:02:36 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/raised-leg-crunch-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sit Up</title>
-      <link>https://mover.tips/exercises/sit-up-workout-exercise/</link>
-      <pubDate>Sun, 06 Nov 2022 17:02:36 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/sit-up-workout-exercise/</guid>
       <description></description>
     </item>
     
@@ -341,15 +368,6 @@
     </item>
     
     <item>
-      <title>Flex Hang</title>
-      <link>https://mover.tips/exercises/flex-hang-workout-exercise/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:50 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/flex-hang-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Floor L Sit Heel Support</title>
       <link>https://mover.tips/exercises/floor-l-sit-heel-support-workout-exercise/</link>
       <pubDate>Sat, 05 Nov 2022 19:33:50 +0100</pubDate>
@@ -512,15 +530,6 @@
     </item>
     
     <item>
-      <title>Crunch</title>
-      <link>https://mover.tips/exercises/crunch-workout-exercise/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:48 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/crunch-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Elbow Plank</title>
       <link>https://mover.tips/exercises/elbow-plank-workout-exercise/</link>
       <pubDate>Sat, 05 Nov 2022 19:33:48 +0100</pubDate>
@@ -535,15 +544,6 @@
       <pubDate>Sat, 05 Nov 2022 19:33:48 +0100</pubDate>
       
       <guid>https://mover.tips/exercises/pike-push-up-workout-exercise/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pull Up</title>
-      <link>https://mover.tips/exercises/pull-up-workout-exercise/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:48 +0100</pubDate>
-      
-      <guid>https://mover.tips/exercises/pull-up-workout-exercise/</guid>
       <description></description>
     </item>
     
