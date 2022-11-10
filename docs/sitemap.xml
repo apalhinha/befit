@@ -5,14 +5,20 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-10T09:30:09+01:00</lastmod>
+          <lastmod>2022-11-10T10:08:46+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-10T09:30:09+01:00</lastmod>                      
+          <lastmod>2022-11-10T10:08:46+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/</loc> 
+          <lastmod>2022-11-10T10:08:11+01:00</lastmod>                      
         </url>
         
     
@@ -61,12 +67,6 @@
                 <image:title>Pike Push Up</image:title>
               </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-10T09:29:33+01:00</lastmod>                      
         </url>
         
     
@@ -6973,11 +6973,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/l-sit/leg/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/l-sit/leg/</loc>                       
         </url>
         
@@ -7664,11 +7659,6 @@
     
         <url>
           <loc>https://mover.tips/names/l-sit/raise/wall/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/l-sit/raise/wallfloor/</loc>                       
         </url>
         
     
@@ -8648,21 +8638,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/l-sit/wallfloor/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/l-sit/wallfloor/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/l-sit/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/l-sit/</loc>                       
         </url>
         
@@ -9448,11 +9423,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/leg/l-sit/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/leg/l-sit/</loc>                       
         </url>
         
@@ -10168,11 +10138,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/leg/raise/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/leg/raise/</loc>                       
         </url>
         
@@ -10668,11 +10633,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/leg/single/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/leg/single/</loc>                       
         </url>
         
@@ -11109,26 +11069,6 @@
     
         <url>
           <loc>https://mover.tips/names/leg/wall/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/leg/wallfloor/l-sit/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/leg/wallfloor/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/leg/wallfloor/single/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/leg/wallfloor/</loc>                       
         </url>
         
     
@@ -13063,11 +13003,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/position/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/position/</loc>                       
         </url>
         
@@ -14188,11 +14123,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/raise/l-sit/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/raise/l-sit/</loc>                       
         </url>
         
@@ -14634,11 +14564,6 @@
     
         <url>
           <loc>https://mover.tips/names/raise/leg/wall/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/raise/leg/wallfloor/</loc>                       
         </url>
         
     
@@ -15338,11 +15263,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/raise/single/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/raise/single/</loc>                       
         </url>
         
@@ -15769,26 +15689,6 @@
     
         <url>
           <loc>https://mover.tips/names/raise/wall/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/raise/wallfloor/l-sit/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/raise/wallfloor/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/raise/wallfloor/single/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/raise/wallfloor/</loc>                       
         </url>
         
     
@@ -17693,11 +17593,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/single/leg/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/single/leg/</loc>                       
         </url>
         
@@ -18303,11 +18198,6 @@
         
     
         <url>
-          <loc>https://mover.tips/names/single/raise/wallfloor/</loc>                       
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/names/single/raise/</loc>                       
         </url>
         
@@ -18754,21 +18644,6 @@
     
         <url>
           <loc>https://mover.tips/names/single/wall/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/single/wallfloor/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/single/wallfloor/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/single/wallfloor/</loc>                       
         </url>
         
     
@@ -21874,86 +21749,6 @@
     
         <url>
           <loc>https://mover.tips/names/wall/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/l-sit/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/l-sit/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/l-sit/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/leg/l-sit/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/leg/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/leg/single/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/position/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/raise/l-sit/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/raise/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/raise/single/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/single/leg/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/single/raise/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/single/</loc>                       
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/wallfloor/</loc>                       
         </url>
         
     
