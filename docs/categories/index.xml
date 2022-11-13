@@ -8,18 +8,9 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cardio</title>
-      <link>https://mover.tips/categories/cardio/</link>
-      <pubDate>Sat, 12 Nov 2022 02:10:39 +0100</pubDate>
-      
-      <guid>https://mover.tips/categories/cardio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flexibility</title>
       <link>https://mover.tips/categories/flexibility/</link>
-      <pubDate>Fri, 11 Nov 2022 17:41:47 +0100</pubDate>
+      <pubDate>Sun, 13 Nov 2022 13:32:04 +0100</pubDate>
       
       <guid>https://mover.tips/categories/flexibility/</guid>
       <description></description>
@@ -28,7 +19,7 @@
     <item>
       <title>Fight</title>
       <link>https://mover.tips/categories/fight/</link>
-      <pubDate>Mon, 07 Nov 2022 19:40:28 +0100</pubDate>
+      <pubDate>Sun, 13 Nov 2022 13:32:03 +0100</pubDate>
       
       <guid>https://mover.tips/categories/fight/</guid>
       <description></description>
@@ -37,9 +28,18 @@
     <item>
       <title>Yoga</title>
       <link>https://mover.tips/categories/yoga/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:50 +0100</pubDate>
+      <pubDate>Sun, 13 Nov 2022 13:32:03 +0100</pubDate>
       
       <guid>https://mover.tips/categories/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cardio</title>
+      <link>https://mover.tips/categories/cardio/</link>
+      <pubDate>Sun, 13 Nov 2022 13:32:02 +0100</pubDate>
+      
+      <guid>https://mover.tips/categories/cardio/</guid>
       <description></description>
     </item>
     

@@ -8,20 +8,47 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wall</title>
-      <link>https://mover.tips/equipment/wall/</link>
-      <pubDate>Sat, 12 Nov 2022 17:45:46 +0100</pubDate>
+      <title>Floor</title>
+      <link>https://mover.tips/equipment/floor/</link>
+      <pubDate>Sun, 13 Nov 2022 13:32:05 +0100</pubDate>
       
-      <guid>https://mover.tips/equipment/wall/</guid>
+      <guid>https://mover.tips/equipment/floor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Bar</title>
       <link>https://mover.tips/equipment/parallel-bar/</link>
-      <pubDate>Sat, 12 Nov 2022 02:10:38 +0100</pubDate>
+      <pubDate>Sun, 13 Nov 2022 13:32:05 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/parallel-bar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slider</title>
+      <link>https://mover.tips/equipment/slider/</link>
+      <pubDate>Sun, 13 Nov 2022 13:32:05 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bench</title>
+      <link>https://mover.tips/equipment/bench/</link>
+      <pubDate>Sun, 13 Nov 2022 13:32:04 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/bench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wall</title>
+      <link>https://mover.tips/equipment/wall/</link>
+      <pubDate>Sun, 13 Nov 2022 13:32:04 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/wall/</guid>
       <description></description>
     </item>
     
@@ -32,33 +59,6 @@
       
       <guid>https://mover.tips/equipment/pull-up-bar/</guid>
       <description>All exercises using a Pull Up Bar require in general a good full body condition. Shoulders and forearms have benefits from all moves using such equipment.</description>
-    </item>
-    
-    <item>
-      <title>Floor</title>
-      <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:52 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/floor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bench</title>
-      <link>https://mover.tips/equipment/bench/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:51 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/bench/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slider</title>
-      <link>https://mover.tips/equipment/slider/</link>
-      <pubDate>Sat, 05 Nov 2022 19:33:50 +0100</pubDate>
-      
-      <guid>https://mover.tips/equipment/slider/</guid>
-      <description></description>
     </item>
     
     <item>
