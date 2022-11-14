@@ -5,20 +5,88 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-14T10:22:11+01:00</lastmod>
+          <lastmod>2022-11-14T11:25:57+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-14T10:22:11+01:00</lastmod>                      
+          <lastmod>2022-11-14T11:25:57+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/core-lower-body/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/darebee/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/flexibilities/hips/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/howcast/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/lying-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/l/lying-leg-raise.png</image:loc>
+                <image:caption>A drawing of the Lying Leg Raise exercise</image:caption>
+                <image:title>Lying Leg Raise</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/raising-legs/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/standing-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-14T11:25:54+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/standing-side-leg-raise-workout-exercise/</loc> 
+          <lastmod>2022-11-14T11:25:53+01:00</lastmod>
+                                
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-14T10:21:24+01:00</lastmod>                      
+          <lastmod>2022-11-14T11:25:09+01:00</lastmod>                      
         </url>
         
     
@@ -26,12 +94,6 @@
           <loc>https://mover.tips/exercises/flex-hang-workout-exercise/</loc> 
           <lastmod>2022-11-14T09:39:30+01:00</lastmod>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/</loc> 
-          <lastmod>2022-11-14T09:39:30+01:00</lastmod>                      
         </url>
         
     
@@ -48,26 +110,8 @@
         
     
         <url>
-          <loc>https://mover.tips/muscles/core-lower-body/</loc> 
-          <lastmod>2022-11-14T09:39:28+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/muscles/core-upper-body/</loc> 
           <lastmod>2022-11-14T09:39:28+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/front-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-14T09:39:28+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/f/front-leg-raise.png</image:loc>
-                <image:caption>A drawing of the Front Leg Raise exercise</image:caption>
-                <image:title>Front Leg Raise</image:title>
-              </image:image>
-                                
         </url>
         
     
@@ -78,33 +122,9 @@
         
     
         <url>
-          <loc>https://mover.tips/flexibilities/harmstring/</loc> 
-          <lastmod>2022-11-14T09:39:28+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/flexibilities/hips/</loc> 
-          <lastmod>2022-11-14T09:39:28+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/howcast/</loc> 
-          <lastmod>2022-11-14T09:39:28+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/pull-up-workout-exercise/</loc> 
           <lastmod>2022-11-14T09:39:28+01:00</lastmod>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/raising-legs/</loc> 
-          <lastmod>2022-11-14T09:39:28+01:00</lastmod>                      
         </url>
         
     
@@ -151,12 +171,6 @@
         
     
         <url>
-          <loc>https://mover.tips/ytauthors/darebee/</loc> 
-          <lastmod>2022-11-14T09:39:27+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/dead-hang-workout-exercise/</loc> 
           <lastmod>2022-11-14T09:39:27+01:00</lastmod>
                                 
@@ -184,13 +198,6 @@
         <url>
           <loc>https://mover.tips/ytauthors/rawtraining/</loc> 
           <lastmod>2022-11-14T09:39:27+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/standing-side-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-14T09:39:27+01:00</lastmod>
-                                
         </url>
         
     
@@ -392,18 +399,6 @@
         <url>
           <loc>https://mover.tips/ytauthors/live-lean-tv-daily-exercises/</loc> 
           <lastmod>2022-11-14T09:19:41+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/lying-leg-raise-workout-exercise/</loc> 
-          <lastmod>2022-11-14T09:19:41+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/l/lying-leg-raise.png</image:loc>
-                <image:caption>A drawing of the Lying Leg Raise exercise</image:caption>
-                <image:title>Lying Leg Raise</image:title>
-              </image:image>
-                                
         </url>
         
     
