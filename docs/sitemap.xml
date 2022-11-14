@@ -5,14 +5,20 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-14T11:25:57+01:00</lastmod>
+          <lastmod>2022-11-14T19:23:02+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-14T11:25:57+01:00</lastmod>                      
+          <lastmod>2022-11-14T19:23:02+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/</loc> 
+          <lastmod>2022-11-14T19:21:54+01:00</lastmod>                      
         </url>
         
     
@@ -81,12 +87,6 @@
           <loc>https://mover.tips/exercises/standing-side-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-14T11:25:53+01:00</lastmod>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-14T11:25:09+01:00</lastmod>                      
         </url>
         
     
