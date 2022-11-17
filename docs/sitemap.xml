@@ -5,20 +5,195 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-16T20:13:30+01:00</lastmod>
+          <lastmod>2022-11-17T20:19:33+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-16T20:13:30+01:00</lastmod>                      
+          <lastmod>2022-11-17T20:19:33+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-17T20:19:30+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/f/forward-slider-push-up.png</image:loc>
+                <image:caption>A drawing of the Forward Slider Push Up exercise</image:caption>
+                <image:title>Forward Slider Push Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/</loc> 
+          <lastmod>2022-11-17T20:19:30+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/equipment/slider/</loc> 
+          <lastmod>2022-11-17T20:19:30+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/slider-push-up/</loc> 
+          <lastmod>2022-11-17T20:19:30+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/categories/strength/</loc> 
+          <lastmod>2022-11-17T20:19:30+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/tread-athletics/</loc> 
+          <lastmod>2022-11-17T20:19:30+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/darebee/</loc> 
+          <lastmod>2022-11-17T20:19:27+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/categories/flexibility/</loc> 
+          <lastmod>2022-11-17T20:19:27+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/push-up-workout-exercise/</loc> 
+          <lastmod>2022-11-17T20:19:27+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/push-up.png</image:loc>
+                <image:caption>A drawing of the Push Up exercise</image:caption>
+                <image:title>Push Up</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/progressions/push-up-progression/</loc> 
+          <lastmod>2022-11-17T20:19:27+01:00</lastmod>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-16T20:12:44+01:00</lastmod>                      
+          <lastmod>2022-11-17T20:18:24+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/dr--steve-sudell-jr-/</loc> 
+          <lastmod>2022-11-17T19:00:16+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/l-sit-supported-single-leg-raise-parallettes-workout-exercise/</loc> 
+          <lastmod>2022-11-17T19:00:16+01:00</lastmod>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/raising-legs/</loc> 
+          <lastmod>2022-11-17T19:00:16+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/ashton-fitness/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/bent-leg-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/bent-leg-body-row.png</image:loc>
+                <image:caption>A drawing of the Bent Leg Body Row exercise</image:caption>
+                <image:title>Bent Leg Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/body-row.png</image:loc>
+                <image:caption>A drawing of the Body Row exercise</image:caption>
+                <image:title>Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/muscles/full-body/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/functional-bodybuilding/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/live-lean-tv-daily-exercises/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/pull-up-row-workout-exercise/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/p/pull-up-row.png</image:loc>
+                <image:caption>A drawing of the Pull Up Row exercise</image:caption>
+                <image:title>Pull Up Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/rawtraining/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/supinated-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-17T19:00:13+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/supinated-body-row.png</image:loc>
+                <image:caption>A drawing of the Supinated Body Row exercise</image:caption>
+                <image:title>Supinated Body Row</image:title>
+              </image:image>
+                                
         </url>
         
     
@@ -31,18 +206,6 @@
                 <image:title>Air Bike</image:title>
               </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/darebee/</loc> 
-          <lastmod>2022-11-16T00:53:05+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/</loc> 
-          <lastmod>2022-11-16T00:53:05+01:00</lastmod>                      
         </url>
         
     
@@ -71,12 +234,6 @@
         
     
         <url>
-          <loc>https://mover.tips/collections/raising-legs/</loc> 
-          <lastmod>2022-11-16T00:53:03+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/standing-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-16T00:53:03+01:00</lastmod>
                                 
@@ -91,12 +248,6 @@
     
         <url>
           <loc>https://mover.tips/ytauthors/ars-corpus/</loc> 
-          <lastmod>2022-11-15T19:26:17+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/ashton-fitness/</loc> 
           <lastmod>2022-11-15T19:26:17+01:00</lastmod>                      
         </url>
         
@@ -151,12 +302,6 @@
     
         <url>
           <loc>https://mover.tips/ytauthors/francis-yang/</loc> 
-          <lastmod>2022-11-15T19:26:17+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/muscles/full-body/</loc> 
           <lastmod>2022-11-15T19:26:17+01:00</lastmod>                      
         </url>
         
@@ -336,12 +481,6 @@
         
     
         <url>
-          <loc>https://mover.tips/equipment/slider/</loc> 
-          <lastmod>2022-11-15T19:26:17+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/slider-l-sit-pike-workout-exercise/</loc> 
           <lastmod>2022-11-15T19:26:17+01:00</lastmod>
               <image:image>
@@ -350,12 +489,6 @@
                 <image:title>Slider L Sit Pike</image:title>
               </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/categories/strength/</loc> 
-          <lastmod>2022-11-15T19:26:17+01:00</lastmod>                      
         </url>
         
     
@@ -487,12 +620,6 @@
         
     
         <url>
-          <loc>https://mover.tips/ytauthors/dr--steve-sudell-jr-/</loc> 
-          <lastmod>2022-11-15T19:26:16+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/ytauthors/eric-beavers/</loc> 
           <lastmod>2022-11-15T19:26:16+01:00</lastmod>                      
         </url>
@@ -554,12 +681,6 @@
     
         <url>
           <loc>https://mover.tips/ytauthors/fred-perra/</loc> 
-          <lastmod>2022-11-15T19:26:16+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/functional-bodybuilding/</loc> 
           <lastmod>2022-11-15T19:26:16+01:00</lastmod>                      
         </url>
         
@@ -757,13 +878,6 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/l-sit-supported-single-leg-raise,-parallettes-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:16+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/l-sit-to-tuck-planche-workout-exercise/</loc> 
           <lastmod>2022-11-15T19:26:16+01:00</lastmod>
               <image:image>
@@ -874,12 +988,6 @@
     
         <url>
           <loc>https://mover.tips/ytauthors/pt-on-a-plane/</loc> 
-          <lastmod>2022-11-15T19:26:16+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/progressions/push-up-progression/</loc> 
           <lastmod>2022-11-15T19:26:16+01:00</lastmod>                      
         </url>
         
@@ -1226,18 +1334,6 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/forward-slider-push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:15+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/f/forward-slider-push-up.png</image:loc>
-                <image:caption>A drawing of the Forward Slider Push Up exercise</image:caption>
-                <image:title>Forward Slider Push Up</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/ytauthors/full-control/</loc> 
           <lastmod>2022-11-15T19:26:15+01:00</lastmod>                      
         </url>
@@ -1353,12 +1449,6 @@
     
     
         <url>
-          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
-          <lastmod>2022-11-15T19:26:15+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/push-up-with-rotation-workout-exercise/</loc> 
           <lastmod>2022-11-15T19:26:15+01:00</lastmod>
               <image:image>
@@ -1413,12 +1503,6 @@
         
     
         <url>
-          <loc>https://mover.tips/collections/slider-push-up/</loc> 
-          <lastmod>2022-11-15T19:26:15+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/slider-push-up-workout-exercise/</loc> 
           <lastmod>2022-11-15T19:26:15+01:00</lastmod>
               <image:image>
@@ -1462,12 +1546,6 @@
     
         <url>
           <loc>https://mover.tips/ytauthors/the-health-alchemist/</loc> 
-          <lastmod>2022-11-15T19:26:15+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/tread-athletics/</loc> 
           <lastmod>2022-11-15T19:26:15+01:00</lastmod>                      
         </url>
         
@@ -1519,30 +1597,6 @@
         <url>
           <loc>https://mover.tips/ytauthors/workout-freaks/</loc> 
           <lastmod>2022-11-15T19:26:15+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/bent-leg-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:14+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/b/bent-leg-body-row.png</image:loc>
-                <image:caption>A drawing of the Bent Leg Body Row exercise</image:caption>
-                <image:title>Bent Leg Body Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:14+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/b/body-row.png</image:loc>
-                <image:caption>A drawing of the Body Row exercise</image:caption>
-                <image:title>Body Row</image:title>
-              </image:image>
-                                
         </url>
         
     
@@ -1727,12 +1781,6 @@
         
     
         <url>
-          <loc>https://mover.tips/ytauthors/live-lean-tv-daily-exercises/</loc> 
-          <lastmod>2022-11-15T19:26:14+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/lying-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-15T19:26:14+01:00</lastmod>
               <image:image>
@@ -1806,25 +1854,7 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/pull-up-row-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:14+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/p/pull-up-row.png</image:loc>
-                <image:caption>A drawing of the Pull Up Row exercise</image:caption>
-                <image:title>Pull Up Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/ytauthors/rachael-schroeder-s-soccer-and-fitness-page/</loc> 
-          <lastmod>2022-11-15T19:26:14+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/rawtraining/</loc> 
           <lastmod>2022-11-15T19:26:14+01:00</lastmod>                      
         </url>
         
@@ -1920,18 +1950,6 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/supinated-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:14+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/s/supinated-body-row.png</image:loc>
-                <image:caption>A drawing of the Supinated Body Row exercise</image:caption>
-                <image:title>Supinated Body Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/ytauthors/trekfit/</loc> 
           <lastmod>2022-11-15T19:26:14+01:00</lastmod>                      
         </url>
@@ -2005,12 +2023,6 @@
         
     
         <url>
-          <loc>https://mover.tips/categories/flexibility/</loc> 
-          <lastmod>2022-11-15T19:26:13+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/flutter-kicks-workout-exercise/</loc> 
           <lastmod>2022-11-15T19:26:13+01:00</lastmod>
               <image:image>
@@ -2053,18 +2065,6 @@
                 <image:loc>https://mover.tips/pics/exercise/n/negative-pull-up.png</image:loc>
                 <image:caption>A drawing of the Negative Pull Up exercise</image:caption>
                 <image:title>Negative Pull Up</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/push-up-workout-exercise/</loc> 
-          <lastmod>2022-11-15T19:26:13+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/p/push-up.png</image:loc>
-                <image:caption>A drawing of the Push Up exercise</image:caption>
-                <image:title>Push Up</image:title>
               </image:image>
                                 
         </url>
@@ -2849,6 +2849,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/assisted/one-arm/sliding/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/assisted/one-arm/unstable/</loc>                       
         </url>
         
@@ -2869,12 +2874,32 @@
         
     
         <url>
+          <loc>https://mover.tips/names/assisted/push-up/sliding/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/assisted/push-up/unstable/</loc>                       
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/assisted/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/assisted/sliding/one-arm/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/assisted/sliding/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/assisted/sliding/</loc>                       
         </url>
         
     
@@ -17574,6 +17599,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/one-arm/assisted/sliding/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/one-arm/assisted/unstable/</loc>                       
         </url>
         
@@ -17639,6 +17669,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/one-arm/push-up/sliding/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/one-arm/push-up/unstable/</loc>                       
         </url>
         
@@ -17660,6 +17695,21 @@
     
         <url>
           <loc>https://mover.tips/names/one-arm/slider/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/one-arm/sliding/assisted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/one-arm/sliding/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/one-arm/sliding/</loc>                       
         </url>
         
     
@@ -19239,6 +19289,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/push-up/assisted/sliding/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/push-up/assisted/unstable/</loc>                       
         </url>
         
@@ -19389,6 +19444,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/push-up/one-arm/sliding/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/push-up/one-arm/unstable/</loc>                       
         </url>
         
@@ -19445,6 +19505,21 @@
     
         <url>
           <loc>https://mover.tips/names/push-up/slider/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/push-up/sliding/assisted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/push-up/sliding/one-arm/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/push-up/sliding/</loc>                       
         </url>
         
     
@@ -26090,6 +26165,56 @@
     
         <url>
           <loc>https://mover.tips/names/slider/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/assisted/one-arm/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/assisted/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/assisted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/one-arm/assisted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/one-arm/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/one-arm/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/push-up/assisted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/push-up/one-arm/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/sliding/</loc>                       
         </url>
         
     
