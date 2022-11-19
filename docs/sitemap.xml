@@ -5,32 +5,80 @@
   
         <url>
           <loc>https://mover.tips/</loc> 
-          <lastmod>2022-11-19T21:19:12+01:00</lastmod>
+          <lastmod>2022-11-19T22:07:08+01:00</lastmod>
           <priority>0</priority>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/blog/last-updates/</loc> 
-          <lastmod>2022-11-19T21:19:12+01:00</lastmod>                      
+          <lastmod>2022-11-19T22:07:08+01:00</lastmod>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/</loc> 
-          <lastmod>2022-11-19T21:17:55+01:00</lastmod>                      
+          <lastmod>2022-11-19T22:05:05+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/b/body-row.png</image:loc>
+                <image:caption>A drawing of the Body Row exercise</image:caption>
+                <image:title>Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/close-grip-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/c/close-grip-body-row.png</image:loc>
+                <image:caption>A drawing of the Close Grip Body Row exercise</image:caption>
+                <image:title>Close Grip Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/functional-bodybuilding/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/george-decker/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/mixed-grip-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/m/mixed-grip-body-row.png</image:loc>
+                <image:caption>A drawing of the Mixed Grip Body Row exercise</image:caption>
+                <image:title>Mixed Grip Body Row</image:title>
+              </image:image>
+                                
         </url>
         
     
         <url>
           <loc>https://mover.tips/muscles/</loc> 
-          <lastmod>2022-11-19T14:04:38+01:00</lastmod>                      
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
         </url>
         
     
         <url>
           <loc>https://mover.tips/exercises/neutral-grip-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-19T14:04:38+01:00</lastmod>
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>
               <image:image>
                 <image:loc>https://mover.tips/pics/exercise/n/neutral-grip-body-row.png</image:loc>
                 <image:caption>A drawing of the Neutral Grip Body Row exercise</image:caption>
@@ -41,8 +89,38 @@
         
     
         <url>
+          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/rachael-schroeder-s-soccer-and-fitness-page/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/ytauthors/rawtraining/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/exercises/supinated-body-row-workout-exercise/</loc> 
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>
+              <image:image>
+                <image:loc>https://mover.tips/pics/exercise/s/supinated-body-row.png</image:loc>
+                <image:caption>A drawing of the Supinated Body Row exercise</image:caption>
+                <image:title>Supinated Body Row</image:title>
+              </image:image>
+                                
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/ytauthors/trekfit/</loc> 
-          <lastmod>2022-11-19T14:04:38+01:00</lastmod>                      
+          <lastmod>2022-11-19T21:59:06+01:00</lastmod>                      
         </url>
         
     
@@ -101,12 +179,6 @@
         
     
         <url>
-          <loc>https://mover.tips/ytauthors/functional-bodybuilding/</loc> 
-          <lastmod>2022-11-19T12:21:23+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/incline-body-row-workout-exercise/</loc> 
           <lastmod>2022-11-19T12:21:23+01:00</lastmod>
               <image:image>
@@ -137,31 +209,7 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-19T12:21:22+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/b/body-row.png</image:loc>
-                <image:caption>A drawing of the Body Row exercise</image:caption>
-                <image:title>Body Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/ytauthors/live-lean-tv-daily-exercises/</loc> 
-          <lastmod>2022-11-19T12:21:22+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/collections/pull-up-friendly/</loc> 
-          <lastmod>2022-11-19T12:21:22+01:00</lastmod>                      
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/rawtraining/</loc> 
           <lastmod>2022-11-19T12:21:22+01:00</lastmod>                      
         </url>
         
@@ -2200,18 +2248,6 @@
         
     
         <url>
-          <loc>https://mover.tips/exercises/mixed-grip-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-19T08:52:53+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/m/mixed-grip-body-row.png</image:loc>
-                <image:caption>A drawing of the Mixed Grip Body Row exercise</image:caption>
-                <image:title>Mixed Grip Body Row</image:title>
-              </image:image>
-                                
-        </url>
-        
-    
-        <url>
           <loc>https://mover.tips/exercises/mountain-climber-workout-exercise/</loc> 
           <lastmod>2022-11-19T08:52:53+01:00</lastmod>
               <image:image>
@@ -2244,12 +2280,6 @@
                 <image:title>Push Up</image:title>
               </image:image>
                                 
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/ytauthors/rachael-schroeder-s-soccer-and-fitness-page/</loc> 
-          <lastmod>2022-11-19T08:52:53+01:00</lastmod>                      
         </url>
         
     
@@ -2310,18 +2340,6 @@
         <url>
           <loc>https://mover.tips/exercises/standing-side-leg-raise-workout-exercise/</loc> 
           <lastmod>2022-11-19T08:52:53+01:00</lastmod>
-                                
-        </url>
-        
-    
-        <url>
-          <loc>https://mover.tips/exercises/supinated-body-row-workout-exercise/</loc> 
-          <lastmod>2022-11-19T08:52:53+01:00</lastmod>
-              <image:image>
-                <image:loc>https://mover.tips/pics/exercise/s/supinated-body-row.png</image:loc>
-                <image:caption>A drawing of the Supinated Body Row exercise</image:caption>
-                <image:title>Supinated Body Row</image:title>
-              </image:image>
                                 
         </url>
         
@@ -5811,6 +5829,21 @@
         
     
         <url>
+          <loc>https://mover.tips/names/body/close/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/body/close/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/body/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/body/elevated/feet/</loc>                       
         </url>
         
@@ -5887,6 +5920,11 @@
     
         <url>
           <loc>https://mover.tips/names/body/grip/bent/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/body/grip/close/</loc>                       
         </url>
         
     
@@ -7211,6 +7249,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/body/row/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/body/row/elevated/</loc>                       
         </url>
         
@@ -7621,6 +7664,21 @@
         
     
         <url>
+          <loc>https://mover.tips/names/bodyweight/close/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/bodyweight/close/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/bodyweight/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/bodyweight/elevated/feet/</loc>                       
         </url>
         
@@ -7651,6 +7709,21 @@
         
     
         <url>
+          <loc>https://mover.tips/names/bodyweight/grip/close/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/bodyweight/grip/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/bodyweight/grip/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/bodyweight/leg/bent/</loc>                       
         </url>
         
@@ -7671,12 +7744,22 @@
         
     
         <url>
+          <loc>https://mover.tips/names/bodyweight/row/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/bodyweight/row/elevated/</loc>                       
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/bodyweight/row/feet/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/bodyweight/row/grip/</loc>                       
         </url>
         
     
@@ -7841,12 +7924,102 @@
         
     
         <url>
+          <loc>https://mover.tips/names/close/body/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/body/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/bodyweight/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/bodyweight/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/grip/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/grip/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/grip/inverted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/grip/row/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/close/grip/</loc>                       
         </url>
         
     
         <url>
+          <loc>https://mover.tips/names/close/inverted/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/inverted/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/inverted/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/close/push-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/row/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/row/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/row/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/row/inverted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/close/row/</loc>                       
         </url>
         
     
@@ -9651,6 +9824,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/grip/body/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/grip/body/leg/bent/neutral/</loc>                       
         </url>
         
@@ -9811,12 +9989,52 @@
         
     
         <url>
+          <loc>https://mover.tips/names/grip/bodyweight/close/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/bodyweight/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/close/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/close/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/close/inverted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/close/row/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/grip/close/</loc>                       
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/grip/inverted/alternate/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/inverted/close/</loc>                       
         </url>
         
     
@@ -10387,6 +10605,16 @@
     
         <url>
           <loc>https://mover.tips/names/grip/row/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/row/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/grip/row/close/</loc>                       
         </url>
         
     
@@ -12941,6 +13169,21 @@
         
     
         <url>
+          <loc>https://mover.tips/names/inverted/close/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/inverted/close/row/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/inverted/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/inverted/elevated/feet/</loc>                       
         </url>
         
@@ -12972,6 +13215,11 @@
     
         <url>
           <loc>https://mover.tips/names/inverted/grip/alternate/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/inverted/grip/close/</loc>                       
         </url>
         
     
@@ -13062,6 +13310,11 @@
     
         <url>
           <loc>https://mover.tips/names/inverted/row/bent/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/inverted/row/close/</loc>                       
         </url>
         
     
@@ -27921,6 +28174,11 @@
         
     
         <url>
+          <loc>https://mover.tips/names/row/body/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/row/body/elevated/</loc>                       
         </url>
         
@@ -28261,12 +28519,22 @@
         
     
         <url>
+          <loc>https://mover.tips/names/row/bodyweight/close/</loc>                       
+        </url>
+        
+    
+        <url>
           <loc>https://mover.tips/names/row/bodyweight/elevated/</loc>                       
         </url>
         
     
         <url>
           <loc>https://mover.tips/names/row/bodyweight/feet/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/bodyweight/grip/</loc>                       
         </url>
         
     
@@ -28282,6 +28550,31 @@
     
         <url>
           <loc>https://mover.tips/names/row/chin-up/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/close/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/close/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/close/grip/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/close/inverted/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/close/</loc>                       
         </url>
         
     
@@ -28437,6 +28730,16 @@
     
         <url>
           <loc>https://mover.tips/names/row/grip/body/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/grip/bodyweight/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/grip/close/</loc>                       
         </url>
         
     
@@ -28772,6 +29075,11 @@
     
         <url>
           <loc>https://mover.tips/names/row/inverted/bent/</loc>                       
+        </url>
+        
+    
+        <url>
+          <loc>https://mover.tips/names/row/inverted/close/</loc>                       
         </url>
         
     
