@@ -8,27 +8,36 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/equipment/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Slider</title>
-      <link>https://mover.tips/equipment/slider/</link>
-      <pubDate>Thu, 17 Nov 2022 20:19:30 +0100</pubDate>
+      <title>Other</title>
+      <link>https://mover.tips/equipment/other/</link>
+      <pubDate>Sat, 19 Nov 2022 09:14:40 +0100</pubDate>
       
-      <guid>https://mover.tips/equipment/slider/</guid>
+      <guid>https://mover.tips/equipment/other/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Floor</title>
       <link>https://mover.tips/equipment/floor/</link>
-      <pubDate>Tue, 15 Nov 2022 19:26:17 +0100</pubDate>
+      <pubDate>Sat, 19 Nov 2022 08:52:56 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/floor/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Slider</title>
+      <link>https://mover.tips/equipment/slider/</link>
+      <pubDate>Sat, 19 Nov 2022 08:52:56 +0100</pubDate>
+      
+      <guid>https://mover.tips/equipment/slider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bench</title>
       <link>https://mover.tips/equipment/bench/</link>
-      <pubDate>Tue, 15 Nov 2022 19:26:16 +0100</pubDate>
+      <pubDate>Sat, 19 Nov 2022 08:52:55 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/bench/</guid>
       <description></description>
@@ -37,7 +46,7 @@
     <item>
       <title>Wall</title>
       <link>https://mover.tips/equipment/wall/</link>
-      <pubDate>Tue, 15 Nov 2022 19:26:16 +0100</pubDate>
+      <pubDate>Sat, 19 Nov 2022 08:52:55 +0100</pubDate>
       
       <guid>https://mover.tips/equipment/wall/</guid>
       <description></description>

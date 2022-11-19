@@ -16,7 +16,7 @@ td p {
     flex-wrap: wrap;
 }
 .flex-child-pic {
-    width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
+    width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width e Excel-constante-SIZE_THUMBNAIL */
     /* top right bottom left */
     margin: 0px 20px 0px 0px;
     /*border: 2px solid yellow;*/
@@ -61,11 +61,11 @@ td.nameline-selected {
 
 .ex-pic {
   /* text-align: center; */
-  width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
+  width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width e Excel-constante-SIZE_THUMBNAIL */
 }
 
 .ex-name {
-  width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width */
+  width: 105px; /* Mesmo numero em 3 classes neste file (.flex-child-pic, .ex-pic, .ex-name) e no config.toml/Params/mover_pic_width e Excel-constante-SIZE_THUMBNAIL */
   /* height: 50px; */
   text-align: center;
 }
