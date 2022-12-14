@@ -2,6 +2,11 @@ h1  {font-size: 1.2rem; margin-top: 1rem;}
 h2  {font-size: 1.1rem; margin-top: 1rem; margin-bottom: 0.5rem; }
 h3  {font-size: 1.0rem; }
 p   {margin-top: 0.5rem;  margin-bottom: 0.5rem; }
+/*a { font-weight: normal; color: #e22d30; }*/
+.content a {
+	font-weight: normal;
+	color: #e22d30;
+}
 
 table {width: auto;}
 th {font-weight: normal;}

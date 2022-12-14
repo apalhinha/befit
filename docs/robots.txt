@@ -8,7 +8,7 @@ Disallow: /maintenance/extrafiles/
 
 # From https://gist.github.com/peterdalle/302303fb67c2bb73a9a09df78c59ba1d
 #User-agent: Twitterbot
-#Allow: /fakestatic/allimages
+#Allow: /images/allimages
 
 #User-agent: facebookexternalhit
-#Allow: /fakestatic/allimages
+#Allow: /images/allimages

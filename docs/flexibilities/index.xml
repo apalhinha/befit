@@ -8,18 +8,9 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Nov 2021 19:25:36 +0100</lastBuildDate><atom:link href="https://mover.tips/flexibilities/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Back</title>
-      <link>https://mover.tips/flexibilities/back/</link>
-      <pubDate>Sat, 19 Nov 2022 08:52:55 +0100</pubDate>
-      
-      <guid>https://mover.tips/flexibilities/back/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Harmstring</title>
       <link>https://mover.tips/flexibilities/harmstring/</link>
-      <pubDate>Sat, 19 Nov 2022 08:52:55 +0100</pubDate>
+      <pubDate>Wed, 14 Dec 2022 14:55:24 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/harmstring/</guid>
       <description></description>
@@ -28,27 +19,36 @@
     <item>
       <title>Hips</title>
       <link>https://mover.tips/flexibilities/hips/</link>
-      <pubDate>Sat, 19 Nov 2022 08:52:55 +0100</pubDate>
+      <pubDate>Wed, 14 Dec 2022 14:55:24 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/hips/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quads</title>
-      <link>https://mover.tips/flexibilities/quads/</link>
-      <pubDate>Sat, 19 Nov 2022 08:52:55 +0100</pubDate>
+      <title>Back</title>
+      <link>https://mover.tips/flexibilities/back/</link>
+      <pubDate>Wed, 14 Dec 2022 14:55:21 +0100</pubDate>
       
-      <guid>https://mover.tips/flexibilities/quads/</guid>
+      <guid>https://mover.tips/flexibilities/back/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calves</title>
       <link>https://mover.tips/flexibilities/calves/</link>
-      <pubDate>Sat, 19 Nov 2022 08:52:53 +0100</pubDate>
+      <pubDate>Wed, 14 Dec 2022 14:55:20 +0100</pubDate>
       
       <guid>https://mover.tips/flexibilities/calves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quads</title>
+      <link>https://mover.tips/flexibilities/quads/</link>
+      <pubDate>Wed, 14 Dec 2022 14:55:20 +0100</pubDate>
+      
+      <guid>https://mover.tips/flexibilities/quads/</guid>
       <description></description>
     </item>
     
